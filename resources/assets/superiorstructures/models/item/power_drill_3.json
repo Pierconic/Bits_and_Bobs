@@ -1,0 +1,32 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "superiorstructures:item/power_drill30p"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "superiorstructures:power_drill_3_charge": 1
+      },
+      "model": "superiorstructures:item/power_drill_3_0"
+    },
+    {
+      "predicate": {
+        "superiorstructures:power_drill_3_charge": 2
+      },
+      "model": "superiorstructures:item/power_drill_3_1"
+    },
+    {
+      "predicate": {
+        "superiorstructures:power_drill_3_charge": 3
+      },
+      "model": "superiorstructures:item/power_drill_3_2"
+    },
+    {
+      "predicate": {
+        "superiorstructures:power_drill_3_charge": 4
+      },
+      "model": "superiorstructures:item/power_drill_3_3"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "abc",
+    "dec",
+    "abc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:redstone"
+    },
+    "b": {
+      "item": "superiorstructures:broken_machinery"
+    },
+    "c": {
+      "item": "minecraft:copper_ingot"
+    },
+    "d": {
+      "item": "minecraft:dispenser"
+    },
+    "e": {
+      "item": "minecraft:bucket"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:plonker",
+    "count": 1
+  }
+}

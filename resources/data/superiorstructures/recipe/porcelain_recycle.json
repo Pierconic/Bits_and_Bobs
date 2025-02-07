@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "forge:tile_cuttable"
+  },
+  "result": {
+    "id": "superiorstructures:porcelain_tile",
+    "count": 8
+  }
+}

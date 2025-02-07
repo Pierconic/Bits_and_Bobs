@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "superiorstructures:copper_brush"
+    },
+    "title": {
+      "translate": "advancements.excavator.title"
+    },
+    "description": {
+      "translate": "advancements.excavator.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "excavator_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "superiorstructures:harry_pottery"
+}

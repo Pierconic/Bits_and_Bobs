@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/small_genblock_jungle",
+  "textures": {
+    "all": "superiorstructures:block/genblock_decor_jungle",
+    "particle": "superiorstructures:block/genblock_decor_jungle",
+    "0": "superiorstructures:block/genblock_decor_jungle"
+  },
+  "render_type": "solid"
+}

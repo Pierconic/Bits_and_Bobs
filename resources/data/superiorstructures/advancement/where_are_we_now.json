@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:recovery_compass"
+    },
+    "title": {
+      "translate": "advancements.where_are_we_now.title"
+    },
+    "description": {
+      "translate": "advancements.where_are_we_now.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "where_are_we_now_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "minecraft:end/find_end_city"
+}

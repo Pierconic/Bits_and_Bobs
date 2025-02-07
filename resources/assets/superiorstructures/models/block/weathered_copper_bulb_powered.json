@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "superiorstructures:block/weathered_copper_bulb_powered",
+    "particle": "superiorstructures:block/weathered_copper_bulb_powered"
+  },
+  "render_type": "cutout_mipped"
+}

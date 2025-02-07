@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "superiorstructures:block/polished_tuff_slab"
+    },
+    "type=top": {
+      "model": "superiorstructures:block/polished_tuff_slab_top"
+    },
+    "type=double": {
+      "model": "superiorstructures:block/polished_tuff_slab_full"
+    }
+  }
+}

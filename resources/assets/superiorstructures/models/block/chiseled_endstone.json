@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "superiorstructures:block/chiseledendstone",
+    "particle": "superiorstructures:block/chiseledendstone"
+  },
+  "render_type": "solid"
+}

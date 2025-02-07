@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "desert",
+  "features": "superiorstructures:pyramid",
+  "step": "surface_structures"
+}

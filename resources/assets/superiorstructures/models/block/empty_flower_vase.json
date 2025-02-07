@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/lonelyflowervase",
+  "textures": {
+    "all": "superiorstructures:block/flowervase_1",
+    "particle": "superiorstructures:block/porcelain_plain",
+    "0": "superiorstructures:block/flowervase_1"
+  },
+  "render_type": "cutout"
+}

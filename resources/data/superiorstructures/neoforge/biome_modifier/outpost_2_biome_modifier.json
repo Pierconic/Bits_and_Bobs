@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "forest",
+    "dark_forest",
+    "taiga"
+  ],
+  "features": "superiorstructures:outpost_2",
+  "step": "surface_structures"
+}

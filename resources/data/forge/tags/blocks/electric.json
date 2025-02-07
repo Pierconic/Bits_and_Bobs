@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:shocking_copper",
+    "superiorstructures:lightning_coil",
+    "superiorstructures:shocking_cut_copper",
+    "superiorstructures:shocking_chiseled_copper",
+    "superiorstructures:shocking_raw_copper",
+    "superiorstructures:shocking_copper_grate",
+    "superiorstructures:shocking_raw_iron",
+    "superiorstructures:shocking_iron_block",
+    "superiorstructures:electrified_copper_pipe"
+  ]
+}

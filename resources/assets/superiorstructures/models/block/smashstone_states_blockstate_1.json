@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "superiorstructures:block/smashstone_sensing",
+    "particle": "superiorstructures:block/smashstoneclosed"
+  },
+  "render_type": "solid"
+}

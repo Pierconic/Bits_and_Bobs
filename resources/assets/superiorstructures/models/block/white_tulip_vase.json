@@ -1,0 +1,10 @@
+{
+  "parent": "superiorstructures:custom/b-whitetulipvase",
+  "textures": {
+    "all": "superiorstructures:block/white_tulip",
+    "particle": "superiorstructures:block/porcelain_plain",
+    "0": "superiorstructures:block/flowervase_1",
+    "1": "superiorstructures:block/white_tulip"
+  },
+  "render_type": "cutout"
+}

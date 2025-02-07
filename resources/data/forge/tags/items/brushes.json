@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:copper_brush",
+    "superiorstructures:exposed_copper_brush",
+    "superiorstructures:weathered_copper_brush",
+    "superiorstructures:oxidized_copper_brush"
+  ]
+}

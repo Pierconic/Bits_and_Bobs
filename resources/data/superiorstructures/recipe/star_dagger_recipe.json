@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "daggers",
+  "category": "equipment",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:star_fragment"
+    },
+    "b": {
+      "item": "superiorstructures:tunerod_stem"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:star_dagger",
+    "count": 1
+  }
+}

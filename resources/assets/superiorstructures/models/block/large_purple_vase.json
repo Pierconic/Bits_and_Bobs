@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/c-largepurplevase",
+  "textures": {
+    "all": "superiorstructures:block/largepurplevase",
+    "particle": "superiorstructures:block/porcelainpurple",
+    "2": "superiorstructures:block/largepurplevase"
+  },
+  "render_type": "cutout"
+}

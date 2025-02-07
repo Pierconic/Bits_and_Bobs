@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "superiorstructures:item/franklin_trinket"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "superiorstructures:franklin_trinket_active": 1
+      },
+      "model": "superiorstructures:item/franklin_trinket_0"
+    }
+  ]
+}

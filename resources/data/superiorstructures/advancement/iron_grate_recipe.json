@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "iron_grate_recipe_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:raw_iron"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "superiorstructures:iron_grate_crafting",
+      "superiorstructures:iron_grate_cutting"
+    ]
+  },
+  "parent": "superiorstructures:harry_pottery"
+}

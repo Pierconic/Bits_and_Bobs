@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "superiorstructures:broken_machinery"
+    },
+    "title": {
+      "translate": "advancements.devious_machinations.title"
+    },
+    "description": {
+      "translate": "advancements.devious_machinations.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "devious_machinations_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "superiorstructures:harry_pottery"
+}

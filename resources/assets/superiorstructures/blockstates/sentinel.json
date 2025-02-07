@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "superiorstructures:block/sentinel"
+    },
+    "blockstate=1": {
+      "model": "superiorstructures:block/sentinel_blockstates_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "superiorstructures:block/sentinel_blockstates_blockstate_1"
+    },
+    "blockstate=3": {
+      "model": "superiorstructures:block/sentinel_blockstates_blockstate_2"
+    },
+    "blockstate=4": {
+      "model": "superiorstructures:block/sentinel_blockstates_blockstate_3"
+    }
+  }
+}

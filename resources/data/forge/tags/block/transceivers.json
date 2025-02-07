@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:transceiver",
+    "superiorstructures:transceiver_sending_off",
+    "superiorstructures:transceiver_sending_on",
+    "superiorstructures:transceiver_recieving_on"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:shocking_copper_1",
+    "superiorstructures:shocking_cut_copper_1",
+    "superiorstructures:shocking_copper_stairs_1",
+    "superiorstructures:shocking_copper_slab_1",
+    "superiorstructures:shocking_chiseled_copper_1",
+    "superiorstructures:shocking_copper_grate_1",
+    "superiorstructures:electrified_copper_trapdoor"
+  ]
+}

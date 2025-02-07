@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "mossy_tuff_bricks",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "superiorstructures:tuff_bricks"
+    },
+    {
+      "item": "minecraft:vine"
+    }
+  ],
+  "result": {
+    "id": "superiorstructures:mossy_tuff_bricks",
+    "count": 1
+  }
+}

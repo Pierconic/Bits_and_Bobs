@@ -1,0 +1,7 @@
+{
+  "type": "superiorstructures:igloo",
+  "config": {
+    "structure": "superiorstructures:igloo",
+    "ignored_blocks": "minecraft:air"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "superiorstructures:item/energy_blaster10p"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        -80,
+        -90,
+        -40
+      ],
+      "translation": [
+        0,
+        2,
+        2.5
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        -80,
+        90,
+        40
+      ],
+      "translation": [
+        0,
+        1.75,
+        1.25
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        25
+      ],
+      "translation": [
+        1.13,
+        3.2,
+        2.13
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        90,
+        -25
+      ],
+      "translation": [
+        1.13,
+        3.2,
+        2.13
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "superiorstructures:deactivated_energy_blaster_1_charge": 1
+      },
+      "model": "superiorstructures:item/deactivated_energy_blaster_1_0"
+    },
+    {
+      "predicate": {
+        "superiorstructures:deactivated_energy_blaster_1_charge": 2
+      },
+      "model": "superiorstructures:item/deactivated_energy_blaster_1_1"
+    },
+    {
+      "predicate": {
+        "superiorstructures:deactivated_energy_blaster_1_charge": 3
+      },
+      "model": "superiorstructures:item/deactivated_energy_blaster_1_2"
+    }
+  ]
+}

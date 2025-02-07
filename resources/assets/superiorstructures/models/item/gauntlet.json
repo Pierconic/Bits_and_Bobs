@@ -1,0 +1,92 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "superiorstructures:item/gauntlet_neutral_p0"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "superiorstructures:gauntlet_charge": 1,
+        "superiorstructures:gauntlet_gesture": 1
+      },
+      "model": "superiorstructures:item/gauntlet_0"
+    },
+    {
+      "predicate": {
+        "superiorstructures:gauntlet_charge": 2,
+        "superiorstructures:gauntlet_gesture": 1
+      },
+      "model": "superiorstructures:item/gauntlet_1"
+    },
+    {
+      "predicate": {
+        "superiorstructures:gauntlet_charge": 3,
+        "superiorstructures:gauntlet_gesture": 1
+      },
+      "model": "superiorstructures:item/gauntlet_2"
+    },
+    {
+      "predicate": {
+        "superiorstructures:gauntlet_charge": 1,
+        "superiorstructures:gauntlet_gesture": 2
+      },
+      "model": "superiorstructures:item/gauntlet_3"
+    },
+    {
+      "predicate": {
+        "superiorstructures:gauntlet_charge": 2,
+        "superiorstructures:gauntlet_gesture": 2
+      },
+      "model": "superiorstructures:item/gauntlet_4"
+    },
+    {
+      "predicate": {
+        "superiorstructures:gauntlet_charge": 3,
+        "superiorstructures:gauntlet_gesture": 2
+      },
+      "model": "superiorstructures:item/gauntlet_5"
+    },
+    {
+      "predicate": {
+        "superiorstructures:gauntlet_charge": 1,
+        "superiorstructures:gauntlet_gesture": 3
+      },
+      "model": "superiorstructures:item/gauntlet_6"
+    },
+    {
+      "predicate": {
+        "superiorstructures:gauntlet_charge": 2,
+        "superiorstructures:gauntlet_gesture": 3
+      },
+      "model": "superiorstructures:item/gauntlet_7"
+    },
+    {
+      "predicate": {
+        "superiorstructures:gauntlet_charge": 3,
+        "superiorstructures:gauntlet_gesture": 3
+      },
+      "model": "superiorstructures:item/gauntlet_8"
+    },
+    {
+      "predicate": {
+        "superiorstructures:gauntlet_charge": 1,
+        "superiorstructures:gauntlet_gesture": 4
+      },
+      "model": "superiorstructures:item/gauntlet_9"
+    },
+    {
+      "predicate": {
+        "superiorstructures:gauntlet_charge": 2,
+        "superiorstructures:gauntlet_gesture": 4
+      },
+      "model": "superiorstructures:item/gauntlet_10"
+    },
+    {
+      "predicate": {
+        "superiorstructures:gauntlet_charge": 3,
+        "superiorstructures:gauntlet_gesture": 4
+      },
+      "model": "superiorstructures:item/gauntlet_11"
+    }
+  ]
+}

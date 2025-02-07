@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "superiorstructures:block/snarling_carved_melon"
+    },
+    "facing=east": {
+      "model": "superiorstructures:block/snarling_carved_melon",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "superiorstructures:block/snarling_carved_melon",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "superiorstructures:block/snarling_carved_melon",
+      "y": 270
+    }
+  }
+}

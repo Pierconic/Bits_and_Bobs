@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:chain_ball",
+    "superiorstructures:chain_link",
+    "superiorstructures:detected_block",
+    "superiorstructures:energizer",
+    "superiorstructures:falling_smashstone",
+    "superiorstructures:fan_source",
+    "superiorstructures:flavor_node",
+    "superiorstructures:hollow",
+    "superiorstructures:mineshaft_center",
+    "superiorstructures:phase_orb",
+    "superiorstructures:pulse_field",
+    "superiorstructures:pulse_field_2",
+    "superiorstructures:specter",
+    "superiorstructures:thrown_chakram",
+    "superiorstructures:warp_ball",
+    "superiorstructures:warp_widget",
+    "superiorstructures:warpshot_ball",
+    "superiorstructures:spark_instigator"
+  ]
+}

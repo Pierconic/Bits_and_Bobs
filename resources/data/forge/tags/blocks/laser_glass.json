@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:glass_with_laser",
+    "superiorstructures:red_glass_with_laser",
+    "superiorstructures:orange_glass_with_laser",
+    "superiorstructures:yellow_glass_with_laser",
+    "superiorstructures:lime_glass_with_laser",
+    "superiorstructures:green_glass_with_laser",
+    "superiorstructures:cyan_glass_with_laser",
+    "superiorstructures:light_blue_glass_with_laser",
+    "superiorstructures:blue_glass_with_laser",
+    "superiorstructures:purple_glass_with_laser",
+    "superiorstructures:magenta_glass_with_laser",
+    "superiorstructures:pink_glass_with_laser",
+    "superiorstructures:brown_glass_with_laser",
+    "superiorstructures:light_gray_glass_with_laser",
+    "superiorstructures:gray_glass_with_laser",
+    "superiorstructures:black_glass_with_laser",
+    "superiorstructures:white_glass_with_laser"
+  ]
+}

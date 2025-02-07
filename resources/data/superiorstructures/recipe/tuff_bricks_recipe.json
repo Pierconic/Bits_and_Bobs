@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tuff_bricks",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:polished_tuff"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:tuff_bricks",
+    "count": 4
+  }
+}

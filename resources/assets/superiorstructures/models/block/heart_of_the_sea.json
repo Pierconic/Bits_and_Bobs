@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/heart_block",
+  "textures": {
+    "all": "superiorstructures:block/heart_of_the_sea_top",
+    "particle": "superiorstructures:block/heart_of_the_sea_top",
+    "0": "superiorstructures:block/heart_of_the_sea"
+  },
+  "render_type": "solid"
+}

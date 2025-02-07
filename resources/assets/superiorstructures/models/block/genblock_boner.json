@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/small_genblock_desert",
+  "textures": {
+    "all": "superiorstructures:block/genblock_decor_desert",
+    "particle": "superiorstructures:block/genblock_decor_desert",
+    "0": "superiorstructures:block/genblock_decor_desert"
+  },
+  "render_type": "solid"
+}

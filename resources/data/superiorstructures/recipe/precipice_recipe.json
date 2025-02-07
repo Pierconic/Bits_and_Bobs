@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "music_discs",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "abc",
+    "ccc"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:disc_fragment_creator"
+    },
+    "b": {
+      "item": "minecraft:wind_charge"
+    },
+    "c": {
+      "item": "superiorstructures:disc_fragment_creator_music_box"
+    }
+  },
+  "result": {
+    "id": "minecraft:music_disc_precipice",
+    "count": 1
+  }
+}

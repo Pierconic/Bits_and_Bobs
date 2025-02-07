@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:chiseled_endstone",
+    "superiorstructures:cracked_end_stone_bricks",
+    "superiorstructures:endorite_ore",
+    "superiorstructures:end_iron",
+    "superiorstructures:suspicious_endstone",
+    "superiorstructures:rotting_end_stone",
+    "minecraft:end_stone",
+    "minecraft:end_stone_bricks",
+    "minecraft:moss_block",
+    "minecraft:podzol",
+    "minecraft:mycelium",
+    "minecraft:grass_block",
+    "superiorstructures:suspicious_dirt",
+    "superiorstructures:ancient_suspicious_dirt",
+    "superiorstructures:grave_suspicious_dirt",
+    "superiorstructures:lush_suspicious_dirt",
+    "superiorstructures:town_suspicious_dirt",
+    "minecraft:dirt",
+    "minecraft:coarse_dirt",
+    "minecraft:rooted_dirt",
+    "superiorstructures:suspicious_sand",
+    "superiorstructures:pyramid_sand",
+    "minecraft:sand",
+    "minecraft:red_sand",
+    "superiorstructures:canticle",
+    "superiorstructures:blooming_canticle"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:startled_carved_pumpkin",
+    "superiorstructures:derpy_carved_pumpkin",
+    "superiorstructures:grinning_carved_pumpkin",
+    "superiorstructures:snarling_carved_pumpkin",
+    "superiorstructures:creepy_carved_pumpkin",
+    "superiorstructures:skeletal_carved_pumpkin",
+    "superiorstructures:heady_carved_pumpkin",
+    "superiorstructures:withering_carved_pumpkin",
+    "superiorstructures:shocking_carved_pumpkin",
+    "superiorstructures:watchful_carved_pumpkin",
+    "superiorstructures:crystalline_carved_pumpkin",
+    "minecraft:pumpkin",
+    "minecraft:carved_pumpkin",
+    "superiorstructures:starry_carved_pumpkin"
+  ]
+}

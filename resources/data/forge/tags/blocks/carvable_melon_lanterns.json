@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:melon_lantern",
+    "superiorstructures:spook_o_melon",
+    "superiorstructures:derp_o_melon",
+    "superiorstructures:smirk_o_melon",
+    "superiorstructures:sneer_o_melon",
+    "superiorstructures:creep_o_melon",
+    "superiorstructures:skull_o_melon",
+    "superiorstructures:head_o_melon",
+    "superiorstructures:doom_o_melon",
+    "superiorstructures:zap_o_melon",
+    "superiorstructures:chris_o_melon",
+    "superiorstructures:watch_o_melon",
+    "superiorstructures:cosmelon"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "music_disc_break",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:moog_in_space"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:disc_fragment_moog_space",
+    "count": 8
+  }
+}

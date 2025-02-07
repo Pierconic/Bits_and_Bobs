@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/a-smallbrownpot",
+  "textures": {
+    "all": "superiorstructures:block/smallbrownpot",
+    "particle": "superiorstructures:block/terracotta",
+    "1": "superiorstructures:block/smallbrownpot"
+  },
+  "render_type": "cutout"
+}

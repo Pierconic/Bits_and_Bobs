@@ -1,0 +1,8 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "item.superiorstructures.elegy.desc"
+  },
+  "length_in_seconds": 153,
+  "sound_event": "superiorstructures:disc.elegy"
+}

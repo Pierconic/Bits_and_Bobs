@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "a",
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:copper_pipe",
+    "count": 4
+  }
+}

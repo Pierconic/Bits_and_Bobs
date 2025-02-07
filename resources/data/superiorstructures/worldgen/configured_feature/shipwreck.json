@@ -1,0 +1,7 @@
+{
+  "type": "superiorstructures:shipwreck",
+  "config": {
+    "structure": "superiorstructures:shipwreck",
+    "ignored_blocks": "minecraft:air"
+  }
+}

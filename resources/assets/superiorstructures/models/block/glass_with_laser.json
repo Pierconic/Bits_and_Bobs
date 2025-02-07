@@ -1,0 +1,10 @@
+{
+  "parent": "superiorstructures:custom/glasswithlaser",
+  "textures": {
+    "all": "superiorstructures:block/glass",
+    "particle": "superiorstructures:block/glass",
+    "1": "superiorstructures:block/laserbeam1",
+    "3": "superiorstructures:block/glass"
+  },
+  "render_type": "cutout_mipped"
+}

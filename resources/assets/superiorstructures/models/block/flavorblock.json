@@ -1,0 +1,14 @@
+{
+  "parent": "superiorstructures:custom/flavor_block",
+  "textures": {
+    "all": "superiorstructures:block/flavor_block_front",
+    "particle": "superiorstructures:block/flavor_block_front",
+    "0": "superiorstructures:block/flavor_block_top",
+    "1": "superiorstructures:block/flavor_block_side",
+    "2": "superiorstructures:block/flavor_block_lense",
+    "3": "superiorstructures:block/flavor_block_front",
+    "4": "superiorstructures:block/flavor_block_bottom",
+    "5": "superiorstructures:block/flavor_block_back"
+  },
+  "render_type": "cutout_mipped"
+}

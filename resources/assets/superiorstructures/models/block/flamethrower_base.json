@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/flamebase",
+  "textures": {
+    "all": "superiorstructures:block/flamebase",
+    "particle": "superiorstructures:block/flamebase",
+    "missing": "superiorstructures:block/flamebase"
+  },
+  "render_type": "cutout_mipped"
+}

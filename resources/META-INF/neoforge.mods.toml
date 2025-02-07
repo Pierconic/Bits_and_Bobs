@@ -1,0 +1,50 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="superiorstructures"
+version="1.0.0"
+displayName="MDM's Bits and Bobs"
+displayURL="https://prcrichards.wixsite.com/portfolio"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+authors="Mindthemoods"
+description="Things, stuff, and misselaneous paraphernalia!"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.superiorstructures]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.65,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.superiorstructures]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.superiorstructures]]
+modId="geckolib"
+type="required"
+versionRange="[0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.superiorstructures]]
+modId="geckolib"
+type="optional"
+versionRange="[0,)"
+ordering="NONE"
+side="BOTH"
+
+
+[[mixins]]
+    config="mixins.superiorstructures.json"
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

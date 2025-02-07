@@ -1,0 +1,8 @@
+{
+  "comparator_output": 13,
+  "description": {
+    "translate": "item.superiorstructures.ballad_of_spiders.desc"
+  },
+  "length_in_seconds": 434,
+  "sound_event": "superiorstructures:ballad_of_the_spiders"
+}

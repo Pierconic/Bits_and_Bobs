@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:old_machinery"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:block_of_old_machinery",
+    "count": 1
+  }
+}

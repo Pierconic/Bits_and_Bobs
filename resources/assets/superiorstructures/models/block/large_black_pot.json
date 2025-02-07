@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/a-largeblackpot",
+  "textures": {
+    "all": "superiorstructures:block/largeblackpot",
+    "particle": "superiorstructures:block/terracotta",
+    "2": "superiorstructures:block/largeblackpot"
+  },
+  "render_type": "cutout"
+}

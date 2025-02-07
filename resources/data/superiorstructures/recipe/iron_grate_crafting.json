@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    " a ",
+    "a a",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:iron_grate",
+    "count": 4
+  }
+}

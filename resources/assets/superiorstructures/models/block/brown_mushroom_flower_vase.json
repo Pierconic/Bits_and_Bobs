@@ -1,0 +1,10 @@
+{
+  "parent": "superiorstructures:custom/b-brownmushroomvase",
+  "textures": {
+    "all": "superiorstructures:block/brown_mushroom",
+    "particle": "superiorstructures:block/porcelain_plain",
+    "0": "superiorstructures:block/flower_vase_mycelium",
+    "1": "superiorstructures:block/brown_mushroom"
+  },
+  "render_type": "cutout"
+}

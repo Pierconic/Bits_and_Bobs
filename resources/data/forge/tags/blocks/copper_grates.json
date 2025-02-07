@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:copper_grate",
+    "superiorstructures:exposed_copper_grate",
+    "superiorstructures:weathered_copper_grate",
+    "superiorstructures:oxidized_copper_grate",
+    "superiorstructures:waxed_copper_grate",
+    "superiorstructures:waxed_exposed_copper_grate",
+    "superiorstructures:waxed_weathered_copper_grate",
+    "superiorstructures:shocking_copper_grate_6",
+    "superiorstructures:shocking_copper_grate_5",
+    "superiorstructures:shocking_copper_grate_4",
+    "superiorstructures:shocking_copper_grate_3",
+    "superiorstructures:shocking_copper_grate_2",
+    "superiorstructures:shocking_copper_grate_1"
+  ]
+}

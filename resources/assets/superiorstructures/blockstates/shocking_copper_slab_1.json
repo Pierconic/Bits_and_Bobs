@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "superiorstructures:block/shocking_copper_slab_1"
+    },
+    "type=top": {
+      "model": "superiorstructures:block/shocking_copper_slab_1_top"
+    },
+    "type=double": {
+      "model": "superiorstructures:block/shocking_copper_slab_1_full"
+    }
+  }
+}

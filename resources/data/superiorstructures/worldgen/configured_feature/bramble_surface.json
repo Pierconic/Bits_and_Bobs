@@ -1,0 +1,7 @@
+{
+  "type": "superiorstructures:bramble_surface",
+  "config": {
+    "structure": "superiorstructures:void",
+    "ignored_blocks": "minecraft:air"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "geode_cutting",
+  "ingredient": {
+    "item": "superiorstructures:emerald_geode"
+  },
+  "result": {
+    "id": "minecraft:emerald",
+    "count": 7
+  }
+}

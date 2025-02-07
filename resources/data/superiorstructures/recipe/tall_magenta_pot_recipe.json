@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "magenta_pottery",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:magenta_ceramic_shard"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:tall_magenta_pot",
+    "count": 1
+  }
+}

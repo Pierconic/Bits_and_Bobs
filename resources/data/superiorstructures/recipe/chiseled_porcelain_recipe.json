@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "porcelain_blocks",
+  "ingredient": {
+    "item": "superiorstructures:porcelain_block"
+  },
+  "result": {
+    "id": "superiorstructures:chiseled_porcelain",
+    "count": 1
+  }
+}

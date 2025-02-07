@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "light_blue_vases",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:light_blue_dye"
+    },
+    {
+      "item": "superiorstructures:large_vase"
+    }
+  ],
+  "result": {
+    "id": "superiorstructures:large_light_blue_vase",
+    "count": 1
+  }
+}

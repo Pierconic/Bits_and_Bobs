@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/a-tallcyanpot",
+  "textures": {
+    "all": "superiorstructures:block/tallcyanpot",
+    "particle": "superiorstructures:block/terracotta",
+    "3": "superiorstructures:block/tallcyanpot"
+  },
+  "render_type": "cutout"
+}

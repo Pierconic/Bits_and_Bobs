@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/small_genblock_bastion",
+  "textures": {
+    "all": "superiorstructures:block/genblock_furnisher_bastion",
+    "particle": "superiorstructures:block/genblock_furnisher_bastion",
+    "1": "superiorstructures:block/genblock_furnisher_bastion"
+  },
+  "render_type": "solid"
+}

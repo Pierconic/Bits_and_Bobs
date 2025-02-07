@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:spectral_sword",
+    "superiorstructures:clone_wand",
+    "superiorstructures:void_wand",
+    "superiorstructures:fill_wand"
+  ]
+}

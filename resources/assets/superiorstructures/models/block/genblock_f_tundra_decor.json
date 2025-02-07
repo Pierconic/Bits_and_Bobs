@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/small_genblock_villageplain",
+  "textures": {
+    "all": "superiorstructures:block/genblock_decor_village_plain",
+    "particle": "superiorstructures:block/genblock_decor_village_plain",
+    "0": "superiorstructures:block/genblock_decor_village_plain"
+  },
+  "render_type": "solid"
+}

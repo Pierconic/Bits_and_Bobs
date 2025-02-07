@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "superiorstructures:block/blooming_canticle",
+    "particle": "superiorstructures:block/blooming_canticle"
+  },
+  "render_type": "solid"
+}

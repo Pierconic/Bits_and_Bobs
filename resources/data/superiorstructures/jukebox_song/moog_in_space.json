@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.superiorstructures.moog_in_space.desc"
+  },
+  "length_in_seconds": 279,
+  "sound_event": "superiorstructures:moog_in_space"
+}

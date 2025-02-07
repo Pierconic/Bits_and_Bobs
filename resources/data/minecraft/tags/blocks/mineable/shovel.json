@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:dormant_iconoclast",
+    "superiorstructures:iconoclast",
+    "superiorstructures:amnesoclast",
+    "superiorstructures:spiraling_sand",
+    "superiorstructures:singing_sand",
+    "superiorstructures:ticking_gravel",
+    "superiorstructures:pyramid_ticking_sand",
+    "superiorstructures:suspicious_ticking_sand",
+    "superiorstructures:town_ticking_dirt",
+    "superiorstructures:lush_ticking_dirt",
+    "superiorstructures:grave_ticking_dirt",
+    "superiorstructures:ancient_ticking_dirt",
+    "superiorstructures:suspicious_ticking_dirt",
+    "superiorstructures:sinking_sand",
+    "superiorstructures:suspicious_gravel",
+    "superiorstructures:pyramid_sand",
+    "superiorstructures:suspicious_sand",
+    "superiorstructures:town_suspicious_dirt",
+    "superiorstructures:lush_suspicious_dirt",
+    "superiorstructures:grave_suspicious_dirt",
+    "superiorstructures:ancient_suspicious_dirt",
+    "superiorstructures:suspicious_dirt",
+    "superiorstructures:deepslate_rubble",
+    "superiorstructures:nether_rubble",
+    "superiorstructures:blackstone_rubble",
+    "superiorstructures:stone_rubble"
+  ]
+}

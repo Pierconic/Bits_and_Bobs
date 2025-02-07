@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/brownmushroom3",
+  "textures": {
+    "all": "superiorstructures:block/brown_mushroom",
+    "particle": "superiorstructures:block/brown_mushroom",
+    "0": "superiorstructures:block/brownmushroom"
+  },
+  "render_type": "cutout"
+}

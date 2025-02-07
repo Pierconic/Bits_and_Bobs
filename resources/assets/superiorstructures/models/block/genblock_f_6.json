@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/genblockspreaderf",
+    "up": "superiorstructures:block/genblockspreaderf",
+    "north": "superiorstructures:block/genblocktemplatef2",
+    "east": "superiorstructures:block/f6",
+    "south": "superiorstructures:block/genblocktemplatef2",
+    "west": "superiorstructures:block/f6",
+    "particle": "superiorstructures:block/genblockspreaderf"
+  },
+  "render_type": "solid"
+}

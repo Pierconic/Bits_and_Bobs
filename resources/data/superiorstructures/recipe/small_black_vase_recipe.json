@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "black_vases",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:black_dye"
+    },
+    {
+      "item": "superiorstructures:small_vase"
+    }
+  ],
+  "result": {
+    "id": "superiorstructures:small_black_vase",
+    "count": 1
+  }
+}

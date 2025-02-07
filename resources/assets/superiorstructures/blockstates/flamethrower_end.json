@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "superiorstructures:block/flamethrower_end"
+    },
+    "facing=east": {
+      "model": "superiorstructures:block/flamethrower_end",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "superiorstructures:block/flamethrower_end",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "superiorstructures:block/flamethrower_end",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "superiorstructures:block/flamethrower_end",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "superiorstructures:block/flamethrower_end",
+      "x": 90
+    }
+  }
+}

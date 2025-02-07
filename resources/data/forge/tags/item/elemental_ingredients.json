@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:lightning_charge",
+    "superiorstructures:frost_charge",
+    "minecraft:fire_charge"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/a-tallwhitepot",
+  "textures": {
+    "all": "superiorstructures:block/tallwhitepot",
+    "particle": "superiorstructures:block/terracotta",
+    "3": "superiorstructures:block/tallwhitepot"
+  },
+  "render_type": "cutout"
+}

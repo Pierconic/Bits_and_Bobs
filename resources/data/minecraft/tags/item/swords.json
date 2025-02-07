@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:air_wand",
+    "superiorstructures:flavor_wand",
+    "superiorstructures:flood_wand",
+    "superiorstructures:spectral_sword",
+    "superiorstructures:clone_wand",
+    "superiorstructures:void_wand",
+    "superiorstructures:fill_wand"
+  ]
+}

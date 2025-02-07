@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/polished_deepslate",
+    "up": "superiorstructures:block/deactivatedjawstone",
+    "north": "superiorstructures:block/polished_deepslate",
+    "east": "superiorstructures:block/polished_deepslate",
+    "south": "superiorstructures:block/polished_deepslate",
+    "west": "superiorstructures:block/polished_deepslate",
+    "particle": "superiorstructures:block/polished_deepslate"
+  },
+  "render_type": "solid"
+}

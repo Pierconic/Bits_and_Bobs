@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/transceiverrecievingoff",
+  "textures": {
+    "all": "superiorstructures:block/transceiveroff",
+    "particle": "superiorstructures:block/copper_block",
+    "missing": "superiorstructures:block/transceiveroff"
+  },
+  "render_type": "solid"
+}

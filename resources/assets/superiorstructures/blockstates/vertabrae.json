@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "superiorstructures:block/vertabrae",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "superiorstructures:block/vertabrae"
+    },
+    "axis=z": {
+      "model": "superiorstructures:block/vertabrae",
+      "x": 90
+    }
+  }
+}

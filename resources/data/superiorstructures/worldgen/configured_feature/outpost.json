@@ -1,0 +1,7 @@
+{
+  "type": "superiorstructures:outpost",
+  "config": {
+    "structure": "superiorstructures:tower",
+    "ignored_blocks": "minecraft:air"
+  }
+}

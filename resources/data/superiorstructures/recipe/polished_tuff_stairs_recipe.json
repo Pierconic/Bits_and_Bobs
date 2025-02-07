@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "polished_tuff",
+  "category": "building",
+  "pattern": [
+    "  a",
+    " aa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:polished_tuff"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:polished_tuff_stairs",
+    "count": 4
+  }
+}

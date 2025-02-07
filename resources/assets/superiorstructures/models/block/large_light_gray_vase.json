@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/c-largelightgrayvase",
+  "textures": {
+    "all": "superiorstructures:block/largelightgrayvase",
+    "particle": "superiorstructures:block/porcelainlightgray",
+    "2": "superiorstructures:block/largelightgrayvase"
+  },
+  "render_type": "cutout"
+}

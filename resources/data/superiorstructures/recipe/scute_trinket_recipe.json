@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "trinkets",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:vessel_piece"
+    },
+    "b": {
+      "item": "minecraft:turtle_scute"
+    },
+    "c": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:scute_trinket",
+    "count": 1
+  }
+}

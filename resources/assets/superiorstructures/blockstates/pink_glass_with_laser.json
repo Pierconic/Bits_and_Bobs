@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "superiorstructures:block/pink_glass_with_laser"
+    },
+    "facing=east": {
+      "model": "superiorstructures:block/pink_glass_with_laser",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "superiorstructures:block/pink_glass_with_laser",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "superiorstructures:block/pink_glass_with_laser",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "superiorstructures:block/pink_glass_with_laser",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "superiorstructures:block/pink_glass_with_laser",
+      "x": 90
+    }
+  }
+}

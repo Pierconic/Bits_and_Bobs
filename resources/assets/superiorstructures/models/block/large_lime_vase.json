@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/c-largelimevase",
+  "textures": {
+    "all": "superiorstructures:block/largelimevase",
+    "particle": "superiorstructures:block/porcelainlime",
+    "2": "superiorstructures:block/largelimevase"
+  },
+  "render_type": "cutout"
+}

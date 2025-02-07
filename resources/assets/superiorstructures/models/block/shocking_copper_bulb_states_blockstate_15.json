@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "superiorstructures:block/copper_bulb_burnt",
+    "particle": "superiorstructures:block/copper_block"
+  },
+  "render_type": "solid"
+}

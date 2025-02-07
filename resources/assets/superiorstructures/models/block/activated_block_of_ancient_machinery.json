@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "superiorstructures:block/ancient_machinery_on",
+    "particle": "superiorstructures:block/ancient_machinery_on"
+  },
+  "render_type": "solid"
+}

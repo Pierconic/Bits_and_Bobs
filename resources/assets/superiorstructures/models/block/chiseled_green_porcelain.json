@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "superiorstructures:block/chiseled_porcelain_green",
+    "particle": "superiorstructures:block/porcelaingreen"
+  },
+  "render_type": "solid"
+}

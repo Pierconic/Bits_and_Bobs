@@ -1,0 +1,32 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "superiorstructures:item/bolt_blaster20p"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "superiorstructures:deactivated_bolt_blaster_2_charge": 1
+      },
+      "model": "superiorstructures:item/deactivated_bolt_blaster_2_0"
+    },
+    {
+      "predicate": {
+        "superiorstructures:deactivated_bolt_blaster_2_charge": 2
+      },
+      "model": "superiorstructures:item/deactivated_bolt_blaster_2_1"
+    },
+    {
+      "predicate": {
+        "superiorstructures:deactivated_bolt_blaster_2_charge": 3
+      },
+      "model": "superiorstructures:item/deactivated_bolt_blaster_2_2"
+    },
+    {
+      "predicate": {
+        "superiorstructures:deactivated_bolt_blaster_2_charge": 4
+      },
+      "model": "superiorstructures:item/deactivated_bolt_blaster_2_3"
+    }
+  ]
+}

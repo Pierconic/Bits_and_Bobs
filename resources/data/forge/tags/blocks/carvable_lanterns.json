@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:spook_o_lantern",
+    "superiorstructures:derp_o_lantern",
+    "superiorstructures:smirk_o_lantern",
+    "superiorstructures:sneer_o_lantern",
+    "superiorstructures:creep_o_lantern",
+    "superiorstructures:skull_o_lantern",
+    "superiorstructures:head_o_lantern",
+    "superiorstructures:doom_o_lantern",
+    "superiorstructures:zap_o_lantern",
+    "superiorstructures:chris_o_lantern",
+    "superiorstructures:watch_o_lantern",
+    "minecraft:jack_o_lantern",
+    "superiorstructures:celestial_gourd"
+  ]
+}

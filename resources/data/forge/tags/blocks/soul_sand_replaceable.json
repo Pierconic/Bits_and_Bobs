@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:suspicious_sand",
+    "superiorstructures:pyramid_sand",
+    "minecraft:sand",
+    "minecraft:red_sand",
+    "superiorstructures:suspicious_gravel",
+    "minecraft:gravel"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/c-smalllimevase",
+  "textures": {
+    "all": "superiorstructures:block/smalllimevase",
+    "particle": "superiorstructures:block/porcelainlime",
+    "1": "superiorstructures:block/smalllimevase"
+  },
+  "render_type": "cutout"
+}

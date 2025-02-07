@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "superiorstructures:star_fragment"
+    },
+    "title": {
+      "translate": "advancements.priorities.title"
+    },
+    "description": {
+      "translate": "advancements.priorities.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "priorities_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "superiorstructures:gourdgeous_carving"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/fan_model_3",
+  "textures": {
+    "all": "superiorstructures:block/fan_power_1",
+    "particle": "superiorstructures:block/plonkerback",
+    "2": "superiorstructures:block/fan_power_3"
+  },
+  "render_type": "cutout_mipped"
+}

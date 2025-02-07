@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/thorns2",
+  "textures": {
+    "all": "superiorstructures:block/brambleedge",
+    "particle": "superiorstructures:block/brambleedge",
+    "0": "superiorstructures:block/brambleedge"
+  },
+  "render_type": "cutout_mipped"
+}

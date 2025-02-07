@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aba",
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:dark_prismarine"
+    },
+    "b": {
+      "item": "minecraft:prismarine_crystals"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:prismarine_pillar",
+    "count": 4
+  }
+}

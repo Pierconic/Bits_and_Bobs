@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:phase_boots",
+    "superiorstructures:booster_3_unpowered_boots",
+    "superiorstructures:booster_3_boots",
+    "superiorstructures:booster_2_unpowered_boots",
+    "superiorstructures:booster_2_boots",
+    "superiorstructures:booster_unpowered_boots",
+    "superiorstructures:booster_boots"
+  ]
+}

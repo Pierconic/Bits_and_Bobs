@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "polished_tuff",
+  "ingredient": {
+    "item": "superiorstructures:polished_tuff"
+  },
+  "result": {
+    "id": "superiorstructures:polished_tuff_stairs",
+    "count": 1
+  }
+}

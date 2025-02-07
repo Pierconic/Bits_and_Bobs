@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "superiorstructures:franklin_trinket"
+    },
+    "title": {
+      "translate": "advancements.carpainter_folly.title"
+    },
+    "description": {
+      "translate": "advancements.carpainter_folly.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "carpainter_folly_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "minecraft:adventure/totem_of_undying"
+}

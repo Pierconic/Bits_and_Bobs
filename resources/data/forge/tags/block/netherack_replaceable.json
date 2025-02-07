@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:suspicious_dirt",
+    "superiorstructures:ancient_suspicious_dirt",
+    "superiorstructures:grave_suspicious_dirt",
+    "superiorstructures:lush_suspicious_dirt",
+    "superiorstructures:town_suspicious_dirt",
+    "minecraft:dirt",
+    "minecraft:coarse_dirt",
+    "minecraft:podzol",
+    "minecraft:rooted_dirt",
+    "minecraft:grass_block",
+    "minecraft:dirt_path",
+    "minecraft:mycelium"
+  ]
+}

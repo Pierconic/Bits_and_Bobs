@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "superiorstructures:blocks/electrified_copper_pipe",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "superiorstructures:electrified_copper_pipe"
+        }
+      ]
+    }
+  ]
+}

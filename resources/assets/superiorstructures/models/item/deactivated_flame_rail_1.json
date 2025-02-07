@@ -1,0 +1,114 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "superiorstructures:item/flame_rail10p"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        -90,
+        0,
+        -40
+      ],
+      "translation": [
+        -0.75,
+        0.5,
+        -3
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        -90,
+        0,
+        40
+      ],
+      "translation": [
+        0.75,
+        0.5,
+        -2.75
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        -80,
+        -10,
+        -20
+      ],
+      "translation": [
+        4,
+        0,
+        -0.75
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        -80,
+        10,
+        60
+      ],
+      "translation": [
+        2.5,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "superiorstructures:deactivated_flame_rail_1_charge": 1
+      },
+      "model": "superiorstructures:item/deactivated_flame_rail_1_0"
+    },
+    {
+      "predicate": {
+        "superiorstructures:deactivated_flame_rail_1_charge": 2
+      },
+      "model": "superiorstructures:item/deactivated_flame_rail_1_1"
+    },
+    {
+      "predicate": {
+        "superiorstructures:deactivated_flame_rail_1_charge": 3
+      },
+      "model": "superiorstructures:item/deactivated_flame_rail_1_2"
+    },
+    {
+      "predicate": {
+        "superiorstructures:deactivated_flame_rail_1_charge": 4
+      },
+      "model": "superiorstructures:item/deactivated_flame_rail_1_3"
+    },
+    {
+      "predicate": {
+        "superiorstructures:deactivated_flame_rail_1_charge": 5
+      },
+      "model": "superiorstructures:item/deactivated_flame_rail_1_4"
+    },
+    {
+      "predicate": {
+        "superiorstructures:deactivated_flame_rail_1_charge": 6
+      },
+      "model": "superiorstructures:item/deactivated_flame_rail_1_5"
+    }
+  ]
+}

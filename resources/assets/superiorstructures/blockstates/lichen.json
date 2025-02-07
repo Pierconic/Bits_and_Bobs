@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "superiorstructures:block/lichen"
+    },
+    "facing=east": {
+      "model": "superiorstructures:block/lichen",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "superiorstructures:block/lichen",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "superiorstructures:block/lichen",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "superiorstructures:block/lichen",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "superiorstructures:block/lichen",
+      "x": 90
+    }
+  }
+}

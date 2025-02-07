@@ -1,0 +1,32 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "superiorstructures:item/quartz_detector0p"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "superiorstructures:quartz_ore_detector_charge": 1
+      },
+      "model": "superiorstructures:item/quartz_ore_detector_0"
+    },
+    {
+      "predicate": {
+        "superiorstructures:quartz_ore_detector_charge": 2
+      },
+      "model": "superiorstructures:item/quartz_ore_detector_1"
+    },
+    {
+      "predicate": {
+        "superiorstructures:quartz_ore_detector_charge": 3
+      },
+      "model": "superiorstructures:item/quartz_ore_detector_2"
+    },
+    {
+      "predicate": {
+        "superiorstructures:quartz_ore_detector_charge": 4
+      },
+      "model": "superiorstructures:item/quartz_ore_detector_3"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/tune_block_side",
+    "up": "superiorstructures:block/tune_block_side",
+    "north": "superiorstructures:block/tune_block_front",
+    "east": "superiorstructures:block/tune_block-1.png",
+    "south": "superiorstructures:block/tune_block_side",
+    "west": "superiorstructures:block/tune_block-1.png",
+    "particle": "superiorstructures:block/tune_block_side"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "totems",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:bramble_block"
+    },
+    "b": {
+      "item": "superiorstructures:vessel_piece"
+    },
+    "c": {
+      "item": "minecraft:dragon_breath"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:totem_of_infliction",
+    "count": 1
+  }
+}

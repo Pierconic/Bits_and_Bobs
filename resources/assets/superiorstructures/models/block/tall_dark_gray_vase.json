@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/c-talldarkgrayvase",
+  "textures": {
+    "all": "superiorstructures:block/talldarkgrayvase",
+    "particle": "superiorstructures:block/porcelaindarkgray",
+    "3": "superiorstructures:block/talldarkgrayvase"
+  },
+  "render_type": "cutout"
+}

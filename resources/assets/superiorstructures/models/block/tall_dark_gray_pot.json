@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/a-talldarkgraypot",
+  "textures": {
+    "all": "superiorstructures:block/talldarkgraypot",
+    "particle": "superiorstructures:block/terracotta",
+    "3": "superiorstructures:block/talldarkgraypot"
+  },
+  "render_type": "cutout"
+}

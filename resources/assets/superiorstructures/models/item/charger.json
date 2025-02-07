@@ -1,0 +1,32 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "superiorstructures:item/charger_0"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "superiorstructures:charger_charge": 1
+      },
+      "model": "superiorstructures:item/charger_0"
+    },
+    {
+      "predicate": {
+        "superiorstructures:charger_charge": 2
+      },
+      "model": "superiorstructures:item/charger_1"
+    },
+    {
+      "predicate": {
+        "superiorstructures:charger_charge": 3
+      },
+      "model": "superiorstructures:item/charger_2"
+    },
+    {
+      "predicate": {
+        "superiorstructures:charger_charge": 4
+      },
+      "model": "superiorstructures:item/charger_3"
+    }
+  ]
+}

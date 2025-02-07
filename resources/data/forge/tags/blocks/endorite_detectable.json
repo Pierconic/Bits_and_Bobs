@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:endorite_ore",
+    "superiorstructures:endorite_block",
+    "superiorstructures:dissipating_endorite",
+    "superiorstructures:endorite_mesh",
+    "superiorstructures:fading_endorite_mesh",
+    "superiorstructures:phased_endorite_mesh",
+    "superiorstructures:endorite_core",
+    "superiorstructures:sensing_endorite_core",
+    "superiorstructures:transceiver_sending_off",
+    "superiorstructures:transceiver_sending_on",
+    "superiorstructures:enderporter_white",
+    "superiorstructures:enderporter_red",
+    "superiorstructures:enderporter_orange",
+    "superiorstructures:enderporter_yellow",
+    "superiorstructures:enderporter_lime",
+    "superiorstructures:enderporter_green",
+    "superiorstructures:enderporter_cyan",
+    "superiorstructures:enderporter_light_blue",
+    "superiorstructures:enderporter_blue",
+    "superiorstructures:enderporter_purple",
+    "superiorstructures:enderporter_magenta",
+    "superiorstructures:enderporter_pink",
+    "superiorstructures:enderporter_brown",
+    "superiorstructures:enderporter_light_gray",
+    "superiorstructures:enderporter_dark_gray",
+    "superiorstructures:enderporter_black",
+    "minecraft:ender_chest"
+  ]
+}

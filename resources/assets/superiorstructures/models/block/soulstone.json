@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/soulstonetop",
+    "up": "superiorstructures:block/soulstonetop",
+    "north": "superiorstructures:block/soulstoneside",
+    "east": "superiorstructures:block/soulstoneside",
+    "south": "superiorstructures:block/soulstoneside",
+    "west": "superiorstructures:block/soulstoneside",
+    "particle": "superiorstructures:block/soulstonetop"
+  },
+  "render_type": "solid"
+}

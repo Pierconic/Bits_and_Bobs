@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "superiorstructures:blocks/tunerod_stem",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "superiorstructures:tunerod_stem"
+        }
+      ]
+    }
+  ]
+}

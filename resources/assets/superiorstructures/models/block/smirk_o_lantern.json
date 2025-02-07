@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/pumpkin_top",
+    "up": "superiorstructures:block/pumpkin_top",
+    "north": "superiorstructures:block/grinning_jack_o_lantern",
+    "east": "superiorstructures:block/pumpkin_side",
+    "south": "superiorstructures:block/pumpkin_side",
+    "west": "superiorstructures:block/pumpkin_side",
+    "particle": "superiorstructures:block/pumpkin_top"
+  },
+  "render_type": "solid"
+}

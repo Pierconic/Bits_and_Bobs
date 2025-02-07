@@ -1,0 +1,7 @@
+{
+  "type": "superiorstructures:swamp_hut",
+  "config": {
+    "structure": "superiorstructures:witch_hut",
+    "ignored_blocks": "minecraft:air"
+  }
+}

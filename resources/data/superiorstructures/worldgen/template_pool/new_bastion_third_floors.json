@@ -1,0 +1,17 @@
+{
+  "name": "superiorstructures:new_bastion_third_floors",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "superiorstructures:bastion_panopticon_f3_1",
+        "projection": "rigid",
+        "processors": {
+          "processors": []
+        }
+      }
+    }
+  ]
+}

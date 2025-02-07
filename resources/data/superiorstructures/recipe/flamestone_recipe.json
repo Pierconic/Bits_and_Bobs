@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcd",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:nether_bricks"
+    },
+    "b": {
+      "item": "superiorstructures:gilded_machinery"
+    },
+    "c": {
+      "item": "minecraft:fire_charge"
+    },
+    "d": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:dormant_flamestone",
+    "count": 1
+  }
+}

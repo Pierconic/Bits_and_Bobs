@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "lime_pottery",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:lime_ceramic_shard"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:tall_lime_pot",
+    "count": 1
+  }
+}

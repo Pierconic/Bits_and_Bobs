@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "particle": "superiorstructures:block/golden_bars",
+    "edge": "minecraft:block/gold_block",
+    "pane": "superiorstructures:block/golden_bars"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "river",
+    "beach"
+  ],
+  "features": "superiorstructures:suspicious_sand_natural_gen",
+  "step": "surface_structures"
+}

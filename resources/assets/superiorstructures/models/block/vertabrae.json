@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/sculk_catalyst_bottom",
+    "up": "superiorstructures:block/sculk_catalyst_bottom",
+    "north": "superiorstructures:block/vertabrae",
+    "east": "superiorstructures:block/vertabrae",
+    "south": "superiorstructures:block/vertabrae",
+    "west": "superiorstructures:block/vertabrae",
+    "particle": "superiorstructures:block/sculk_catalyst_bottom"
+  },
+  "render_type": "solid"
+}

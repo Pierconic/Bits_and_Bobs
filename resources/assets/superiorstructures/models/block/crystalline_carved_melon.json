@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/melon_top",
+    "up": "superiorstructures:block/melon_top",
+    "north": "superiorstructures:block/crystalline_carved_melon",
+    "east": "superiorstructures:block/melon_side",
+    "south": "superiorstructures:block/melon_side",
+    "west": "superiorstructures:block/melon_side",
+    "particle": "superiorstructures:block/melon_top"
+  },
+  "render_type": "solid"
+}

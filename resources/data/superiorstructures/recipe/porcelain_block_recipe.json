@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "porcelain_blocks",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "a a",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:porcelain_tile"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:porcelain_block",
+    "count": 1
+  }
+}

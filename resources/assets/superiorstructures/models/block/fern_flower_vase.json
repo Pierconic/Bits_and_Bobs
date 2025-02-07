@@ -1,0 +1,10 @@
+{
+  "parent": "superiorstructures:custom/b-fernvase",
+  "textures": {
+    "all": "superiorstructures:block/fern",
+    "particle": "superiorstructures:block/porcelain_plain",
+    "2": "superiorstructures:block/flower_vase_podzol",
+    "5": "superiorstructures:block/fern"
+  },
+  "render_type": "cutout"
+}

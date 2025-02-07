@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:chiseled_endstone",
+    "superiorstructures:cracked_end_stone_bricks",
+    "superiorstructures:end_iron",
+    "superiorstructures:suspicious_endstone",
+    "superiorstructures:suspicious_city_endstone",
+    "minecraft:end_stone",
+    "minecraft:end_stone_bricks"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/smooth_stone",
+    "up": "superiorstructures:block/artificerytop",
+    "north": "superiorstructures:block/artificery_side_1",
+    "east": "superiorstructures:block/artificery_side_2",
+    "south": "superiorstructures:block/artificery_side_1",
+    "west": "superiorstructures:block/artificery_side_2",
+    "particle": "superiorstructures:block/smooth_stone"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/a-tallmagentapot",
+  "textures": {
+    "all": "superiorstructures:block/tallmagentapot",
+    "particle": "superiorstructures:block/terracotta",
+    "3": "superiorstructures:block/tallmagentapot"
+  },
+  "render_type": "cutout"
+}

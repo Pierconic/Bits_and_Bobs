@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "lush_caves",
+  "features": "superiorstructures:lush_lichen",
+  "step": "surface_structures"
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:glass"
+    },
+    "title": {
+      "translate": "advancements.smash_and_pass.title"
+    },
+    "description": {
+      "translate": "advancements.smash_and_pass.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "smash_and_pass_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "superiorstructures:ravager_in_a_china_shop"
+}

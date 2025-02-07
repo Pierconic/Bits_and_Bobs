@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "jungle",
+    "sparse_jungle",
+    "dark_forest",
+    "forest",
+    "old_growth_pine_taiga",
+    "old_growth_spruce_taiga"
+  ],
+  "features": "superiorstructures:poison_ivy_patch",
+  "step": "surface_structures"
+}

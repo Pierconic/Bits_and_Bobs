@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/a-smallbluepot",
+  "textures": {
+    "all": "superiorstructures:block/smallbluepot",
+    "particle": "superiorstructures:block/terracotta",
+    "1": "superiorstructures:block/smallbluepot"
+  },
+  "render_type": "cutout"
+}

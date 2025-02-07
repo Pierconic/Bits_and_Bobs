@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/c-tallyellowvase",
+  "textures": {
+    "all": "superiorstructures:block/tallyellowvase",
+    "particle": "superiorstructures:block/porcelainyellow",
+    "3": "superiorstructures:block/tallyellowvase"
+  },
+  "render_type": "cutout"
+}

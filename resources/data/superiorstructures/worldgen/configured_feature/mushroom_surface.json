@@ -1,0 +1,12 @@
+{
+  "type": "superiorstructures:mushroom_surface",
+  "config": {
+    "structure": "superiorstructures:void",
+    "ignored_blocks": "minecraft:air",
+    "offset": [
+      0,
+      2,
+      0
+    ]
+  }
+}

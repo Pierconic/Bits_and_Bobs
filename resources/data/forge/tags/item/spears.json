@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:copper_spear",
+    "superiorstructures:exposed_copper_spear",
+    "superiorstructures:weathered_copper_spear",
+    "superiorstructures:oxidized_copper_spear",
+    "superiorstructures:amethyst_spears",
+    "superiorstructures:lightning_spear",
+    "minecraft:trident"
+  ]
+}

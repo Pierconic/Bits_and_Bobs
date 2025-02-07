@@ -1,0 +1,12 @@
+{
+  "parent": "superiorstructures:custom/poison_pot_3",
+  "textures": {
+    "all": "superiorstructures:block/flower_pot",
+    "particle": "superiorstructures:block/flower_pot",
+    "1": "superiorstructures:block/suspiciousdirt",
+    "2": "superiorstructures:block/flower_pot",
+    "3": "superiorstructures:block/poisonivy",
+    "4": "superiorstructures:block/ivystems"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:sculk_sensor",
+    "minecraft:sculk",
+    "minecraft:sculk_catalyst",
+    "minecraft:sculk_shrieker",
+    "superiorstructures:warding_eyes",
+    "superiorstructures:burrowing_thorns",
+    "superiorstructures:spiteful_eye"
+  ]
+}

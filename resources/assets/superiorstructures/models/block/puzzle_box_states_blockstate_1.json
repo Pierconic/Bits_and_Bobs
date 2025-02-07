@@ -1,0 +1,16 @@
+{
+  "parent": "superiorstructures:custom/puzzle_box_2",
+  "textures": {
+    "all": "superiorstructures:block/sentinel_bottom",
+    "particle": "superiorstructures:block/puzzle_box_bottom_0",
+    "0": "superiorstructures:block/puzzle_box_front_2",
+    "1": "superiorstructures:block/puzzle_box_input",
+    "3": "superiorstructures:block/puzzle_box_left_0",
+    "4": "superiorstructures:block/puzzle_box_right_0",
+    "5": "superiorstructures:block/puzzle_box_top_0",
+    "6": "superiorstructures:block/puzzle_box_bottom_0",
+    "7": "superiorstructures:block/puzzle_box_back_0",
+    "8": "superiorstructures:block/puzzle_box_edges"
+  },
+  "render_type": "solid"
+}

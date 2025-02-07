@@ -1,0 +1,32 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "superiorstructures:item/power_saw20p"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "superiorstructures:power_saw_2_charge": 1
+      },
+      "model": "superiorstructures:item/power_saw_2_0"
+    },
+    {
+      "predicate": {
+        "superiorstructures:power_saw_2_charge": 2
+      },
+      "model": "superiorstructures:item/power_saw_2_1"
+    },
+    {
+      "predicate": {
+        "superiorstructures:power_saw_2_charge": 3
+      },
+      "model": "superiorstructures:item/power_saw_2_2"
+    },
+    {
+      "predicate": {
+        "superiorstructures:power_saw_2_charge": 4
+      },
+      "model": "superiorstructures:item/power_saw_2_3"
+    }
+  ]
+}

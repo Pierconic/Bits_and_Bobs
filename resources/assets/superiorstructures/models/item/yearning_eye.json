@@ -1,0 +1,362 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "superiorstructures:item/closed_eye"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 0,
+        "superiorstructures:yearning_eye_proximity": 1
+      },
+      "model": "superiorstructures:item/yearning_eye_0"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 1,
+        "superiorstructures:yearning_eye_proximity": 1
+      },
+      "model": "superiorstructures:item/yearning_eye_1"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 2,
+        "superiorstructures:yearning_eye_proximity": 1
+      },
+      "model": "superiorstructures:item/yearning_eye_2"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 3,
+        "superiorstructures:yearning_eye_proximity": 1
+      },
+      "model": "superiorstructures:item/yearning_eye_3"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 4,
+        "superiorstructures:yearning_eye_proximity": 1
+      },
+      "model": "superiorstructures:item/yearning_eye_4"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 5,
+        "superiorstructures:yearning_eye_proximity": 1
+      },
+      "model": "superiorstructures:item/yearning_eye_5"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 6,
+        "superiorstructures:yearning_eye_proximity": 1
+      },
+      "model": "superiorstructures:item/yearning_eye_6"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 7,
+        "superiorstructures:yearning_eye_proximity": 1
+      },
+      "model": "superiorstructures:item/yearning_eye_7"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 8,
+        "superiorstructures:yearning_eye_proximity": 1
+      },
+      "model": "superiorstructures:item/yearning_eye_8"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 9,
+        "superiorstructures:yearning_eye_proximity": 1
+      },
+      "model": "superiorstructures:item/yearning_eye_9"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 10,
+        "superiorstructures:yearning_eye_proximity": 1
+      },
+      "model": "superiorstructures:item/yearning_eye_10"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 11,
+        "superiorstructures:yearning_eye_proximity": 1
+      },
+      "model": "superiorstructures:item/yearning_eye_11"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 12,
+        "superiorstructures:yearning_eye_proximity": 1
+      },
+      "model": "superiorstructures:item/yearning_eye_12"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 13,
+        "superiorstructures:yearning_eye_proximity": 1
+      },
+      "model": "superiorstructures:item/yearning_eye_13"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 14,
+        "superiorstructures:yearning_eye_proximity": 1
+      },
+      "model": "superiorstructures:item/yearning_eye_14"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 15,
+        "superiorstructures:yearning_eye_proximity": 1
+      },
+      "model": "superiorstructures:item/yearning_eye_15"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 0,
+        "superiorstructures:yearning_eye_proximity": 2
+      },
+      "model": "superiorstructures:item/yearning_eye_16"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 1,
+        "superiorstructures:yearning_eye_proximity": 2
+      },
+      "model": "superiorstructures:item/yearning_eye_17"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 2,
+        "superiorstructures:yearning_eye_proximity": 2
+      },
+      "model": "superiorstructures:item/yearning_eye_18"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 3,
+        "superiorstructures:yearning_eye_proximity": 2
+      },
+      "model": "superiorstructures:item/yearning_eye_19"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 4,
+        "superiorstructures:yearning_eye_proximity": 2
+      },
+      "model": "superiorstructures:item/yearning_eye_20"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 5,
+        "superiorstructures:yearning_eye_proximity": 2
+      },
+      "model": "superiorstructures:item/yearning_eye_21"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 6,
+        "superiorstructures:yearning_eye_proximity": 2
+      },
+      "model": "superiorstructures:item/yearning_eye_22"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 7,
+        "superiorstructures:yearning_eye_proximity": 2
+      },
+      "model": "superiorstructures:item/yearning_eye_23"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 8,
+        "superiorstructures:yearning_eye_proximity": 2
+      },
+      "model": "superiorstructures:item/yearning_eye_24"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 9,
+        "superiorstructures:yearning_eye_proximity": 2
+      },
+      "model": "superiorstructures:item/yearning_eye_25"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 10,
+        "superiorstructures:yearning_eye_proximity": 2
+      },
+      "model": "superiorstructures:item/yearning_eye_26"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 11,
+        "superiorstructures:yearning_eye_proximity": 2
+      },
+      "model": "superiorstructures:item/yearning_eye_27"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 12,
+        "superiorstructures:yearning_eye_proximity": 2
+      },
+      "model": "superiorstructures:item/yearning_eye_28"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 13,
+        "superiorstructures:yearning_eye_proximity": 2
+      },
+      "model": "superiorstructures:item/yearning_eye_29"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 14,
+        "superiorstructures:yearning_eye_proximity": 2
+      },
+      "model": "superiorstructures:item/yearning_eye_30"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 15,
+        "superiorstructures:yearning_eye_proximity": 2
+      },
+      "model": "superiorstructures:item/yearning_eye_31"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 0,
+        "superiorstructures:yearning_eye_proximity": 3
+      },
+      "model": "superiorstructures:item/yearning_eye_32"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 1,
+        "superiorstructures:yearning_eye_proximity": 3
+      },
+      "model": "superiorstructures:item/yearning_eye_33"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 2,
+        "superiorstructures:yearning_eye_proximity": 3
+      },
+      "model": "superiorstructures:item/yearning_eye_34"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 3,
+        "superiorstructures:yearning_eye_proximity": 3
+      },
+      "model": "superiorstructures:item/yearning_eye_35"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 4,
+        "superiorstructures:yearning_eye_proximity": 3
+      },
+      "model": "superiorstructures:item/yearning_eye_36"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 5,
+        "superiorstructures:yearning_eye_proximity": 3
+      },
+      "model": "superiorstructures:item/yearning_eye_37"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 6,
+        "superiorstructures:yearning_eye_proximity": 3
+      },
+      "model": "superiorstructures:item/yearning_eye_38"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 7,
+        "superiorstructures:yearning_eye_proximity": 3
+      },
+      "model": "superiorstructures:item/yearning_eye_39"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 8,
+        "superiorstructures:yearning_eye_proximity": 3
+      },
+      "model": "superiorstructures:item/yearning_eye_40"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 9,
+        "superiorstructures:yearning_eye_proximity": 3
+      },
+      "model": "superiorstructures:item/yearning_eye_41"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 10,
+        "superiorstructures:yearning_eye_proximity": 3
+      },
+      "model": "superiorstructures:item/yearning_eye_42"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 11,
+        "superiorstructures:yearning_eye_proximity": 3
+      },
+      "model": "superiorstructures:item/yearning_eye_43"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 12,
+        "superiorstructures:yearning_eye_proximity": 3
+      },
+      "model": "superiorstructures:item/yearning_eye_44"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 13,
+        "superiorstructures:yearning_eye_proximity": 3
+      },
+      "model": "superiorstructures:item/yearning_eye_45"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 14,
+        "superiorstructures:yearning_eye_proximity": 3
+      },
+      "model": "superiorstructures:item/yearning_eye_46"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_direction": 15,
+        "superiorstructures:yearning_eye_proximity": 3
+      },
+      "model": "superiorstructures:item/yearning_eye_47"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_proximity": 4
+      },
+      "model": "superiorstructures:item/yearning_eye_48"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_proximity": 5
+      },
+      "model": "superiorstructures:item/yearning_eye_49"
+    },
+    {
+      "predicate": {
+        "superiorstructures:yearning_eye_proximity": 6
+      },
+      "model": "superiorstructures:item/yearning_eye_50"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "superiorstructures:displaysettings/tether.item",
+  "textures": {
+    "particle": "superiorstructures:block/tether"
+  }
+}

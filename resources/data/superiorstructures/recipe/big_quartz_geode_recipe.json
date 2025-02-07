@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "big_geodes",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:quartz"
+    },
+    "b": {
+      "item": "superiorstructures:big_geode"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:big_quartz_geode",
+    "count": 1
+  }
+}

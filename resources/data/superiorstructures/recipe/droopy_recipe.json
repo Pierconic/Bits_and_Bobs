@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "music_discs",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "superiorstructures:droopy_p_1"
+    },
+    {
+      "item": "superiorstructures:droopy_p_2"
+    }
+  ],
+  "result": {
+    "id": "superiorstructures:droopy",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "superiorstructures:blocks/block_of_broken_machinery",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "superiorstructures:broken_machinery",
+          "functions": [
+            {
+              "count": 9,
+              "function": "minecraft:set_count"
+            },
+            {
+              "function": "minecraft:explosion_decay"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

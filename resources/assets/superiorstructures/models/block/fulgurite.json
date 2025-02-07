@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/fulguriteside",
+    "up": "superiorstructures:block/fulguritetop",
+    "north": "superiorstructures:block/fulguriteside",
+    "east": "superiorstructures:block/fulguriteside",
+    "south": "superiorstructures:block/fulguriteside",
+    "west": "superiorstructures:block/fulguriteside",
+    "particle": "superiorstructures:block/fulguriteside"
+  },
+  "render_type": "solid"
+}

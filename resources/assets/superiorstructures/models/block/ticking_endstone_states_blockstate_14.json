@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/suse",
+  "textures": {
+    "all": "superiorstructures:block/suspicious_dirt3",
+    "particle": "superiorstructures:block/endstone_prog_1",
+    "missing": "superiorstructures:block/endstone_prog_5"
+  },
+  "render_type": "solid"
+}

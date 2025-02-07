@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/tunerod_largefronds",
+  "textures": {
+    "all": "superiorstructures:block/tuneroot",
+    "particle": "superiorstructures:block/tuneroot_particles",
+    "0": "superiorstructures:block/tunerod_animated"
+  },
+  "render_type": "cutout_mipped"
+}

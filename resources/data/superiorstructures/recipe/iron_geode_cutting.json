@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "geode_cutting",
+  "ingredient": {
+    "item": "superiorstructures:iron_geode"
+  },
+  "result": {
+    "id": "minecraft:raw_iron",
+    "count": 6
+  }
+}

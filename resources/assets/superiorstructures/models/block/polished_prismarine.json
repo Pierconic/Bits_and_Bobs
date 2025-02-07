@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/polishedprismarine",
+    "up": "superiorstructures:block/polishedprismarine",
+    "north": "superiorstructures:block/polishedprismarine",
+    "east": "superiorstructures:block/polishedprismarine",
+    "south": "superiorstructures:block/polishedprismarine",
+    "west": "superiorstructures:block/polishedprismarine",
+    "particle": "superiorstructures:block/polishedprismarine"
+  },
+  "render_type": "solid"
+}

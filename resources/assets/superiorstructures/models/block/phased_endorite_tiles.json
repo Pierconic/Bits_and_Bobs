@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "superiorstructures:block/endorite_tiles_faded",
+    "particle": "superiorstructures:block/endorite_tiles_faded"
+  },
+  "render_type": "translucent"
+}

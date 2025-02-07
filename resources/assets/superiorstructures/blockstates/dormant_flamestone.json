@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "superiorstructures:block/dormant_flamestone"
+    },
+    "facing=east": {
+      "model": "superiorstructures:block/dormant_flamestone",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "superiorstructures:block/dormant_flamestone",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "superiorstructures:block/dormant_flamestone",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "superiorstructures:block/dormant_flamestone",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "superiorstructures:block/dormant_flamestone",
+      "x": 90
+    }
+  }
+}

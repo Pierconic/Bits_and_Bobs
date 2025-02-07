@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:fake_iron",
+    "minecraft:iron_ore",
+    "minecraft:deepslate_iron_ore",
+    "minecraft:raw_iron_block",
+    "minecraft:iron_block",
+    "minecraft:iron_door",
+    "minecraft:iron_trapdoor",
+    "minecraft:iron_bars",
+    "minecraft:stonecutter",
+    "minecraft:hopper",
+    "minecraft:cauldron",
+    "minecraft:blast_furnace",
+    "minecraft:smithing_table",
+    "superiorstructures:block_of_old_machinery",
+    "superiorstructures:activated_block_of_old_machinery"
+  ]
+}

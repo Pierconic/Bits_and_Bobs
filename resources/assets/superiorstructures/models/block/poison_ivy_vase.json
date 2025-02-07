@@ -1,0 +1,11 @@
+{
+  "parent": "superiorstructures:custom/poisonflowervase",
+  "textures": {
+    "all": "superiorstructures:block/poisonivy",
+    "particle": "superiorstructures:block/porcelain_plain",
+    "1": "superiorstructures:block/poisonivy",
+    "2": "superiorstructures:block/flowervase_1",
+    "3": "superiorstructures:block/ivystems"
+  },
+  "render_type": "cutout"
+}

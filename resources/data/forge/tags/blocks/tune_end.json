@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:chiseled_endstone",
+    "superiorstructures:cracked_end_stone_bricks",
+    "superiorstructures:endorite_ore",
+    "superiorstructures:end_iron",
+    "superiorstructures:suspicious_endstone",
+    "superiorstructures:rotting_end_stone",
+    "minecraft:end_stone",
+    "minecraft:end_stone_bricks",
+    "minecraft:end_stone_brick_stairs",
+    "minecraft:end_stone_brick_slab",
+    "minecraft:end_stone_brick_wall"
+  ]
+}

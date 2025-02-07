@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/piping3",
+  "textures": {
+    "all": "superiorstructures:block/electrified_copper_piping",
+    "particle": "superiorstructures:block/copper_block",
+    "2": "superiorstructures:block/electrified_copper_piping"
+  },
+  "render_type": "solid"
+}

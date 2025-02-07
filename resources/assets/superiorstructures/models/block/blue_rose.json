@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "superiorstructures:block/blue_rose",
+    "particle": "superiorstructures:block/eye_1"
+  },
+  "render_type": "cutout_mipped"
+}

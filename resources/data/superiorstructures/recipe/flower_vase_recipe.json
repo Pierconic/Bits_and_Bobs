@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:porcelain_tile"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:empty_flower_vase",
+    "count": 1
+  }
+}

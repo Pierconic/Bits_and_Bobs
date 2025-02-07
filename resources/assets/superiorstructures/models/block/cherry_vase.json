@@ -1,0 +1,10 @@
+{
+  "parent": "superiorstructures:custom/b-cherryvase",
+  "textures": {
+    "all": "superiorstructures:block/cherry_sapling",
+    "particle": "superiorstructures:block/porcelain_plain",
+    "0": "superiorstructures:block/flower_vase_podzol",
+    "1": "superiorstructures:block/cherry_sapling"
+  },
+  "render_type": "cutout"
+}

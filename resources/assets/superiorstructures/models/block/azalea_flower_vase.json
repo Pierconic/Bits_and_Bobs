@@ -1,0 +1,13 @@
+{
+  "parent": "superiorstructures:custom/b-azaleavase",
+  "textures": {
+    "all": "superiorstructures:block/potted_azalea_bush_plant",
+    "particle": "superiorstructures:block/porcelain_plain",
+    "33": "superiorstructures:block/potted_azalea_bush_side",
+    "1": "superiorstructures:block/flowervase_1",
+    "34": "superiorstructures:block/potted_azalea_bush_top",
+    "38": "superiorstructures:block/potted_azalea_bush_side",
+    "32": "superiorstructures:block/potted_azalea_bush_plant"
+  },
+  "render_type": "cutout"
+}

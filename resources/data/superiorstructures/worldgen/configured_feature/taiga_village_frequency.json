@@ -1,0 +1,7 @@
+{
+  "type": "superiorstructures:taiga_village_frequency",
+  "config": {
+    "structure": "superiorstructures:village",
+    "ignored_blocks": "minecraft:air"
+  }
+}

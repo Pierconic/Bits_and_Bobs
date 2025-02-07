@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:power_cell",
+    "superiorstructures:power_core",
+    "superiorstructures:empty_power_cell"
+  ]
+}

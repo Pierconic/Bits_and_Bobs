@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "superiorstructures:block/copper_pipe"
+    },
+    "facing=east": {
+      "model": "superiorstructures:block/copper_pipe",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "superiorstructures:block/copper_pipe",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "superiorstructures:block/copper_pipe",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "superiorstructures:block/copper_pipe",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "superiorstructures:block/copper_pipe",
+      "x": 90
+    }
+  }
+}

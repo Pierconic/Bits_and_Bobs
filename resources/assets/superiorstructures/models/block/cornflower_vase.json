@@ -1,0 +1,10 @@
+{
+  "parent": "superiorstructures:custom/b-cornflowervase",
+  "textures": {
+    "all": "superiorstructures:block/cornflower",
+    "particle": "superiorstructures:block/porcelain_plain",
+    "0": "superiorstructures:block/flowervase_1",
+    "1": "superiorstructures:block/cornflower"
+  },
+  "render_type": "cutout"
+}

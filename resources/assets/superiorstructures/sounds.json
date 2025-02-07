@@ -1,0 +1,3508 @@
+{
+  "placepottery": {
+    "subtitle": "subtitles.placepottery",
+    "sounds": [
+      {
+        "name": "superiorstructures:placepottery1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:placepottery2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:placepottery3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:placepottery4",
+        "stream": false
+      }
+    ]
+  },
+  "hitpottery": {
+    "subtitle": "subtitles.hitpottery",
+    "sounds": [
+      {
+        "name": "superiorstructures:ceramichit1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:ceramichit2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:ceramichit3",
+        "stream": false
+      }
+    ]
+  },
+  "stepporcelain": {
+    "subtitle": "subtitles.stepporcelain",
+    "sounds": [
+      {
+        "name": "superiorstructures:porcelainstep1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:porcelainstep2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:porcelainstep3",
+        "stream": false
+      }
+    ]
+  },
+  "two": {
+    "sounds": [
+      {
+        "name": "superiorstructures:two",
+        "stream": true
+      }
+    ]
+  },
+  "breakporcelain": {
+    "subtitle": "subtitles.breakporcelain",
+    "sounds": [
+      {
+        "name": "superiorstructures:porcelainbreak1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:porcelainbreak2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:porcelainbreak3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:porcelainbreak4",
+        "stream": false
+      }
+    ]
+  },
+  "breakceramic": {
+    "subtitle": "subtitles.breakceramic",
+    "sounds": [
+      {
+        "name": "superiorstructures:ceramicbreak1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:ceramicbreak2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:ceramicbreak3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:ceramicbreak4",
+        "stream": false
+      }
+    ]
+  },
+  "moogcity": {
+    "sounds": [
+      {
+        "name": "superiorstructures:moog_city",
+        "stream": true
+      }
+    ]
+  },
+  "droopyp1": {
+    "sounds": [
+      {
+        "name": "superiorstructures:droopyp1",
+        "stream": true
+      }
+    ]
+  },
+  "droopyp2": {
+    "sounds": [
+      {
+        "name": "superiorstructures:droopyp2",
+        "stream": true
+      }
+    ]
+  },
+  "droopy": {
+    "sounds": [
+      {
+        "name": "superiorstructures:droopy",
+        "stream": true
+      }
+    ]
+  },
+  "kyoto": {
+    "sounds": [
+      {
+        "name": "superiorstructures:kyoto",
+        "stream": true
+      }
+    ]
+  },
+  "intro": {
+    "sounds": [
+      {
+        "name": "superiorstructures:intro",
+        "stream": true
+      }
+    ]
+  },
+  "placeporcelain": {
+    "subtitle": "subtitles.placeporcelain",
+    "sounds": [
+      {
+        "name": "superiorstructures:placeporcelain1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:placeporcelain2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:placeporcelain3",
+        "stream": false
+      }
+    ]
+  },
+  "disc2fragment": {
+    "sounds": [
+      {
+        "name": "superiorstructures:deathfragment1",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:deathfragment2",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:deathfragment3",
+        "stream": true
+      }
+    ]
+  },
+  "disc11fragment": {
+    "sounds": [
+      {
+        "name": "superiorstructures:11fragment1",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:11fragment2",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:11fragment3",
+        "stream": true
+      }
+    ]
+  },
+  "disc13fragment": {
+    "sounds": [
+      {
+        "name": "superiorstructures:13fragment1",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:13fragment2",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:13fragment3",
+        "stream": true
+      }
+    ]
+  },
+  "blocksfragment": {
+    "sounds": [
+      {
+        "name": "superiorstructures:blocksfragment1",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:blocksfragment2",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:blocksfragment3",
+        "stream": true
+      }
+    ]
+  },
+  "catfragment": {
+    "sounds": [
+      {
+        "name": "superiorstructures:catfragment1",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:catfragment2",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:catfragment3",
+        "stream": true
+      }
+    ]
+  },
+  "chirpfragment": {
+    "sounds": [
+      {
+        "name": "superiorstructures:chirpfragment1",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:chirpfragment2",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:chirpfragment3",
+        "stream": true
+      }
+    ]
+  },
+  "farfragment": {
+    "sounds": [
+      {
+        "name": "superiorstructures:farfragment1",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:farfragment2",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:farfragment3",
+        "stream": true
+      }
+    ]
+  },
+  "introfragment": {
+    "sounds": [
+      {
+        "name": "superiorstructures:introfragment1",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:introfragment2",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:introfragment3",
+        "stream": true
+      }
+    ]
+  },
+  "kyotofragment": {
+    "sounds": [
+      {
+        "name": "superiorstructures:kyotofragment1",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:kyotofragment2",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:kyotofragment3",
+        "stream": true
+      }
+    ]
+  },
+  "mallfragment": {
+    "sounds": [
+      {
+        "name": "superiorstructures:mallfragment1",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:mallfragment2",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:mallfragment3",
+        "stream": true
+      }
+    ]
+  },
+  "mellohifragment": {
+    "sounds": [
+      {
+        "name": "superiorstructures:mellohifragment1",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:mellohifragment2",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:mellohifragment3",
+        "stream": true
+      }
+    ]
+  },
+  "moogfragment": {
+    "sounds": [
+      {
+        "name": "superiorstructures:moogfragment1",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:moogfragment2",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:moogfragment3",
+        "stream": true
+      }
+    ]
+  },
+  "otherfragment": {
+    "sounds": [
+      {
+        "name": "superiorstructures:otherfragment1",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:otherfragment2",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:otherfragment3",
+        "stream": true
+      }
+    ]
+  },
+  "pigfragment": {
+    "sounds": [
+      {
+        "name": "superiorstructures:pigfragment1",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:pigfragment2",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:pigfragment3",
+        "stream": true
+      }
+    ]
+  },
+  "stalfragment": {
+    "sounds": [
+      {
+        "name": "superiorstructures:stalfragment1",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:stalfragment2",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:stalfragment3",
+        "stream": true
+      }
+    ]
+  },
+  "stradfragment": {
+    "sounds": [
+      {
+        "name": "superiorstructures:stradfragment1",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:stradfragment2",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:stradfragment3",
+        "stream": true
+      }
+    ]
+  },
+  "waitfragment": {
+    "sounds": [
+      {
+        "name": "superiorstructures:waitfragment1",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:waitfragment2",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:waitfragment3",
+        "stream": true
+      }
+    ]
+  },
+  "wardfragment": {
+    "sounds": [
+      {
+        "name": "superiorstructures:wardfragment1",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:wardfragment2",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:wardfragment3",
+        "stream": true
+      }
+    ]
+  },
+  "spear.throw": {
+    "subtitle": "subtitles.spear.throw",
+    "sounds": [
+      {
+        "name": "superiorstructures:spearthrow1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:spearthrow2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:spearthrow3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:spearthrow4",
+        "stream": false
+      }
+    ]
+  },
+  "spear.hit": {
+    "subtitle": "subtitles.spear.hit",
+    "sounds": [
+      {
+        "name": "superiorstructures:spearhit1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:spearhit2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:spearhit3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:spearhit4",
+        "stream": false
+      }
+    ]
+  },
+  "lightningcharge": {
+    "subtitle": "subtitles.lightningcharge",
+    "sounds": [
+      {
+        "name": "superiorstructures:lightningcharge1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:lightningcharge2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:lightningcharge3",
+        "stream": false
+      }
+    ]
+  },
+  "sweepdirt": {
+    "subtitle": "subtitles.sweepdirt",
+    "sounds": [
+      {
+        "name": "superiorstructures:sweepdirt1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:sweepdirt2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:sweepdirt3",
+        "stream": false
+      }
+    ]
+  },
+  "sweepnetherrack": {
+    "subtitle": "subtitles.sweepnetherrack",
+    "sounds": [
+      {
+        "name": "superiorstructures:sweepnetherrack1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:sweepnetherrack2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:sweepnetherrack3",
+        "stream": false
+      }
+    ]
+  },
+  "sweepdeepslate": {
+    "subtitle": "subtitles.sweepdeepslate",
+    "sounds": [
+      {
+        "name": "superiorstructures:sweepdeepslate1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:sweepdeepslate2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:sweepdeepslate3",
+        "stream": false
+      }
+    ]
+  },
+  "sweepgeneric": {
+    "subtitle": "subtitles.sweepgeneric",
+    "sounds": [
+      {
+        "name": "superiorstructures:sweep1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:sweep2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:sweep3",
+        "stream": false
+      }
+    ]
+  },
+  "machinechirps": {
+    "subtitle": "subtitles.machinechirps",
+    "sounds": [
+      {
+        "name": "superiorstructures:machinechirps",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:machinechirps2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:machinechirps3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:machinechirps4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:machinechirps5",
+        "stream": false
+      }
+    ]
+  },
+  "machinesenses": {
+    "subtitle": "subtitles.machinesenses",
+    "sounds": [
+      {
+        "name": "superiorstructures:machinesenses1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:machinesenses2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:machinesenses3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:machinesenses4",
+        "stream": false
+      }
+    ]
+  },
+  "blasterfire": {
+    "subtitle": "subtitles.blasterfire",
+    "sounds": [
+      {
+        "name": "superiorstructures:blaster1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:blaster2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:blaster3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:blaster4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:blaster5",
+        "stream": false
+      }
+    ]
+  },
+  "corepulse": {
+    "subtitle": "subtitles.corepulse",
+    "sounds": [
+      {
+        "name": "superiorstructures:pulse1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:pulse2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:pulse3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:pulse4",
+        "stream": false
+      }
+    ]
+  },
+  "coreactivate": {
+    "subtitle": "subtitles.coreactivate",
+    "sounds": [
+      {
+        "name": "superiorstructures:machinepowers",
+        "stream": false
+      }
+    ]
+  },
+  "coredeactivate": {
+    "subtitle": "subtitles.coredeactivate",
+    "sounds": [
+      {
+        "name": "superiorstructures:machinedepowers",
+        "stream": false
+      }
+    ]
+  },
+  "flameblasterfire": {
+    "subtitle": "subtitles.flameblasterfire",
+    "sounds": [
+      {
+        "name": "superiorstructures:flameblaster1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:flameblaster2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:flameblaster3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:flameblaster4",
+        "stream": false
+      }
+    ]
+  },
+  "frostblasterfire": {
+    "subtitle": "subtitles.frostblasterfire",
+    "sounds": [
+      {
+        "name": "superiorstructures:frostblaster1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:frostblaster2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:frostblaster3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:frostblaster4",
+        "stream": false
+      }
+    ]
+  },
+  "machineboosts": {
+    "subtitle": "subtitles.machineboosts",
+    "sounds": [
+      {
+        "name": "superiorstructures:machineboosts",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:machineboosts2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:machineboosts3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:machineboosts4",
+        "stream": false
+      }
+    ]
+  },
+  "energyrailfires": {
+    "subtitle": "subtitles.energyrailfires",
+    "sounds": [
+      {
+        "name": "superiorstructures:energyrail1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:energyrail2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:energyrail3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:energyrail4",
+        "stream": false
+      }
+    ]
+  },
+  "flamerailfires": {
+    "subtitle": "subtitles.flamerailfires",
+    "sounds": [
+      {
+        "name": "superiorstructures:flamerail1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:flamerail2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:flamerail3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:flamerail4",
+        "stream": false
+      }
+    ]
+  },
+  "frostrailfires": {
+    "subtitle": "subtitles.frostrailfires",
+    "sounds": [
+      {
+        "name": "superiorstructures:frostrail1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:frostrail2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:frostrail3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:frostrail4",
+        "stream": false
+      }
+    ]
+  },
+  "boltrailfires": {
+    "subtitle": "subtitles.boltrailfires",
+    "sounds": [
+      {
+        "name": "superiorstructures:zaprail1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:zaprail2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:zaprail3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:zaprail4",
+        "stream": false
+      }
+    ]
+  },
+  "artificeryselect": {
+    "subtitle": "subtitles.artificeryselect",
+    "sounds": [
+      {
+        "name": "superiorstructures:artifice1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:artifice2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:artifice3",
+        "stream": false
+      }
+    ]
+  },
+  "sweepstone": {
+    "subtitle": "subtitles.sweepstone",
+    "sounds": [
+      {
+        "name": "superiorstructures:stonesweepery1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:stonesweepery2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:stonesweepery3",
+        "stream": false
+      }
+    ]
+  },
+  "machinegrumbles": {
+    "subtitle": "subtitles.machinegrumbles",
+    "sounds": [
+      {
+        "name": "superiorstructures:machinegrumbles1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:machinegrumbles2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:machinegrumbles3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:machinegrumbles4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:machinegrumbles5",
+        "stream": false
+      }
+    ]
+  },
+  "machinesnarls": {
+    "subtitle": "subtitles.machinesnarls",
+    "sounds": [
+      {
+        "name": "superiorstructures:machinesnarls1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:machinesnarls2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:machinesnarls3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:machinesnarls4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:machinesnarls5",
+        "stream": false
+      }
+    ]
+  },
+  "coppergolemhurt": {
+    "subtitle": "subtitles.coppergolemhurt",
+    "sounds": [
+      {
+        "name": "superiorstructures:coppergolemhurt1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:coppergolemhurt2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:coppergolemhurt3",
+        "stream": false
+      }
+    ]
+  },
+  "coppergolemdies": {
+    "subtitle": "subtitles.coppergolemdies",
+    "sounds": [
+      {
+        "name": "superiorstructures:youmonster",
+        "stream": false
+      }
+    ]
+  },
+  "brokengolemdeath": {
+    "subtitle": "subtitles.brokengolemdeath",
+    "sounds": [
+      {
+        "name": "superiorstructures:brokengolemdeath",
+        "stream": false
+      }
+    ]
+  },
+  "conveyor": {
+    "subtitle": "subtitles.conveyor",
+    "sounds": [
+      {
+        "name": "superiorstructures:conveyor1",
+        "stream": false
+      }
+    ]
+  },
+  "brokenmachinerynoise": {
+    "subtitle": "subtitles.brokenmachinerynoise",
+    "sounds": [
+      {
+        "name": "superiorstructures:machinerymurmurs1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:machinerymurmurs2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:machinerymurmurs3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:machinerymurmurs4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:machinerymurmurs5",
+        "stream": false
+      }
+    ]
+  },
+  "machinerybeep": {
+    "subtitle": "subtitles.machinerybeep",
+    "sounds": [
+      {
+        "name": "superiorstructures:beep1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:beep2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:beep3",
+        "stream": false
+      }
+    ]
+  },
+  "railcharges": {
+    "subtitle": "subtitles.railcharges",
+    "sounds": [
+      {
+        "name": "superiorstructures:railcharge1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:railcharge2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:railcharge3",
+        "stream": false
+      }
+    ]
+  },
+  "spikeretract": {
+    "subtitle": "subtitles.spikeretract",
+    "sounds": [
+      {
+        "name": "superiorstructures:retract1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:retract2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:retract3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:retract4",
+        "stream": false
+      }
+    ]
+  },
+  "runecurse": {
+    "subtitle": "subtitles.runecurse",
+    "sounds": [
+      {
+        "name": "superiorstructures:curse1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:curse2",
+        "stream": false
+      }
+    ]
+  },
+  "smashring": {
+    "subtitle": "subtitles.smashring",
+    "sounds": [
+      {
+        "name": "superiorstructures:smashring1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:smashring2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:smashring3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:smashring4",
+        "stream": false
+      }
+    ]
+  },
+  "boltblasterfire": {
+    "subtitle": "subtitles.boltblasterfire",
+    "sounds": [
+      {
+        "name": "superiorstructures:zapblaster1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:zapblaster2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:zapblaster3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:zapblaster4",
+        "stream": false
+      }
+    ]
+  },
+  "laserhums": {
+    "subtitle": "subtitles.laserhums",
+    "sounds": [
+      {
+        "name": "superiorstructures:laserhum1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:laserhum2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:laserhum3",
+        "stream": false
+      }
+    ]
+  },
+  "laserhit": {
+    "subtitle": "subtitles.laserhit",
+    "sounds": [
+      {
+        "name": "superiorstructures:laserhit1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:laserhit2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:laserhit3",
+        "stream": false
+      }
+    ]
+  },
+  "endoritesense": {
+    "subtitle": "subtitles.endoritesense",
+    "sounds": [
+      {
+        "name": "superiorstructures:endorite.sense1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:endorite.sense2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:endorite.sense3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:endorite.sense4",
+        "stream": false
+      }
+    ]
+  },
+  "endoriteplace": {
+    "subtitle": "subtitles.endoriteplace",
+    "sounds": [
+      {
+        "name": "superiorstructures:endorite.place1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:endorite.place2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:endorite.place3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:endorite.place4",
+        "stream": false
+      }
+    ]
+  },
+  "endoritebreak": {
+    "subtitle": "subtitles.endoritebreak",
+    "sounds": [
+      {
+        "name": "superiorstructures:endorite.break1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:endorite.break2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:endorite.break3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:endorite.break4",
+        "stream": false
+      }
+    ]
+  },
+  "endoritephase": {
+    "subtitle": "subtitles.endoritephase",
+    "sounds": [
+      {
+        "name": "superiorstructures:endorite.phase1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:endorite.phase2",
+        "stream": false
+      }
+    ]
+  },
+  "randomteleport": {
+    "subtitle": "subtitles.randomteleport",
+    "sounds": [
+      {
+        "name": "superiorstructures:teleport.random1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:teleport.random2",
+        "stream": false
+      }
+    ]
+  },
+  "transponder.transmission.success": {
+    "subtitle": "subtitles.transponder.transmission.success",
+    "sounds": [
+      {
+        "name": "superiorstructures:transponder.transmission.success",
+        "stream": false
+      }
+    ]
+  },
+  "transponder.transmission.failure": {
+    "subtitle": "subtitles.transponder.transmission.failure",
+    "sounds": [
+      {
+        "name": "superiorstructures:transponder.transmission.failure",
+        "stream": false
+      }
+    ]
+  },
+  "transponder.transmission.on": {
+    "subtitle": "subtitles.transponder.transmission.on",
+    "sounds": [
+      {
+        "name": "superiorstructures:transponder.notification.on",
+        "stream": false
+      }
+    ]
+  },
+  "transponder.transmission.off": {
+    "subtitle": "subtitles.transponder.transmission.off",
+    "sounds": [
+      {
+        "name": "superiorstructures:transponder.notification.off",
+        "stream": false
+      }
+    ]
+  },
+  "sawbladewhir": {
+    "subtitle": "subtitles.sawbladewhir",
+    "sounds": [
+      {
+        "name": "superiorstructures:saw_6",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:saw_5",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:saw_4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:saw_3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:saw_2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:saw_1",
+        "stream": false
+      }
+    ]
+  },
+  "drillbitwhir": {
+    "subtitle": "subtitles.drillbitwhir",
+    "sounds": [
+      {
+        "name": "superiorstructures:drill_6",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:drill_5",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:drill_4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:drill_3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:drill_2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:drill_1",
+        "stream": false
+      }
+    ]
+  },
+  "silence": {
+    "sounds": [
+      {
+        "name": "superiorstructures:silence",
+        "stream": false
+      }
+    ]
+  },
+  "spikestab": {
+    "subtitle": "subtitles.spikestab",
+    "sounds": [
+      {
+        "name": "superiorstructures:spike_5",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:spike_4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:spike_3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:spike_2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:spike_1",
+        "stream": false
+      }
+    ]
+  },
+  "goldgolem.attack": {
+    "subtitle": "subtitles.goldgolem.attack",
+    "sounds": [
+      {
+        "name": "superiorstructures:goldgolem.fire.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:goldgolem.fire.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:goldgolem.fire.1",
+        "stream": false
+      }
+    ]
+  },
+  "goldgolem.smash": {
+    "subtitle": "subtitles.goldgolem.smash",
+    "sounds": [
+      {
+        "name": "superiorstructures:goldgolem.smash.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:goldgolem.smash.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:goldgolem.smash.1",
+        "stream": false
+      }
+    ]
+  },
+  "goldgolem.step": {
+    "subtitle": "subtitles.goldgolem.step",
+    "sounds": [
+      {
+        "name": "superiorstructures:goldgolem.step.test",
+        "stream": false
+      }
+    ]
+  },
+  "goldgolem.hit": {
+    "subtitle": "subtitles.goldgolem.hit",
+    "sounds": [
+      {
+        "name": "superiorstructures:goldgolem.hit.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:goldgolem.hit.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:goldgolem.hit.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:goldgolem.hit.1",
+        "stream": false
+      }
+    ]
+  },
+  "goldgolem.ambient": {
+    "subtitle": "subtitles.goldgolem.ambient",
+    "sounds": [
+      {
+        "name": "superiorstructures:goldgolem.ambient.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:goldgolem.ambient.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:goldgolem.ambient.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:goldgolem.ambient.1",
+        "stream": false
+      }
+    ]
+  },
+  "goldgolem.death": {
+    "subtitle": "subtitles.goldgolem.death",
+    "sounds": [
+      {
+        "name": "superiorstructures:goldgolem.death",
+        "stream": false
+      }
+    ]
+  },
+  "plonker.plonk": {
+    "subtitle": "subtitles.plonker.plonk",
+    "sounds": [
+      {
+        "name": "superiorstructures:plonker.plonk",
+        "stream": false
+      }
+    ]
+  },
+  "plonker.open": {
+    "subtitle": "subtitles.plonker.open",
+    "sounds": [
+      {
+        "name": "superiorstructures:plonker.open",
+        "stream": false
+      }
+    ]
+  },
+  "plonker.close": {
+    "subtitle": "subtitles.plonker.close",
+    "sounds": [
+      {
+        "name": "superiorstructures:plonker.close",
+        "stream": false
+      }
+    ]
+  },
+  "muncher.grind": {
+    "subtitle": "subtitles.muncher.grind",
+    "sounds": [
+      {
+        "name": "superiorstructures:gears4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:gears3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:gears2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:gears1",
+        "stream": false
+      }
+    ]
+  },
+  "smashstone.smash": {
+    "subtitle": "subtitles.smashstone.smash",
+    "sounds": [
+      {
+        "name": "superiorstructures:smash5",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:smash4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:smash3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:smash2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:smash1",
+        "stream": false
+      }
+    ]
+  },
+  "relicfragment": {
+    "sounds": [
+      {
+        "name": "superiorstructures:relicfragment3",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:relicfragment2",
+        "stream": true
+      },
+      {
+        "name": "superiorstructures:relicfragment1",
+        "stream": true
+      }
+    ]
+  },
+  "hookshot.miss": {
+    "subtitle": "subtitles.hookshot.miss",
+    "sounds": [
+      {
+        "name": "superiorstructures:hookshot.miss",
+        "stream": false
+      }
+    ]
+  },
+  "hookshot.hit": {
+    "subtitle": "subtitles.hookshot.hit",
+    "sounds": [
+      {
+        "name": "superiorstructures:hookshot.hit.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:hookshot.hit.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:hookshot.hit.1",
+        "stream": false
+      }
+    ]
+  },
+  "hookshot.launch": {
+    "subtitle": "subtitles.hookshot.launch",
+    "sounds": [
+      {
+        "name": "superiorstructures:hookshot.launch.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:hookshot.launch.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:hookshot.launch.1",
+        "stream": false
+      }
+    ]
+  },
+  "hookshot.click": {
+    "subtitle": "subtitles.hookshot.click",
+    "sounds": [
+      {
+        "name": "superiorstructures:chain.clink.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:chain.clink.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:chain.clink.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:chain.clink.1",
+        "stream": false
+      }
+    ]
+  },
+  "warpshot.launch": {
+    "subtitle": "subtitles.warpshot.launch",
+    "sounds": [
+      {
+        "name": "superiorstructures:warp.launch.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:warp.launch.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:warp.launch.1",
+        "stream": false
+      }
+    ]
+  },
+  "warpshot.click": {
+    "subtitle": "subtitles.warpshot.click",
+    "sounds": [
+      {
+        "name": "superiorstructures:warp.clink.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:warp.clink.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:warp.clink.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:warp.clink.1",
+        "stream": false
+      }
+    ]
+  },
+  "fan.blow.1": {
+    "subtitle": "subtitles.fan.blow.1",
+    "sounds": [
+      {
+        "name": "superiorstructures:fan.woosh.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:fan.woosh.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:fan.woosh.1",
+        "stream": false
+      }
+    ]
+  },
+  "fan.blow.2": {
+    "subtitle": "subtitles.fan.blow.2",
+    "sounds": [
+      {
+        "name": "superiorstructures:fan.woosh.6",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:fan.woosh.5",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:fan.woosh.4",
+        "stream": false
+      }
+    ]
+  },
+  "fan.blow.3": {
+    "subtitle": "subtitles.fan.blow.3",
+    "sounds": [
+      {
+        "name": "superiorstructures:fan.woosh.9",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:fan.woosh.8",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:fan.woosh.7",
+        "stream": false
+      }
+    ]
+  },
+  "propeller.woosh.1": {
+    "subtitle": "subtitles.propeller.woosh.1",
+    "sounds": [
+      {
+        "name": "superiorstructures:propeller.woosh.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:propeller.woosh.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:propeller.woosh.1",
+        "stream": false
+      }
+    ]
+  },
+  "propeller.woosh.2": {
+    "subtitle": "subtitles.propeller.woosh.2",
+    "sounds": [
+      {
+        "name": "superiorstructures:propeller.woosh.6",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:propeller.woosh.5",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:propeller.woosh.4",
+        "stream": false
+      }
+    ]
+  },
+  "propeller.woosh.3": {
+    "subtitle": "subtitles.propeller.woosh.3",
+    "sounds": [
+      {
+        "name": "superiorstructures:propeller.woosh.9",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:propeller.woosh.8",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:propeller.woosh.7",
+        "stream": false
+      }
+    ]
+  },
+  "boosted_jump": {
+    "sounds": [
+      {
+        "name": "superiorstructures:jump",
+        "stream": false
+      }
+    ]
+  },
+  "trinket.clink": {
+    "subtitle": "subtitles.trinket.clink",
+    "sounds": [
+      {
+        "name": "superiorstructures:trinket_4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:trinket_3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:trinket_2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:trinket_1",
+        "stream": false
+      }
+    ]
+  },
+  "block.tuff_bricks.step": {
+    "subtitle": "subtitles.block.tuff_bricks.step",
+    "sounds": [
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_tuff_bricks_step6",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_tuff_bricks_step5",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_tuff_bricks_step4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_tuff_bricks_step3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_tuff_bricks_step2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_tuff_bricks_step1",
+        "stream": false
+      }
+    ]
+  },
+  "block.tuff_bricks.place": {
+    "subtitle": "subtitles.block.tuff_bricks.place",
+    "sounds": [
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_tuff_bricks_place5",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_tuff_bricks_place4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_tuff_bricks_place3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_tuff_bricks_place2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_tuff_bricks_place1",
+        "stream": false
+      }
+    ]
+  },
+  "block.copper_bulb.place": {
+    "subtitle": "subtitles.block.copper_bulb.place",
+    "sounds": [
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_copper_bulb_place4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_copper_bulb_place3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_copper_bulb_place2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_copper_bulb_place1",
+        "stream": false
+      }
+    ]
+  },
+  "block.copper_bulb.break": {
+    "subtitle": "subtitles.block.copper_bulb.break",
+    "sounds": [
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_copper_bulb_break4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_copper_bulb_break3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_copper_bulb_break2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_copper_bulb_break1",
+        "stream": false
+      }
+    ]
+  },
+  "block.copper_bulb.step": {
+    "subtitle": "subtitles.block.copper_bulb.step",
+    "sounds": [
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_copper_bulb_step6",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_copper_bulb_step5",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_copper_bulb_step4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_copper_bulb_step3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_copper_bulb_step2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_copper_bulb_step1",
+        "stream": false
+      }
+    ]
+  },
+  "copper_bulb_activate": {
+    "subtitle": "subtitles.copper_bulb_activate",
+    "sounds": [
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_copper_bulb_turn_on",
+        "stream": false
+      }
+    ]
+  },
+  "copper_bulb_deactivate": {
+    "subtitle": "subtitles.copper_bulb_deactivate",
+    "sounds": [
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_copper_bulb_turn_off",
+        "stream": false
+      }
+    ]
+  },
+  "block.copper_grate.break": {
+    "subtitle": "subtitles.block.copper_grate.break",
+    "sounds": [
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_copper_grate_break4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_copper_grate_break3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_copper_grate_break2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_copper_grate_break1",
+        "stream": false
+      }
+    ]
+  },
+  "block.copper_grate.step": {
+    "subtitle": "subtitles.block.copper_grate.step",
+    "sounds": [
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_copper_grate_step6",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_copper_grate_step5",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_copper_grate_step4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_copper_grate_step3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_copper_grate_step2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:assets_minecraft_sounds_block_copper_grate_step1",
+        "stream": false
+      }
+    ]
+  },
+  "membrane.power": {
+    "subtitle": "subtitles.membrane.power",
+    "sounds": [
+      {
+        "name": "superiorstructures:power",
+        "stream": false
+      }
+    ]
+  },
+  "membrane.depower": {
+    "subtitle": "subtitles.membrane.depower",
+    "sounds": [
+      {
+        "name": "superiorstructures:depower",
+        "stream": false
+      }
+    ]
+  },
+  "membrane.pulse": {
+    "subtitle": "subtitles.membrane.pulse",
+    "sounds": [
+      {
+        "name": "superiorstructures:pulse",
+        "stream": false
+      }
+    ]
+  },
+  "cell.charge": {
+    "subtitle": "subtitles.cell.charge",
+    "sounds": [
+      {
+        "name": "superiorstructures:charge",
+        "stream": false
+      }
+    ]
+  },
+  "moog_in_space": {
+    "sounds": [
+      {
+        "name": "superiorstructures:moog_in_space",
+        "stream": true
+      }
+    ]
+  },
+  "diamond": {
+    "sounds": [
+      {
+        "name": "superiorstructures:diamond",
+        "stream": true
+      }
+    ]
+  },
+  "minecraft": {
+    "sounds": [
+      {
+        "name": "superiorstructures:minecraft",
+        "stream": true
+      }
+    ]
+  },
+  "ballad_of_the_spiders": {
+    "sounds": [
+      {
+        "name": "superiorstructures:ballad_of_the_spiders",
+        "stream": true
+      }
+    ]
+  },
+  "lasersings": {
+    "subtitle": "subtitles.lasersings",
+    "sounds": [
+      {
+        "name": "superiorstructures:lasers.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:lasers.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:lasers.1",
+        "stream": false
+      }
+    ]
+  },
+  "adamant.step": {
+    "subtitle": "subtitles.adamant.step",
+    "sounds": [
+      {
+        "name": "superiorstructures:adamant.step5",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:adamant.step4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:adamant.step3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:adamant.step2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:adamant.step1",
+        "stream": false
+      }
+    ]
+  },
+  "adamant.break": {
+    "subtitle": "subtitles.adamant.break",
+    "sounds": [
+      {
+        "name": "superiorstructures:adamant.break4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:adamant.break3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:adamant.break2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:adamant.break1",
+        "stream": false
+      }
+    ]
+  },
+  "adamant.place": {
+    "subtitle": "subtitles.adamant.place",
+    "sounds": [
+      {
+        "name": "superiorstructures:adamant.place4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:adamant.place3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:adamant.place2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:adamant.place",
+        "stream": false
+      }
+    ]
+  },
+  "adamant.hit": {
+    "subtitle": "subtitles.adamant.hit",
+    "sounds": [
+      {
+        "name": "superiorstructures:adamant.hit.6",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:adamant.hit.5",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:adamant.hit.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:adamant.hit.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:adamant.hit.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:adamant.hit.1",
+        "stream": false
+      }
+    ]
+  },
+  "ascension": {
+    "subtitle": "subtitles.ascension",
+    "sounds": [
+      {
+        "name": "superiorstructures:ascend.10",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:ascend.9",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:ascend.8",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:ascend.7",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:ascend.6",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:ascend.5",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:ascend.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:ascend.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:ascend.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:ascend.1",
+        "stream": false
+      }
+    ]
+  },
+  "ether.freeze": {
+    "subtitle": "subtitles.ether.freeze",
+    "sounds": [
+      {
+        "name": "superiorstructures:ether.freeze.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:ether.freeze.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:ether.freeze.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:ether.freeze.1",
+        "stream": false
+      }
+    ]
+  },
+  "ether.solidify": {
+    "subtitle": "subtitles.ether.solidify",
+    "sounds": [
+      {
+        "name": "superiorstructures:ether.solidify.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:ether.solidify.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:ether.solidify.1",
+        "stream": false
+      }
+    ]
+  },
+  "chakram.bounce": {
+    "subtitle": "subtitles.chakram.bounce",
+    "sounds": [
+      {
+        "name": "superiorstructures:chakram.bounce.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:chakram.bounce.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:chakram.bounce.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:chakram.bounce.1",
+        "stream": false
+      }
+    ]
+  },
+  "chakram.hit": {
+    "subtitle": "subtitles.chakram.hit",
+    "sounds": [
+      {
+        "name": "superiorstructures:chakram.hit.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:chakram.hit.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:chakram.hit.1",
+        "stream": false
+      }
+    ]
+  },
+  "chakram.woosh": {
+    "subtitle": "subtitles.chakram.woosh",
+    "sounds": [
+      {
+        "name": "superiorstructures:chakram.whoosh",
+        "stream": false
+      }
+    ]
+  },
+  "chakram.throw": {
+    "subtitle": "subtitles.chakram.throw",
+    "sounds": [
+      {
+        "name": "superiorstructures:chakram.throw",
+        "stream": false
+      }
+    ]
+  },
+  "tune.flute": {
+    "subtitle": "subtitles.tune.flute",
+    "sounds": [
+      {
+        "name": "superiorstructures:note.flute",
+        "stream": true
+      }
+    ]
+  },
+  "tune.bamboo": {
+    "subtitle": "subtitles.tune.bamboo",
+    "sounds": [
+      {
+        "name": "superiorstructures:tune.bamboo",
+        "stream": true
+      }
+    ]
+  },
+  "tune.adamant": {
+    "subtitle": "subtitles.tune.adamant",
+    "sounds": [
+      {
+        "name": "superiorstructures:tune.adamant",
+        "stream": true
+      }
+    ]
+  },
+  "tune.obsidian": {
+    "subtitle": "subtitles.tune.obsidian",
+    "sounds": [
+      {
+        "name": "superiorstructures:tune.obsidian",
+        "stream": true
+      }
+    ]
+  },
+  "tune.copper": {
+    "subtitle": "subtitles.tune.copper",
+    "sounds": [
+      {
+        "name": "superiorstructures:tune.copper",
+        "stream": true
+      }
+    ]
+  },
+  "tune.iron": {
+    "subtitle": "subtitles.tune.iron",
+    "sounds": [
+      {
+        "name": "superiorstructures:tune.iron",
+        "stream": true
+      }
+    ]
+  },
+  "tune.gold": {
+    "subtitle": "subtitles.tune.gold",
+    "sounds": [
+      {
+        "name": "superiorstructures:tune.gold",
+        "stream": true
+      }
+    ]
+  },
+  "tune.lapis": {
+    "subtitle": "subtitles.tune.lapis",
+    "sounds": [
+      {
+        "name": "superiorstructures:tune.lapis",
+        "stream": true
+      }
+    ]
+  },
+  "tune.amethyst": {
+    "subtitle": "subtitles.tune.amethyst",
+    "sounds": [
+      {
+        "name": "superiorstructures:tune.amethyst",
+        "stream": true
+      }
+    ]
+  },
+  "tune.emerald": {
+    "subtitle": "subtitles.tune.emerald",
+    "sounds": [
+      {
+        "name": "superiorstructures:tune.emerald",
+        "stream": true
+      }
+    ]
+  },
+  "tune.magma": {
+    "subtitle": "subtitles.tune.magma",
+    "sounds": [
+      {
+        "name": "superiorstructures:tune.magma",
+        "stream": true
+      }
+    ]
+  },
+  "tune.deepslate": {
+    "subtitle": "subtitles.tune.deepslate",
+    "sounds": [
+      {
+        "name": "superiorstructures:tune.deepslate",
+        "stream": true
+      }
+    ]
+  },
+  "tune.stone": {
+    "subtitle": "subtitles.tune.stone",
+    "sounds": [
+      {
+        "name": "superiorstructures:tune.stone",
+        "stream": true
+      }
+    ]
+  },
+  "tune.terracotta": {
+    "subtitle": "subtitles.tune.terracotta",
+    "sounds": [
+      {
+        "name": "superiorstructures:tune.terracotta",
+        "stream": true
+      }
+    ]
+  },
+  "tune.glazed_terracotta": {
+    "subtitle": "subtitles.tune.glazed_terracotta",
+    "sounds": [
+      {
+        "name": "superiorstructures:tune.glazed",
+        "stream": true
+      }
+    ]
+  },
+  "tune.end": {
+    "subtitle": "subtitles.tune.end",
+    "sounds": [
+      {
+        "name": "superiorstructures:tune.end",
+        "stream": true
+      }
+    ]
+  },
+  "tune.ice": {
+    "subtitle": "subtitles.tune.ice",
+    "sounds": [
+      {
+        "name": "superiorstructures:tune.ice",
+        "stream": true
+      }
+    ]
+  },
+  "tune.dark_prism": {
+    "subtitle": "subtitles.tune.dark_prism",
+    "sounds": [
+      {
+        "name": "superiorstructures:tune.dark_prism",
+        "stream": true
+      }
+    ]
+  },
+  "tune.wood": {
+    "subtitle": "subtitles.tune.wood",
+    "sounds": [
+      {
+        "name": "superiorstructures:tune.wood",
+        "stream": true
+      }
+    ]
+  },
+  "tune.ghost": {
+    "subtitle": "subtitles.tune.ghost",
+    "sounds": [
+      {
+        "name": "superiorstructures:tune.ghost",
+        "stream": true
+      }
+    ]
+  },
+  "tune.prism": {
+    "subtitle": "subtitles.tune.prism",
+    "sounds": [
+      {
+        "name": "superiorstructures:tune.prism",
+        "stream": true
+      }
+    ]
+  },
+  "tune.netherite": {
+    "subtitle": "subtitles.tune.netherite",
+    "sounds": [
+      {
+        "name": "superiorstructures:tune.netherite",
+        "stream": true
+      }
+    ]
+  },
+  "blaster.fire.phase": {
+    "subtitle": "subtitles.blaster.fire.phase",
+    "sounds": [
+      {
+        "name": "superiorstructures:blaster.fire.phase3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:blaster.fire.phase2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:blaster.fire.phase1",
+        "stream": false
+      }
+    ]
+  },
+  "sentinel.open": {
+    "subtitle": "subtitles.sentinel.open",
+    "sounds": [
+      {
+        "name": "superiorstructures:sentinel.open.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:sentinel.open.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:sentinel.open.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:sentinel.open.1",
+        "stream": false
+      }
+    ]
+  },
+  "sentinel.close": {
+    "subtitle": "subtitles.sentinel.close",
+    "sounds": [
+      {
+        "name": "superiorstructures:sentinel.close",
+        "stream": false
+      }
+    ]
+  },
+  "ancient_core.activate": {
+    "subtitle": "subtitles.ancient_core.activate",
+    "sounds": [
+      {
+        "name": "superiorstructures:old_core_activate",
+        "stream": false
+      }
+    ]
+  },
+  "lydian.emerge": {
+    "subtitle": "subtitles.lydian.emerge",
+    "sounds": [
+      {
+        "name": "superiorstructures:lydian.emerge3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:lydian.emerge2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:lydian.emerge1",
+        "stream": false
+      }
+    ]
+  },
+  "lydian.retract": {
+    "subtitle": "subtitles.lydian.retract",
+    "sounds": [
+      {
+        "name": "superiorstructures:lydian.retract3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:lydian.retract2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:lydian.retract1",
+        "stream": false
+      }
+    ]
+  },
+  "lydian.tunnel": {
+    "subtitle": "subtitles.lydian.tunnel",
+    "sounds": [
+      {
+        "name": "superiorstructures:lydian.tunnel4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:lydian.tunnel3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:lydian.tunnel2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:lydian.tunnel1",
+        "stream": false
+      }
+    ]
+  },
+  "disc.elegy": {
+    "subtitle": "subtitles.disc.elegy",
+    "sounds": [
+      {
+        "name": "superiorstructures:elegy",
+        "stream": true
+      }
+    ]
+  },
+  "wrench.triggers": {
+    "subtitle": "subtitles.wrench.triggers",
+    "sounds": [
+      {
+        "name": "superiorstructures:wrench.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:wrench.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:wrench.1",
+        "stream": false
+      }
+    ]
+  },
+  "gesture.chosen": {
+    "subtitle": "subtitles.gesture.chosen",
+    "sounds": [
+      {
+        "name": "superiorstructures:gesture.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:gesture.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:gesture.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:gesture.1",
+        "stream": false
+      }
+    ]
+  },
+  "essence.empty": {
+    "subtitle": "subtitles.essence.empty",
+    "sounds": [
+      {
+        "name": "superiorstructures:essence.empty.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:essence.empty.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:essence.empty.1",
+        "stream": false
+      }
+    ]
+  },
+  "essence.bubble": {
+    "subtitle": "subtitles.essence.bubble",
+    "sounds": [
+      {
+        "name": "superiorstructures:essence.bubble.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:essence.bubble.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:essence.bubble.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:essence.bubble.1",
+        "stream": false
+      }
+    ]
+  },
+  "essence.plume": {
+    "subtitle": "subtitles.essence.plume",
+    "sounds": [
+      {
+        "name": "superiorstructures:essence.plume.5",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:essence.plume.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:essence.plume.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:essence.plume.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:essence.plume.1",
+        "stream": false
+      }
+    ]
+  },
+  "eleven_repaired": {
+    "subtitle": "subtitles.eleven_repaired",
+    "sounds": [
+      {
+        "name": "superiorstructures:eleven_repaired",
+        "stream": true
+      }
+    ]
+  },
+  "yearning_eye.far": {
+    "subtitle": "subtitles.yearning_eye.far",
+    "sounds": [
+      {
+        "name": "superiorstructures:eye.far.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:eye.far.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:eye.far.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:eye.far.1",
+        "stream": false
+      }
+    ]
+  },
+  "yearning_eye.closer": {
+    "subtitle": "subtitles.yearning_eye.closer",
+    "sounds": [
+      {
+        "name": "superiorstructures:eye.closer.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:eye.closer.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:eye.closer.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:eye.closer.1",
+        "stream": false
+      }
+    ]
+  },
+  "yearning_eye.near": {
+    "subtitle": "subtitles.yearning_eye.near",
+    "sounds": [
+      {
+        "name": "superiorstructures:eye.near.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:eye.near.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:eye.near.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:eye.near.1",
+        "stream": false
+      }
+    ]
+  },
+  "eye.charge": {
+    "subtitle": "subtitles.eye.charge",
+    "sounds": [
+      {
+        "name": "superiorstructures:eye.charge",
+        "stream": false
+      }
+    ]
+  },
+  "hollow.screech": {
+    "subtitle": "subtitles.hollow.screech",
+    "sounds": [
+      {
+        "name": "superiorstructures:hollow.screech.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:hollow.screech.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:hollow.screech.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:hollow.screech.1",
+        "stream": false
+      }
+    ]
+  },
+  "hollow.heartbeat": {
+    "subtitle": "subtitles.hollow.heartbeat",
+    "sounds": [
+      {
+        "name": "superiorstructures:hollow.heartbeat",
+        "stream": false
+      }
+    ]
+  },
+  "hollow.hurt": {
+    "subtitle": "subtitles.hollow.hurt",
+    "sounds": [
+      {
+        "name": "superiorstructures:hollow.hurt.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:hollow.hurt.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:hollow.hurt.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:hollow.hurt.1",
+        "stream": false
+      }
+    ]
+  },
+  "hollow.step": {
+    "subtitle": "subtitles.hollow.step",
+    "sounds": [
+      {
+        "name": "superiorstructures:hollow.step.5",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:hollow.step.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:hollow.step.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:hollow.step.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:hollow.step.1",
+        "stream": false
+      }
+    ]
+  },
+  "hollow.death": {
+    "subtitle": "subtitles.hollow.death",
+    "sounds": [
+      {
+        "name": "superiorstructures:hollow.death.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:hollow.death.1",
+        "stream": false
+      }
+    ]
+  },
+  "sculk.manifest": {
+    "subtitle": "subtitles.sculk.manifest",
+    "sounds": [
+      {
+        "name": "superiorstructures:sculk.manifest.5",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:sculk.manifest.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:sculk.manifest.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:sculk.manifest.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:sculk.manifest.1",
+        "stream": false
+      }
+    ]
+  },
+  "sculk.stab": {
+    "subtitle": "subtitles.sculk.stab",
+    "sounds": [
+      {
+        "name": "superiorstructures:sculk.stab.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:sculk.stab.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:sculk.stab.1",
+        "stream": false
+      }
+    ]
+  },
+  "blue_rose.manifest": {
+    "subtitle": "subtitles.blue_rose.manifest",
+    "sounds": [
+      {
+        "name": "superiorstructures:blue_rose_manifest",
+        "stream": false
+      }
+    ]
+  },
+  "singing_sand.place": {
+    "subtitle": "subtitles.singing_sand.place",
+    "sounds": [
+      {
+        "name": "superiorstructures:sining_sand_place_1",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:singing_sand_place_5",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:singing_sand_place_4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:singing_sand_place_3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:singing_sand_place_2",
+        "stream": false
+      }
+    ]
+  },
+  "particle.electrical_spark": {
+    "subtitle": "subtitles.particle.electrical_spark",
+    "sounds": [
+      {
+        "name": "superiorstructures:electric_spark.13",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:electric_spark.12",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:electric_spark.11",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:electric_spark.10",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:electric_spark.9",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:electric_spark.8",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:electric_spark.7",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:electric_spark.6",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:electric_spark.5",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:electric_spark.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:electric_spark.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:electric_spark.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:electric_spark.1",
+        "stream": false
+      }
+    ]
+  },
+  "coil_activate": {
+    "subtitle": "subtitles.coil_activate",
+    "sounds": [
+      {
+        "name": "superiorstructures:coil_power.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:coil_power.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:coil_power.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:coil_power.1",
+        "stream": false
+      }
+    ]
+  },
+  "block.copper_bulb.burst": {
+    "subtitle": "subtitles.block.copper_bulb.burst",
+    "sounds": [
+      {
+        "name": "superiorstructures:steam_burst",
+        "stream": false
+      }
+    ]
+  },
+  "exp.leech.small": {
+    "subtitle": "subtitles.exp.leech.small",
+    "sounds": [
+      {
+        "name": "superiorstructures:level.leech.6",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:level.leech.5",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:level.leech.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:level.leech.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:level.leech.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:level.leech.1",
+        "stream": false
+      }
+    ]
+  },
+  "exp.leech.medium": {
+    "subtitle": "subtitles.exp.leech.medium",
+    "sounds": [
+      {
+        "name": "superiorstructures:second_level.leech.6",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:second_level.leech.5",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:second_level.leech.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:second_level.leech.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:second_level.leech.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:second_level.leech.1",
+        "stream": false
+      }
+    ]
+  },
+  "exp.leech.large": {
+    "subtitle": "subtitles.exp.leech.large",
+    "sounds": [
+      {
+        "name": "superiorstructures:third_level.leech.6",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:third_level.leech.5",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:third_level.leech.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:third_level.leech.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:third_level.leech.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:third_level.leech.1",
+        "stream": false
+      }
+    ]
+  },
+  "exp.leech.final": {
+    "subtitle": "subtitles.exp.leech.final",
+    "sounds": [
+      {
+        "name": "superiorstructures:final_level.leech.6",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:final_level.leech.5",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:final_level.leech.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:final_level.leech.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:final_level.leech.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:final_level.leech.1",
+        "stream": false
+      }
+    ]
+  },
+  "core.charge": {
+    "subtitle": "subtitles.core.charge",
+    "sounds": [
+      {
+        "name": "superiorstructures:core_charge.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:core_charge.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:core_charge.1",
+        "stream": false
+      }
+    ]
+  },
+  "core.charge_5": {
+    "subtitle": "subtitles.core.charge_5",
+    "sounds": [
+      {
+        "name": "superiorstructures:core_charge_5.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:core_charge_5.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:core_charge_5.1",
+        "stream": false
+      }
+    ]
+  },
+  "core.charge_x": {
+    "subtitle": "subtitles.core.charge_x",
+    "sounds": [
+      {
+        "name": "superiorstructures:core_fill.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:core_fill.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:core_fill.1",
+        "stream": false
+      }
+    ]
+  },
+  "block.amnesoclast.step": {
+    "subtitle": "subtitles.block.amnesoclast.step",
+    "sounds": [
+      {
+        "name": "superiorstructures:amnesoclast.footstep.5",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:amnesoclast.footstep.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:amnesoclast.footstep.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:amnesoclast.footstep.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:amnesoclast.footstep.1",
+        "stream": false
+      }
+    ]
+  },
+  "iconoclast.twist": {
+    "subtitle": "subtitles.iconoclast.twist",
+    "sounds": [
+      {
+        "name": "superiorstructures:iconoclast.twist.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:iconoclast.twist.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:iconoclast.twist.1",
+        "stream": false
+      }
+    ]
+  },
+  "block.amnesoclast.break": {
+    "subtitle": "subtitles.block.amnesoclast.break",
+    "sounds": [
+      {
+        "name": "superiorstructures:amnesoclast.break.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:amnesoclast.break.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:amnesoclast.break.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:amnesoclast.break.1",
+        "stream": false
+      }
+    ]
+  },
+  "block.amnesoclast.dig": {
+    "subtitle": "subtitles.block.amnesoclast.dig",
+    "sounds": [
+      {
+        "name": "superiorstructures:amnesoclast.dig.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:amnesoclast.dig.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:amnesoclast.dig.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:amnesoclast.dig.1",
+        "stream": false
+      }
+    ]
+  },
+  "block.amnesoclast.place": {
+    "subtitle": "subtitles.block.amnesoclast.place",
+    "sounds": [
+      {
+        "name": "superiorstructures:amnesoclast.place.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:amnesoclast.place.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:amnesoclast.place.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:amnesoclast.place.1",
+        "stream": false
+      }
+    ]
+  },
+  "amnesoclast.memory": {
+    "subtitle": "subtitles.amnesoclast.memory",
+    "sounds": [
+      {
+        "name": "superiorstructures:amnesoclast.memory.5",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:amnesoclast.memory.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:amnesoclast.memory.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:amnesoclast.memory.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:amnesoclast.memory.1",
+        "stream": false
+      }
+    ]
+  },
+  "amnesoclast.shift": {
+    "subtitle": "subtitles.amnesoclast.shift",
+    "sounds": [
+      {
+        "name": "superiorstructures:amnesoclast.shift.5",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:amnesoclast.shift.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:amnesoclast.shift.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:amnesoclast.shift.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:amnesoclast.shift.1",
+        "stream": false
+      }
+    ]
+  },
+  "acolyte_vanish": {
+    "subtitle": "subtitles.acolyte_vanish",
+    "sounds": [
+      {
+        "name": "superiorstructures:acolyte_vanish",
+        "stream": false
+      }
+    ]
+  },
+  "robe.vanish": {
+    "subtitle": "subtitles.robe.vanish",
+    "sounds": [
+      {
+        "name": "superiorstructures:robe_vanish",
+        "stream": false
+      }
+    ]
+  },
+  "blaster.fizzle": {
+    "subtitle": "subtitles.blaster.fizzle",
+    "sounds": [
+      {
+        "name": "superiorstructures:blaster.fizzle.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:blaster.fizzle.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:blaster.fizzle.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:blaster.fizzle.1",
+        "stream": false
+      }
+    ]
+  },
+  "acolyte.anger": {
+    "subtitle": "subtitles.acolyte.anger",
+    "sounds": [
+      {
+        "name": "superiorstructures:d3_sfx_mob_mountaineerattack-004",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:d3_sfx_mob_mountaineerattack-003",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:d3_sfx_mob_mountaineerattack-002",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:d3_sfx_mob_mountaineerattack-001",
+        "stream": false
+      }
+    ]
+  },
+  "acolyte.idle": {
+    "subtitle": "subtitles.acolyte.idle",
+    "sounds": [
+      {
+        "name": "superiorstructures:d3_sfx_mob_mountaineeridle_new-004",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:d3_sfx_mob_mountaineeridle_new-003",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:d3_sfx_mob_mountaineeridle_new-002",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:d3_sfx_mob_mountaineeridle_new-001",
+        "stream": false
+      }
+    ]
+  },
+  "acolyte.hurt": {
+    "subtitle": "subtitles.acolyte.hurt",
+    "sounds": [
+      {
+        "name": "superiorstructures:acolyte.hurt.5",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:acolyte.hurt.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:acolyte.hurt.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:acolyte.hurt.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:acolyte.hurt.1",
+        "stream": false
+      }
+    ]
+  },
+  "acolyte.death": {
+    "subtitle": "subtitles.acolyte.death",
+    "sounds": [
+      {
+        "name": "superiorstructures:acolyte.death.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:acolyte.death.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:acolyte.death.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:acolyte.death.1",
+        "stream": false
+      }
+    ]
+  },
+  "blaster.empty": {
+    "subtitle": "subtitles.blaster.empty",
+    "sounds": [
+      {
+        "name": "superiorstructures:blankshot.4",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:blankshot.3",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:blankshot.2",
+        "stream": false
+      },
+      {
+        "name": "superiorstructures:blankshot.1",
+        "stream": false
+      }
+    ]
+  }
+}

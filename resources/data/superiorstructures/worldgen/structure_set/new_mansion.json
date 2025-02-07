@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "superiorstructures:new_mansion",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 75,
+    "separation": 50,
+    "salt": 127639358
+  }
+}

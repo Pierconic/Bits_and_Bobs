@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "superiorstructures:item/brown_mushroom"
+  },
+  "render_type": "translucent"
+}

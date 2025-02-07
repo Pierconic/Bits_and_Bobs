@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "music_discs",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:disc_fragment_13"
+    },
+    "b": {
+      "item": "minecraft:yellow_dye"
+    }
+  },
+  "result": {
+    "id": "minecraft:music_disc_13",
+    "count": 1
+  }
+}

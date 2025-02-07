@@ -1,0 +1,11 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "old_growth_pine_taiga",
+    "plains",
+    "old_growth_spruce_taiga",
+    "jungle"
+  ],
+  "features": "superiorstructures:lichen_surface",
+  "step": "surface_structures"
+}

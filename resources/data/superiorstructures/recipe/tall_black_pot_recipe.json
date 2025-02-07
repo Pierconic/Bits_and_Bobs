@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "black_pottery",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:black_ceramic_shard"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:tall_black_pot",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:phase_chestplate",
+    "superiorstructures:booster_3_unpowered_chestplate",
+    "superiorstructures:booster_3_chestplate",
+    "superiorstructures:booster_2_unpowered_chestplate",
+    "superiorstructures:booster_2_chestplate",
+    "superiorstructures:booster_unpowered_chestplate",
+    "superiorstructures:booster_chestplate"
+  ]
+}

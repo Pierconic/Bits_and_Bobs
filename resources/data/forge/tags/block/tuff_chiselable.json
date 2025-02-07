@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:tuff_bricks",
+    "superiorstructures:polished_tuff",
+    "superiorstructures:chiseled_tuff",
+    "superiorstructures:chiseled_tuff_bricks"
+  ]
+}

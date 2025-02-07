@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:copper_ingot"
+    },
+    "b": {
+      "item": "minecraft:echo_shard"
+    },
+    "c": {
+      "item": "minecraft:oxidized_copper"
+    },
+    "d": {
+      "item": "superiorstructures:lightning_charge"
+    },
+    "e": {
+      "item": "superiorstructures:broken_machinery"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:ancient_lightning_coil",
+    "count": 4
+  }
+}

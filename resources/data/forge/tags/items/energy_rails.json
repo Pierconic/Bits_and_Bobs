@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:energy_rail_1",
+    "superiorstructures:charged_energy_rail_1",
+    "superiorstructures:deactivated_energy_rail_1",
+    "superiorstructures:deactivated_energy_rail_2",
+    "superiorstructures:deactivated_flame_rail_1",
+    "superiorstructures:deactivated_flame_rail_2",
+    "superiorstructures:deactivated_frost_rail_1",
+    "superiorstructures:deactivated_frost_rail_2",
+    "superiorstructures:deactivated_bolt_rail_1",
+    "superiorstructures:deactivated_pongorma_rail_1",
+    "superiorstructures:energy_rail_2",
+    "superiorstructures:charged_energy_rail_2",
+    "superiorstructures:flame_rail_1",
+    "superiorstructures:charged_flame_rail_1",
+    "superiorstructures:flame_rail_2",
+    "superiorstructures:charged_flame_rail_2",
+    "superiorstructures:frost_rail_1",
+    "superiorstructures:charged_frost_rail_1",
+    "superiorstructures:frost_rail_2",
+    "superiorstructures:charged_frost_rail_2",
+    "superiorstructures:bolt_rail_1",
+    "superiorstructures:charged_bolt_rail_1",
+    "superiorstructures:pongorma_rail",
+    "superiorstructures:charged_pongorma_rail"
+  ]
+}

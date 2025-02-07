@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/star_melon_top",
+    "up": "superiorstructures:block/star_melon_top",
+    "north": "superiorstructures:block/star_melon_front",
+    "east": "superiorstructures:block/star_melon_side",
+    "south": "superiorstructures:block/star_melon_side",
+    "west": "superiorstructures:block/star_melon_side",
+    "particle": "superiorstructures:block/star_melon_top"
+  },
+  "render_type": "solid"
+}

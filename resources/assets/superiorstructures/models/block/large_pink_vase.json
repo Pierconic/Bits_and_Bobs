@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/c-largepinkvase",
+  "textures": {
+    "all": "superiorstructures:block/largepinkvase",
+    "particle": "superiorstructures:block/porcelainpink",
+    "2": "superiorstructures:block/largepinkvase"
+  },
+  "render_type": "cutout"
+}

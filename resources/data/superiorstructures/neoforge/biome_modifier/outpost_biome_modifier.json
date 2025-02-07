@@ -1,0 +1,14 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "taiga",
+    "plains",
+    "sunflower_plains",
+    "forest",
+    "savanna",
+    "savanna_plateau",
+    "dark_forest"
+  ],
+  "features": "superiorstructures:outpost",
+  "step": "surface_structures"
+}

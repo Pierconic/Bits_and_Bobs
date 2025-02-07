@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "superiorstructures:block/large_green_vase"
+    },
+    "facing=east": {
+      "model": "superiorstructures:block/large_green_vase",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "superiorstructures:block/large_green_vase",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "superiorstructures:block/large_green_vase",
+      "y": 270
+    }
+  }
+}

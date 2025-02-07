@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "geode_cutting",
+  "ingredient": {
+    "item": "superiorstructures:amethyst_geode"
+  },
+  "result": {
+    "id": "minecraft:amethyst_shard",
+    "count": 7
+  }
+}

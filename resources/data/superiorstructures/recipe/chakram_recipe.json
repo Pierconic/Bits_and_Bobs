@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "b": {
+      "item": "minecraft:blaze_rod"
+    },
+    "c": {
+      "item": "superiorstructures:heart_of_the_inferno"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:chakram",
+    "count": 1
+  }
+}

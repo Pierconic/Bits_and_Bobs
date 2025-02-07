@@ -1,0 +1,7 @@
+{
+  "type": "superiorstructures:village",
+  "config": {
+    "structure": "superiorstructures:village",
+    "ignored_blocks": "minecraft:air"
+  }
+}

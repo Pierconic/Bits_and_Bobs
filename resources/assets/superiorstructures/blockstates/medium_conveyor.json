@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "superiorstructures:block/medium_conveyor"
+    },
+    "facing=east": {
+      "model": "superiorstructures:block/medium_conveyor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "superiorstructures:block/medium_conveyor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "superiorstructures:block/medium_conveyor",
+      "y": 270
+    }
+  }
+}

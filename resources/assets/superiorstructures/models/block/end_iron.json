@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "superiorstructures:block/endiron",
+    "particle": "superiorstructures:block/endiron"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "superiorstructures:custom/b-witherrosevase",
+  "textures": {
+    "all": "superiorstructures:block/wither_rose",
+    "particle": "superiorstructures:block/porcelain_plain",
+    "0": "superiorstructures:block/flower_vase_soul",
+    "1": "superiorstructures:block/wither_rose"
+  },
+  "render_type": "cutout"
+}

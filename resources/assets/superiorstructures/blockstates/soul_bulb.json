@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "superiorstructures:block/soul_bulb"
+    },
+    "blockstate=1": {
+      "model": "superiorstructures:block/soul_bulb_states_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "superiorstructures:block/soul_bulb_states_blockstate_1"
+    },
+    "blockstate=3": {
+      "model": "superiorstructures:block/soul_bulb_states_blockstate_2"
+    }
+  }
+}

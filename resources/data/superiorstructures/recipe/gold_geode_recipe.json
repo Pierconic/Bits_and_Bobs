@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "geodes",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:raw_gold"
+    },
+    "b": {
+      "item": "superiorstructures:geode"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:gold_geode",
+    "count": 1
+  }
+}

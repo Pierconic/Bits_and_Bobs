@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/brambles2",
+  "textures": {
+    "all": "superiorstructures:block/bramblecore",
+    "particle": "superiorstructures:block/bramblecore",
+    "1": "superiorstructures:block/bramblecore"
+  },
+  "render_type": "cutout_mipped"
+}

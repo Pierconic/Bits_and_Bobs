@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "superiorstructures:blocks/oxidized_copper_bulb_powered",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "superiorstructures:oxidized_copper_bulb"
+        }
+      ]
+    }
+  ]
+}

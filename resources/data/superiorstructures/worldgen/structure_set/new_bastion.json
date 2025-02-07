@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "superiorstructures:new_bastion",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 32,
+    "separation": 13,
+    "salt": 231944842
+  }
+}

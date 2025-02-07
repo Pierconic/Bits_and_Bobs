@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/crimsonfungus1",
+  "textures": {
+    "all": "superiorstructures:block/crimson_fungus",
+    "particle": "superiorstructures:block/crimson_fungus",
+    "0": "superiorstructures:block/crimsonfungus"
+  },
+  "render_type": "cutout"
+}

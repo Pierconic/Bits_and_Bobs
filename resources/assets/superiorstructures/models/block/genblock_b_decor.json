@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/small_genblock_witch",
+  "textures": {
+    "all": "superiorstructures:block/genblock_decor_witch",
+    "particle": "superiorstructures:block/genblock_decor_witch",
+    "0": "superiorstructures:block/genblock_decor_witch"
+  },
+  "render_type": "solid"
+}

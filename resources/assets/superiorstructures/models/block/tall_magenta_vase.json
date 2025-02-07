@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/c-tallmagentavase",
+  "textures": {
+    "all": "superiorstructures:block/tallmagentavase",
+    "particle": "superiorstructures:block/porcelain_magenta",
+    "3": "superiorstructures:block/tallmagentavase"
+  },
+  "render_type": "cutout"
+}

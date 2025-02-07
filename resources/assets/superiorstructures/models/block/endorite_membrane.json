@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/membrane_top_passable",
+    "up": "superiorstructures:block/membrane_bottom_passable",
+    "north": "superiorstructures:block/membrane_front_passable",
+    "east": "superiorstructures:block/membrane_side_passable",
+    "south": "superiorstructures:block/membrane_back_passable",
+    "west": "superiorstructures:block/membrane_side_passable_alt",
+    "particle": "superiorstructures:block/membrane_top_passable"
+  },
+  "render_type": "translucent"
+}

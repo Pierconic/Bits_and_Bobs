@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "music_disc_break",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:kyoto"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:disc_fragment_kyoto",
+    "count": 8
+  }
+}

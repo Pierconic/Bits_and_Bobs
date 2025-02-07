@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "piglin",
+    "piglin_brute",
+    "zombified_piglin",
+    "superiorstructures:broken_golden_golem",
+    "superiorstructures:golden_golem",
+    "superiorstructures:saddled_golden_golem"
+  ]
+}

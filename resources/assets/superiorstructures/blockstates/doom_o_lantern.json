@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "superiorstructures:block/doom_o_lantern"
+    },
+    "facing=east": {
+      "model": "superiorstructures:block/doom_o_lantern",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "superiorstructures:block/doom_o_lantern",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "superiorstructures:block/doom_o_lantern",
+      "y": 270
+    }
+  }
+}

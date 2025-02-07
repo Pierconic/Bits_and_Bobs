@@ -1,0 +1,10 @@
+{
+  "parent": "superiorstructures:custom/b-birchvase",
+  "textures": {
+    "all": "superiorstructures:block/birch_sapling",
+    "particle": "superiorstructures:block/porcelain_plain",
+    "0": "superiorstructures:block/flowervase_1",
+    "1": "superiorstructures:block/birch_sapling"
+  },
+  "render_type": "cutout"
+}

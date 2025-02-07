@@ -1,0 +1,10 @@
+{
+  "parent": "superiorstructures:custom/spike_stone_spikes",
+  "textures": {
+    "all": "superiorstructures:block/tall_emerging_spike",
+    "particle": "superiorstructures:block/tall_emerging_spike",
+    "1": "superiorstructures:block/small_emerging_spike",
+    "2": "superiorstructures:block/tall_emerging_spike"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "superiorstructures:custom/b-blueorchidvase",
+  "textures": {
+    "all": "superiorstructures:block/blue_orchid",
+    "particle": "superiorstructures:block/porcelain_plain",
+    "0": "superiorstructures:block/flowervase_1",
+    "1": "superiorstructures:block/blue_orchid"
+  },
+  "render_type": "cutout"
+}

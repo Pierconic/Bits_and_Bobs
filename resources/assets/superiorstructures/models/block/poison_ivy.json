@@ -1,0 +1,10 @@
+{
+  "parent": "superiorstructures:custom/poison_ivy3",
+  "textures": {
+    "all": "superiorstructures:block/poisonivy",
+    "particle": "superiorstructures:block/poisonivy",
+    "0": "superiorstructures:block/poisonivy",
+    "1": "superiorstructures:block/ivystems"
+  },
+  "render_type": "cutout"
+}

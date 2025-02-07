@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:deactivated_energy_blaster_3",
+    "superiorstructures:deactivated_bolt_blaster_3",
+    "superiorstructures:power_drill_1",
+    "superiorstructures:power_saw_1",
+    "superiorstructures:deactivated_phase_blaster_3"
+  ]
+}

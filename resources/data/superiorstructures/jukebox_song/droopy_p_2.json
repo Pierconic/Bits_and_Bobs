@@ -1,0 +1,8 @@
+{
+  "comparator_output": 4,
+  "description": {
+    "translate": "item.superiorstructures.droopy_p_2.desc"
+  },
+  "length_in_seconds": 120,
+  "sound_event": "superiorstructures:droopyp2"
+}

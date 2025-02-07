@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:copper_geode",
+    "superiorstructures:iron_geode",
+    "superiorstructures:gold_geode",
+    "superiorstructures:emerald_geode",
+    "superiorstructures:quartz_geode",
+    "superiorstructures:amethyst_geode",
+    "superiorstructures:lapis_geode",
+    "superiorstructures:diamond_geode",
+    "superiorstructures:redstone_geode"
+  ]
+}

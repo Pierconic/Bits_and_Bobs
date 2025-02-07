@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/sus10s",
+  "textures": {
+    "all": "superiorstructures:block/suspiciousdirt",
+    "particle": "superiorstructures:block/stone_prog_1",
+    "missing": "superiorstructures:block/suspiciousstone"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/water_void",
+  "textures": {
+    "all": "superiorstructures:block/genblockspawnerg",
+    "particle": "superiorstructures:block/genblockspawnerg",
+    "0": "superiorstructures:block/water_void"
+  },
+  "render_type": "cutout_mipped"
+}

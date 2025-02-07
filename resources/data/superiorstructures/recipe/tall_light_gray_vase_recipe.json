@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "light_gray_vases",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:light_gray_dye"
+    },
+    {
+      "item": "superiorstructures:tall_vase"
+    }
+  ],
+  "result": {
+    "id": "superiorstructures:tall_light_gray_vase",
+    "count": 1
+  }
+}

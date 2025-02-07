@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "basic_tuff",
+  "category": "building",
+  "pattern": [
+    "  a",
+    " aa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:tuff"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:tuff_stairs",
+    "count": 4
+  }
+}

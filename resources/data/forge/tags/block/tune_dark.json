@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:sculk",
+    "minecraft:sculk_catalyst",
+    "superiorstructures:prismarine_pillar",
+    "minecraft:dark_prismarine",
+    "minecraft:dark_prismarine_stairs",
+    "minecraft:dark_prismarine_slab"
+  ]
+}

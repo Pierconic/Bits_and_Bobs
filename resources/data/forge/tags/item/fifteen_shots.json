@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:deactivated_energy_blaster_2",
+    "superiorstructures:deactivated_flame_blaster_2",
+    "superiorstructures:deactivated_frost_blaster_2",
+    "superiorstructures:deactivated_bolt_blaster_2"
+  ]
+}

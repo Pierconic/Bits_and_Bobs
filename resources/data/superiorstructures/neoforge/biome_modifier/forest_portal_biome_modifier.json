@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "old_growth_pine_taiga",
+    "old_growth_spruce_taiga",
+    "taiga"
+  ],
+  "features": "superiorstructures:forest_portal",
+  "step": "top_layer_modification"
+}

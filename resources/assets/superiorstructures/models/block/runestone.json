@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "superiorstructures:block/deactivated_runestone",
+    "particle": "superiorstructures:block/deactivated_runestone"
+  },
+  "render_type": "solid"
+}

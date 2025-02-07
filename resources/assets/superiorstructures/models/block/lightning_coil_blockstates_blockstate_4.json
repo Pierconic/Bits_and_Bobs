@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/lightning_coil_top_active",
+    "up": "superiorstructures:block/lightning_coil_top_active",
+    "north": "superiorstructures:block/lightning_coil_side_active",
+    "east": "superiorstructures:block/lightning_coil_5",
+    "south": "superiorstructures:block/lightning_coil_side_active",
+    "west": "superiorstructures:block/lightning_coil_5",
+    "particle": "superiorstructures:block/lightning_coil_top"
+  },
+  "render_type": "solid"
+}

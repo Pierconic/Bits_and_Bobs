@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "brown_vases",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:brown_dye"
+    },
+    {
+      "item": "superiorstructures:small_vase"
+    }
+  ],
+  "result": {
+    "id": "superiorstructures:small_brown_vase",
+    "count": 1
+  }
+}

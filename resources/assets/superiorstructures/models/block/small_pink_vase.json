@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/c-smallpinkvase",
+  "textures": {
+    "all": "superiorstructures:block/smallpinkvase",
+    "particle": "superiorstructures:block/porcelainpink",
+    "1": "superiorstructures:block/smallpinkvase"
+  },
+  "render_type": "cutout"
+}

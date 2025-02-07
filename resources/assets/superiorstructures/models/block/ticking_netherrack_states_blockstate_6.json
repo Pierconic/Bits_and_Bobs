@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/sus9n",
+  "textures": {
+    "all": "superiorstructures:block/suspicious_dirt2",
+    "particle": "superiorstructures:block/netherrack_prog_1",
+    "missing": "superiorstructures:block/netherrack_prog_3"
+  },
+  "render_type": "solid"
+}

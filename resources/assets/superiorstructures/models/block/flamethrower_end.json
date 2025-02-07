@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/flameend",
+  "textures": {
+    "all": "superiorstructures:block/flameend",
+    "particle": "superiorstructures:block/flameend",
+    "missing": "superiorstructures:block/flameend"
+  },
+  "render_type": "cutout_mipped"
+}

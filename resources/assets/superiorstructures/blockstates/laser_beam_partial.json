@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "superiorstructures:block/laser_beam_partial"
+    },
+    "facing=east": {
+      "model": "superiorstructures:block/laser_beam_partial",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "superiorstructures:block/laser_beam_partial",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "superiorstructures:block/laser_beam_partial",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "superiorstructures:block/laser_beam_partial",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "superiorstructures:block/laser_beam_partial",
+      "x": 90
+    }
+  }
+}

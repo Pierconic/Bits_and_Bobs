@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/conveyor_bottom",
+    "up": "superiorstructures:block/conveyortop2",
+    "north": "superiorstructures:block/conveyorfront2",
+    "east": "superiorstructures:block/conveyorside2alt",
+    "south": "superiorstructures:block/conveyorback2",
+    "west": "superiorstructures:block/conveyorside2",
+    "particle": "superiorstructures:block/conveyor_bottom"
+  },
+  "render_type": "solid"
+}

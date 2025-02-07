@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/grimstone_top",
+    "up": "superiorstructures:block/grimstone_top",
+    "north": "superiorstructures:block/activated_grimstone",
+    "east": "superiorstructures:block/activated_grimstone",
+    "south": "superiorstructures:block/activated_grimstone",
+    "west": "superiorstructures:block/activated_grimstone",
+    "particle": "superiorstructures:block/grimstone_top"
+  },
+  "render_type": "solid"
+}

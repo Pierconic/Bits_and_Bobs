@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:raw_endorite"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:endorite_block",
+    "count": 3
+  }
+}

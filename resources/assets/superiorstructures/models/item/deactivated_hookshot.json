@@ -1,0 +1,62 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "superiorstructures:item/hookshot_in0p"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "superiorstructures:deactivated_hookshot_charge": 1
+      },
+      "model": "superiorstructures:item/deactivated_hookshot_0"
+    },
+    {
+      "predicate": {
+        "superiorstructures:deactivated_hookshot_charge": 2
+      },
+      "model": "superiorstructures:item/deactivated_hookshot_1"
+    },
+    {
+      "predicate": {
+        "superiorstructures:deactivated_hookshot_charge": 3
+      },
+      "model": "superiorstructures:item/deactivated_hookshot_2"
+    },
+    {
+      "predicate": {
+        "superiorstructures:deactivated_hookshot_charge": 4
+      },
+      "model": "superiorstructures:item/deactivated_hookshot_3"
+    },
+    {
+      "predicate": {
+        "superiorstructures:deactivated_hookshot_charge": 5
+      },
+      "model": "superiorstructures:item/deactivated_hookshot_4"
+    },
+    {
+      "predicate": {
+        "superiorstructures:deactivated_hookshot_charge": 6
+      },
+      "model": "superiorstructures:item/deactivated_hookshot_5"
+    },
+    {
+      "predicate": {
+        "superiorstructures:deactivated_hookshot_charge": 7
+      },
+      "model": "superiorstructures:item/deactivated_hookshot_6"
+    },
+    {
+      "predicate": {
+        "superiorstructures:deactivated_hookshot_charge": 8
+      },
+      "model": "superiorstructures:item/deactivated_hookshot_7"
+    },
+    {
+      "predicate": {
+        "superiorstructures:deactivated_hookshot_charge": 9
+      },
+      "model": "superiorstructures:item/deactivated_hookshot_8"
+    }
+  ]
+}

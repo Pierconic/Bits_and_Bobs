@@ -1,0 +1,17 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "plains",
+    "snowy_plains",
+    "sunflower_plains",
+    "savanna",
+    "savanna_plateau",
+    "badlands",
+    "eroded_badlands",
+    "wooded_badlands",
+    "snowy_slopes",
+    "snowy_beach"
+  ],
+  "features": "superiorstructures:plain_portal",
+  "step": "surface_structures"
+}

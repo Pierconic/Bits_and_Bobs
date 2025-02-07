@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "green_pottery",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:green_ceramic_shard"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:tall_green_pot",
+    "count": 1
+  }
+}

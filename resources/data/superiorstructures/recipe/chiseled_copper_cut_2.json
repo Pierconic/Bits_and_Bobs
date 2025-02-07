@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "copper_grates",
+  "ingredient": {
+    "item": "minecraft:cut_copper"
+  },
+  "result": {
+    "id": "superiorstructures:chiseled_copper",
+    "count": 1
+  }
+}

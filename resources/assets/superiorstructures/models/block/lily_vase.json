@@ -1,0 +1,10 @@
+{
+  "parent": "superiorstructures:custom/b-lilyvase",
+  "textures": {
+    "all": "superiorstructures:block/lily_of_the_valley",
+    "particle": "superiorstructures:block/porcelain_plain",
+    "0": "superiorstructures:block/flowervase_1",
+    "1": "superiorstructures:block/lily_of_the_valley"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:ceramic_shard",
+    "superiorstructures:red_ceramic_shard",
+    "superiorstructures:orange_ceramic_shard",
+    "superiorstructures:yellow_ceramic_shard",
+    "superiorstructures:lime_ceramic_shard",
+    "superiorstructures:green_ceramic_shard",
+    "superiorstructures:light_blue_ceramic_shard",
+    "superiorstructures:cyan_ceramic_shard",
+    "superiorstructures:blue_ceramic_shard",
+    "superiorstructures:pink_ceramic_shard",
+    "superiorstructures:magenta_ceramic_shard",
+    "superiorstructures:purple_ceramic_shard",
+    "superiorstructures:brown_ceramic_shard",
+    "superiorstructures:white_ceramic_shard",
+    "superiorstructures:light_gray_ceramic_shard",
+    "superiorstructures:dark_gray_ceramic_shard",
+    "superiorstructures:black_ceramic_shard"
+  ]
+}

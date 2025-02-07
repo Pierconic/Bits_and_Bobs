@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/lichen2",
+  "textures": {
+    "all": "superiorstructures:block/lichen",
+    "particle": "superiorstructures:block/lichen",
+    "0": "superiorstructures:block/lichen"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "music_discs",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:disc_fragment_elegy"
+    },
+    "b": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:elegy",
+    "count": 1
+  }
+}

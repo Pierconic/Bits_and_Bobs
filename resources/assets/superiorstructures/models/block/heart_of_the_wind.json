@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/heart_block",
+  "textures": {
+    "all": "superiorstructures:block/heart_of_the_wind",
+    "particle": "superiorstructures:block/heart_of_the_wind",
+    "0": "superiorstructures:block/heart_of_the_wind"
+  },
+  "render_type": "solid"
+}

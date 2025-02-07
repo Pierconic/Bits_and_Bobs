@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:broken_machinery"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:block_of_broken_machinery",
+    "count": 1
+  }
+}

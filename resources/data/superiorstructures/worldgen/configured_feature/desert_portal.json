@@ -1,0 +1,7 @@
+{
+  "type": "superiorstructures:desert_portal",
+  "config": {
+    "structure": "superiorstructures:portal",
+    "ignored_blocks": "minecraft:air"
+  }
+}

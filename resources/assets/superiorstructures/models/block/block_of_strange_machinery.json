@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "superiorstructures:block/strangemachineryblockoff",
+    "particle": "superiorstructures:block/strangemachineryblockoff"
+  },
+  "render_type": "solid"
+}

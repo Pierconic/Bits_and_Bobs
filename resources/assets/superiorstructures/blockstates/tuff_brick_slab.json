@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "superiorstructures:block/tuff_brick_slab"
+    },
+    "type=top": {
+      "model": "superiorstructures:block/tuff_brick_slab_top"
+    },
+    "type=double": {
+      "model": "superiorstructures:block/tuff_brick_slab_full"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "superiorstructures:block/frosted_ice_0",
+    "particle": "superiorstructures:block/frosted_ice_0"
+  },
+  "render_type": "translucent"
+}

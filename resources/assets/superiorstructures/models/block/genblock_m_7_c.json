@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/water_checker",
+  "textures": {
+    "all": "superiorstructures:block/genblockbuilderm",
+    "particle": "superiorstructures:block/genblockbuilderm",
+    "0": "superiorstructures:block/water_checker"
+  },
+  "render_type": "solid"
+}

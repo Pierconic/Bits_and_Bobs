@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "mossy_prismarine",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:prismarine"
+    },
+    {
+      "item": "minecraft:vine"
+    }
+  ],
+  "result": {
+    "id": "superiorstructures:mossy_prismarine",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/tunerod_largecorner",
+  "textures": {
+    "all": "superiorstructures:block/tuneroot",
+    "particle": "superiorstructures:block/tuneroot_particles",
+    "0": "superiorstructures:block/tuneroot"
+  },
+  "render_type": "cutout_mipped"
+}

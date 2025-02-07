@@ -1,0 +1,62 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "superiorstructures:item/phase_shot"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "superiorstructures:warpshot_charge": 1
+      },
+      "model": "superiorstructures:item/warpshot_0"
+    },
+    {
+      "predicate": {
+        "superiorstructures:warpshot_charge": 2
+      },
+      "model": "superiorstructures:item/warpshot_1"
+    },
+    {
+      "predicate": {
+        "superiorstructures:warpshot_charge": 3
+      },
+      "model": "superiorstructures:item/warpshot_2"
+    },
+    {
+      "predicate": {
+        "superiorstructures:warpshot_charge": 4
+      },
+      "model": "superiorstructures:item/warpshot_3"
+    },
+    {
+      "predicate": {
+        "superiorstructures:warpshot_charge": 5
+      },
+      "model": "superiorstructures:item/warpshot_4"
+    },
+    {
+      "predicate": {
+        "superiorstructures:warpshot_charge": 6
+      },
+      "model": "superiorstructures:item/warpshot_5"
+    },
+    {
+      "predicate": {
+        "superiorstructures:warpshot_charge": 7
+      },
+      "model": "superiorstructures:item/warpshot_6"
+    },
+    {
+      "predicate": {
+        "superiorstructures:warpshot_charge": 8
+      },
+      "model": "superiorstructures:item/warpshot_7"
+    },
+    {
+      "predicate": {
+        "superiorstructures:warpshot_charge": 9
+      },
+      "model": "superiorstructures:item/warpshot_8"
+    }
+  ]
+}

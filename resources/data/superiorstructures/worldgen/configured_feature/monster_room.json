@@ -1,0 +1,9 @@
+{
+  "type": "superiorstructures:monster_room",
+  "config": {
+    "structure": "superiorstructures:monster_room",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": "minecraft:structure_block"
+  }
+}

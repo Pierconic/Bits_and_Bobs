@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:copper_ingot"
+    },
+    "b": {
+      "item": "superiorstructures:polished_prismarine"
+    },
+    "c": {
+      "item": "minecraft:ender_eye"
+    },
+    "d": {
+      "item": "superiorstructures:broken_machinery"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:sentinel",
+    "count": 1
+  }
+}

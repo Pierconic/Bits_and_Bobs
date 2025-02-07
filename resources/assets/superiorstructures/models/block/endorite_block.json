@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "superiorstructures:block/endoriteblock",
+    "particle": "superiorstructures:block/endoriteblock"
+  },
+  "render_type": "solid"
+}

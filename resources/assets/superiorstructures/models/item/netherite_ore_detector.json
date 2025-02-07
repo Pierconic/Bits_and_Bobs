@@ -1,0 +1,32 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "superiorstructures:item/netherite_detector0p"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "superiorstructures:netherite_ore_detector_charge": 1
+      },
+      "model": "superiorstructures:item/netherite_ore_detector_0"
+    },
+    {
+      "predicate": {
+        "superiorstructures:netherite_ore_detector_charge": 2
+      },
+      "model": "superiorstructures:item/netherite_ore_detector_1"
+    },
+    {
+      "predicate": {
+        "superiorstructures:netherite_ore_detector_charge": 3
+      },
+      "model": "superiorstructures:item/netherite_ore_detector_2"
+    },
+    {
+      "predicate": {
+        "superiorstructures:netherite_ore_detector_charge": 4
+      },
+      "model": "superiorstructures:item/netherite_ore_detector_3"
+    }
+  ]
+}

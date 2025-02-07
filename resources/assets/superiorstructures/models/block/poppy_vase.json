@@ -1,0 +1,10 @@
+{
+  "parent": "superiorstructures:custom/b-poppyvase",
+  "textures": {
+    "all": "superiorstructures:block/poppy",
+    "particle": "superiorstructures:block/porcelain_plain",
+    "0": "superiorstructures:block/flowervase_1",
+    "1": "superiorstructures:block/poppy"
+  },
+  "render_type": "cutout"
+}

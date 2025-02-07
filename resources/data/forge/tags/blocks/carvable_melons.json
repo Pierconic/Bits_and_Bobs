@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:carved_melon",
+    "superiorstructures:startled_carved_melon",
+    "superiorstructures:derpy_carved_melon",
+    "superiorstructures:grinning_carved_melon",
+    "superiorstructures:snarling_carved_melon",
+    "superiorstructures:creepy_carved_melon",
+    "superiorstructures:skeletal_carved_melon",
+    "superiorstructures:heady_carved_melon",
+    "superiorstructures:withering_carved_melon",
+    "superiorstructures:shocking_carved_melon",
+    "superiorstructures:watchful_carved_melon",
+    "superiorstructures:crystalline_carved_melon",
+    "minecraft:melon",
+    "superiorstructures:starry_carved_melon"
+  ]
+}

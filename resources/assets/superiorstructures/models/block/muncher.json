@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/mucherbottom",
+    "up": "superiorstructures:block/munchertop",
+    "north": "superiorstructures:block/muncherfrontdormant",
+    "east": "superiorstructures:block/muncherleftdormant",
+    "south": "superiorstructures:block/muncherback",
+    "west": "superiorstructures:block/muncherrightdormant",
+    "particle": "superiorstructures:block/mucherbottom"
+  },
+  "render_type": "solid"
+}

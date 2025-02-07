@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "snowy_beach",
+    "snowy_plains"
+  ],
+  "features": "superiorstructures:igloo",
+  "step": "surface_structures"
+}

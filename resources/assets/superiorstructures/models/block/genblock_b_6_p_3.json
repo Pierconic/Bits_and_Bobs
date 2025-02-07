@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/genclobkfurnisherb",
+    "up": "superiorstructures:block/genclobkfurnisherb",
+    "north": "superiorstructures:block/genblocktemplateb4",
+    "east": "superiorstructures:block/b6",
+    "south": "superiorstructures:block/genblocktemplateb4",
+    "west": "superiorstructures:block/b6",
+    "particle": "superiorstructures:block/genclobkfurnisherb"
+  },
+  "render_type": "solid"
+}

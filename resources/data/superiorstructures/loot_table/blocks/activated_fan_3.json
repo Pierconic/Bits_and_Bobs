@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "superiorstructures:blocks/activated_fan_3",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "superiorstructures:deactivated_fan"
+        }
+      ]
+    }
+  ]
+}

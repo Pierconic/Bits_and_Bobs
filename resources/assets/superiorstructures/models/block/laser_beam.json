@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/laserbeam2",
+  "textures": {
+    "all": "superiorstructures:block/laserbeam1",
+    "particle": "superiorstructures:block/laserbeam1",
+    "0": "superiorstructures:block/laserbeam1"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/a-largemagentapot",
+  "textures": {
+    "all": "superiorstructures:block/largemagentapot",
+    "particle": "superiorstructures:block/terracotta",
+    "2": "superiorstructures:block/largemagentapot"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcd",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:prismarine_bricks"
+    },
+    "b": {
+      "item": "superiorstructures:old_machinery"
+    },
+    "c": {
+      "item": "minecraft:quartz"
+    },
+    "d": {
+      "item": "minecraft:prismarine_crystals"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:dormant_beamstone",
+    "count": 1
+  }
+}

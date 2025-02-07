@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/watcher_eyes",
+    "up": "superiorstructures:block/watcher_eyes",
+    "north": "superiorstructures:block/watcher_eyes",
+    "east": "superiorstructures:block/watcher_eyes",
+    "south": "superiorstructures:block/watcher_eyes",
+    "west": "superiorstructures:block/watcher_eyes",
+    "particle": "superiorstructures:block/watcher_eyes"
+  },
+  "render_type": "solid"
+}

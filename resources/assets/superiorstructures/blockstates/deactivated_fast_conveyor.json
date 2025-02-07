@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "superiorstructures:block/deactivated_fast_conveyor"
+    },
+    "facing=east": {
+      "model": "superiorstructures:block/deactivated_fast_conveyor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "superiorstructures:block/deactivated_fast_conveyor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "superiorstructures:block/deactivated_fast_conveyor",
+      "y": 270
+    }
+  }
+}

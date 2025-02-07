@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/active_fulgurite_side",
+    "up": "superiorstructures:block/active_fulgurite_top",
+    "north": "superiorstructures:block/active_fulgurite_side",
+    "east": "superiorstructures:block/active_fulgurite_side",
+    "south": "superiorstructures:block/active_fulgurite_side",
+    "west": "superiorstructures:block/active_fulgurite_side",
+    "particle": "superiorstructures:block/active_fulgurite_side"
+  },
+  "render_type": "solid"
+}

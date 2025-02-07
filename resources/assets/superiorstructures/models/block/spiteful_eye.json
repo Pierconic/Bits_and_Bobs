@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/eye_1",
+    "up": "superiorstructures:block/eye_1",
+    "north": "superiorstructures:block/eye_1",
+    "east": "superiorstructures:block/eye_1",
+    "south": "superiorstructures:block/eye_1",
+    "west": "superiorstructures:block/eye_1",
+    "particle": "superiorstructures:block/eye_1"
+  },
+  "render_type": "solid"
+}

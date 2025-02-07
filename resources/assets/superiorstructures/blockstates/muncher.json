@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "superiorstructures:block/muncher"
+    },
+    "facing=east": {
+      "model": "superiorstructures:block/muncher",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "superiorstructures:block/muncher",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "superiorstructures:block/muncher",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "superiorstructures:block/muncher",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "superiorstructures:block/muncher",
+      "x": 90
+    }
+  }
+}

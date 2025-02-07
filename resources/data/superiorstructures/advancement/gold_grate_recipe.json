@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "gold_grate_recipe_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:raw_gold"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "superiorstructures:golden_grate_cutting",
+      "superiorstructures:golden_grate_crafting",
+      "superiorstructures:golden_door_crafting",
+      "superiorstructures:golden_trapdoor_crafting",
+      "superiorstructures:golden_bars_recipe"
+    ]
+  },
+  "parent": "superiorstructures:harry_pottery"
+}

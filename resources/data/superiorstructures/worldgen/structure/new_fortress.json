@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:jigsaw",
+  "start_pool": "superiorstructures:new_fortress",
+  "size": 7,
+  "max_distance_from_center": 128,
+  "spawn_overrides": {},
+  "step": "underground_structures",
+  "terrain_adaptation": "none",
+  "start_height": {
+    "type": "minecraft:uniform",
+    "min_inclusive": {
+      "absolute": 31
+    },
+    "max_inclusive": {
+      "absolute": 32
+    }
+  },
+  "biomes": "nether_wastes",
+  "use_expansion_hack": false
+}

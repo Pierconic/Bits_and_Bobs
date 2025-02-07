@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "superiorstructures:item/largeblackvase"
+  },
+  "render_type": "translucent"
+}

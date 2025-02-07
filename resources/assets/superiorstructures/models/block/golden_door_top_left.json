@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_top_left",
+  "textures": {
+    "particle": "superiorstructures:block/gold_door_bottom",
+    "bottom": "superiorstructures:block/gold_door_bottom",
+    "top": "superiorstructures:block/gold_door_top"
+  },
+  "render_type": "cutout_mipped"
+}

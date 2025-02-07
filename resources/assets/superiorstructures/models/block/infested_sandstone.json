@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/infested_sandstone_bottom",
+    "up": "superiorstructures:block/infested_sandstone_top",
+    "north": "superiorstructures:block/infested_sandstone_side",
+    "east": "superiorstructures:block/infested_sandstone_side",
+    "south": "superiorstructures:block/infested_sandstone_side",
+    "west": "superiorstructures:block/infested_sandstone_side",
+    "particle": "superiorstructures:block/infested_sandstone_bottom"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:essence",
+    "superiorstructures:flamethrower_end",
+    "superiorstructures:flamethrower_middle",
+    "superiorstructures:flamethrower_base",
+    "superiorstructures:laser_beam_low",
+    "superiorstructures:laser_beam_half",
+    "superiorstructures:laser_beam_partial",
+    "superiorstructures:laser_beam",
+    "superiorstructures:emerging_spikes"
+  ]
+}

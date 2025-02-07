@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "aab",
+    "cdb",
+    "aab"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:cobblestone"
+    },
+    "b": {
+      "item": "minecraft:copper_ingot"
+    },
+    "c": {
+      "item": "minecraft:redstone"
+    },
+    "d": {
+      "item": "minecraft:breeze_rod"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:deactivated_fan",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/small_genblock_ocean",
+  "textures": {
+    "all": "superiorstructures:block/genblock_ocean_decor",
+    "particle": "superiorstructures:block/genblock_ocean_decor",
+    "1": "superiorstructures:block/genblock_ocean_decor"
+  },
+  "render_type": "solid"
+}

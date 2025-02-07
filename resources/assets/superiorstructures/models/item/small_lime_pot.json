@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "superiorstructures:item/smalllimepot"
+  },
+  "render_type": "translucent"
+}

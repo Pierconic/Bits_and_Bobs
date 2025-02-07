@@ -1,0 +1,10 @@
+{
+  "parent": "superiorstructures:custom/b-cactivase",
+  "textures": {
+    "all": "superiorstructures:block/cactus_side",
+    "particle": "superiorstructures:block/porcelain_plain",
+    "1": "superiorstructures:block/flower_vase_sand",
+    "39": "superiorstructures:block/cactus_side"
+  },
+  "render_type": "cutout"
+}

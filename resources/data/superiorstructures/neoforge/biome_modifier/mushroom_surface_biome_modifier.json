@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "old_growth_pine_taiga",
+    "old_growth_spruce_taiga",
+    "jungle",
+    "old_growth_birch_forest",
+    "mushroom_fields",
+    "dark_forest"
+  ],
+  "features": "superiorstructures:mushroom_surface",
+  "step": "surface_structures"
+}

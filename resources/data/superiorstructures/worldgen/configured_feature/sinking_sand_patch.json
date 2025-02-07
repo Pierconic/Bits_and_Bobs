@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:netherrack_replace_blobs",
+  "config": {
+    "target": {
+      "Name": "minecraft:sand"
+    },
+    "state": {
+      "Name": "superiorstructures:sinking_sand"
+    },
+    "radius": {
+      "type": "uniform",
+      "min_inclusive": 2,
+      "max_inclusive": 5
+    }
+  }
+}

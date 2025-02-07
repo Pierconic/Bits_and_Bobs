@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "music_discs",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:disc_fragment_moog_city"
+    },
+    "b": {
+      "item": "minecraft:light_gray_dye"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:moog_city",
+    "count": 1
+  }
+}

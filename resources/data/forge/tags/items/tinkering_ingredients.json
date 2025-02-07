@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:broken_machinery",
+    "superiorstructures:old_machinery",
+    "superiorstructures:gilded_machinery",
+    "superiorstructures:ancient_machinery",
+    "superiorstructures:power_cell",
+    "minecraft:iron_ingot",
+    "minecraft:copper_ingot",
+    "minecraft:gold_ingot",
+    "minecraft:diamond",
+    "minecraft:netherite_ingot",
+    "minecraft:redstone",
+    "superiorstructures:strange_machinery",
+    "superiorstructures:lightning_charge",
+    "superiorstructures:frost_charge",
+    "minecraft:fire_charge",
+    "superiorstructures:empty_power_cell"
+  ]
+}

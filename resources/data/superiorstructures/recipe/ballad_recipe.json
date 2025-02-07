@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "music_discs",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:disc_fragment_spiders"
+    },
+    "b": {
+      "item": "minecraft:fermented_spider_eye"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:ballad_of_spiders",
+    "count": 1
+  }
+}

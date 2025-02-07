@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/sentinel_bottom",
+    "up": "superiorstructures:block/sentinel_top",
+    "north": "superiorstructures:block/sentinel_active",
+    "east": "superiorstructures:block/sentinel_active",
+    "south": "superiorstructures:block/sentinel_active",
+    "west": "superiorstructures:block/sentinel_active",
+    "particle": "superiorstructures:block/sentinel_bottom"
+  },
+  "render_type": "solid"
+}

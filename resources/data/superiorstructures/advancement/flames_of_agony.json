@@ -1,0 +1,42 @@
+{
+  "display": {
+    "icon": {
+      "id": "superiorstructures:heart_of_the_inferno"
+    },
+    "title": {
+      "translate": "advancements.flames_of_agony.title"
+    },
+    "description": {
+      "translate": "advancements.flames_of_agony.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "flames_of_agony_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "superiorstructures:heart_of_the_inferno"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "superiorstructures:chakram_recipe"
+    ]
+  },
+  "parent": "minecraft:nether/find_fortress"
+}

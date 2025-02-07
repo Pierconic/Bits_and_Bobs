@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:shocking_copper_6",
+    "superiorstructures:shocking_copper_5",
+    "superiorstructures:shocking_copper_4",
+    "superiorstructures:shocking_copper_3",
+    "superiorstructures:shocking_copper_2",
+    "superiorstructures:shocking_copper_1",
+    "minecraft:copper_block",
+    "minecraft:exposed_copper",
+    "minecraft:weathered_copper",
+    "minecraft:oxidized_copper",
+    "minecraft:waxed_copper_block",
+    "minecraft:waxed_exposed_copper",
+    "minecraft:waxed_weathered_copper",
+    "minecraft:waxed_oxidized_copper",
+    "superiorstructures:shocking_copper"
+  ]
+}

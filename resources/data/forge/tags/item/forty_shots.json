@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:charger",
+    "superiorstructures:copper_ore_detector",
+    "superiorstructures:iron_ore_detector",
+    "superiorstructures:emerald_ore_detector",
+    "superiorstructures:quartz_ore_detector",
+    "superiorstructures:gold_ore_detector",
+    "superiorstructures:lapis_ore_detector",
+    "superiorstructures:redstone_ore_detector",
+    "superiorstructures:diamond_ore_detector",
+    "superiorstructures:netherite_ore_detector",
+    "superiorstructures:endorite_ore_detector",
+    "superiorstructures:power_drill_3",
+    "superiorstructures:power_saw_3"
+  ]
+}

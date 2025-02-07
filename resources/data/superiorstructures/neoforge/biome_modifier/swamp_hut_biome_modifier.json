@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "swamp",
+  "features": "superiorstructures:swamp_hut",
+  "step": "surface_structures"
+}

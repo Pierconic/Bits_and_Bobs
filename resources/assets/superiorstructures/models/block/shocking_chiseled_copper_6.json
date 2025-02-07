@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "superiorstructures:block/apologies_for_deprecation",
+    "particle": "superiorstructures:block/chiseled_copper"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "magenta_vases",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:magenta_dye"
+    },
+    {
+      "item": "superiorstructures:large_vase"
+    }
+  ],
+  "result": {
+    "id": "superiorstructures:large_magenta_vase",
+    "count": 1
+  }
+}

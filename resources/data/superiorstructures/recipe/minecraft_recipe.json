@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "music_discs",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:disc_fragment_minecraft"
+    },
+    "b": {
+      "item": "superiorstructures:vessel_piece"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:minecraft_disc",
+    "count": 1
+  }
+}

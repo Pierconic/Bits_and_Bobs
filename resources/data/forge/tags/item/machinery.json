@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:broken_machinery",
+    "superiorstructures:old_machinery",
+    "superiorstructures:gilded_machinery",
+    "superiorstructures:ancient_machinery",
+    "superiorstructures:strange_machinery"
+  ]
+}

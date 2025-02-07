@@ -1,0 +1,10 @@
+{
+  "parent": "superiorstructures:custom/spiraling_sand_topper",
+  "textures": {
+    "all": "superiorstructures:block/singing_sand_4",
+    "particle": "superiorstructures:block/singing_sand_4",
+    "1": "superiorstructures:block/singing_sand_4",
+    "2": "superiorstructures:block/spiraling_sand_4"
+  },
+  "render_type": "cutout_mipped"
+}

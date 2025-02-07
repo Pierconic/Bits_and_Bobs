@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "superiorstructures:item/smalldarkgraypot"
+  },
+  "render_type": "translucent"
+}

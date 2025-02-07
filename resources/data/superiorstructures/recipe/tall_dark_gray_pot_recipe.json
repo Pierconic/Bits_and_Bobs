@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dark_gray_pottery",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:dark_gray_ceramic_shard"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:tall_dark_gray_pot",
+    "count": 1
+  }
+}

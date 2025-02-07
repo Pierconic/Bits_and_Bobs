@@ -1,0 +1,11 @@
+{
+  "parent": "superiorstructures:custom/soul_bulb_pot",
+  "textures": {
+    "all": "superiorstructures:block/flower_pot",
+    "particle": "superiorstructures:block/flower_pot",
+    "0": "superiorstructures:block/flower_pot",
+    "1": "superiorstructures:block/eye_1",
+    "2": "superiorstructures:block/soul_bulb_active"
+  },
+  "render_type": "cutout_mipped"
+}

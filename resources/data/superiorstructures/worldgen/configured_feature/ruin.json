@@ -1,0 +1,7 @@
+{
+  "type": "superiorstructures:ruin",
+  "config": {
+    "structure": "superiorstructures:ruin",
+    "ignored_blocks": "minecraft:air"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/c-smalllightbluevase",
+  "textures": {
+    "all": "superiorstructures:block/smalllightbluevase",
+    "particle": "superiorstructures:block/porcelainlightblue",
+    "1": "superiorstructures:block/smalllightbluevase"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/a-talllimepot",
+  "textures": {
+    "all": "superiorstructures:block/talllimepot",
+    "particle": "superiorstructures:block/terracotta",
+    "3": "superiorstructures:block/talllimepot"
+  },
+  "render_type": "cutout"
+}

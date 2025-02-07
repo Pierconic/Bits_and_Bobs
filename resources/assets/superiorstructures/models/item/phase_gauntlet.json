@@ -1,0 +1,120 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "superiorstructures:item/phase_gauntlet_neutral_p0"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "superiorstructures:phase_gauntlet_charge": 1,
+        "superiorstructures:phase_gauntlet_gesture": 1
+      },
+      "model": "superiorstructures:item/phase_gauntlet_0"
+    },
+    {
+      "predicate": {
+        "superiorstructures:phase_gauntlet_charge": 2,
+        "superiorstructures:phase_gauntlet_gesture": 1
+      },
+      "model": "superiorstructures:item/phase_gauntlet_1"
+    },
+    {
+      "predicate": {
+        "superiorstructures:phase_gauntlet_charge": 3,
+        "superiorstructures:phase_gauntlet_gesture": 1
+      },
+      "model": "superiorstructures:item/phase_gauntlet_2"
+    },
+    {
+      "predicate": {
+        "superiorstructures:phase_gauntlet_charge": 1,
+        "superiorstructures:phase_gauntlet_gesture": 2
+      },
+      "model": "superiorstructures:item/phase_gauntlet_3"
+    },
+    {
+      "predicate": {
+        "superiorstructures:phase_gauntlet_charge": 2,
+        "superiorstructures:phase_gauntlet_gesture": 2
+      },
+      "model": "superiorstructures:item/phase_gauntlet_4"
+    },
+    {
+      "predicate": {
+        "superiorstructures:phase_gauntlet_charge": 3,
+        "superiorstructures:phase_gauntlet_gesture": 2
+      },
+      "model": "superiorstructures:item/phase_gauntlet_5"
+    },
+    {
+      "predicate": {
+        "superiorstructures:phase_gauntlet_charge": 1,
+        "superiorstructures:phase_gauntlet_gesture": 3
+      },
+      "model": "superiorstructures:item/phase_gauntlet_6"
+    },
+    {
+      "predicate": {
+        "superiorstructures:phase_gauntlet_charge": 2,
+        "superiorstructures:phase_gauntlet_gesture": 3
+      },
+      "model": "superiorstructures:item/phase_gauntlet_7"
+    },
+    {
+      "predicate": {
+        "superiorstructures:phase_gauntlet_charge": 3,
+        "superiorstructures:phase_gauntlet_gesture": 3
+      },
+      "model": "superiorstructures:item/phase_gauntlet_8"
+    },
+    {
+      "predicate": {
+        "superiorstructures:phase_gauntlet_charge": 1,
+        "superiorstructures:phase_gauntlet_gesture": 4
+      },
+      "model": "superiorstructures:item/phase_gauntlet_9"
+    },
+    {
+      "predicate": {
+        "superiorstructures:phase_gauntlet_charge": 2,
+        "superiorstructures:phase_gauntlet_gesture": 4
+      },
+      "model": "superiorstructures:item/phase_gauntlet_10"
+    },
+    {
+      "predicate": {
+        "superiorstructures:phase_gauntlet_charge": 3,
+        "superiorstructures:phase_gauntlet_gesture": 4
+      },
+      "model": "superiorstructures:item/phase_gauntlet_11"
+    },
+    {
+      "predicate": {
+        "superiorstructures:phase_gauntlet_charge": 4,
+        "superiorstructures:phase_gauntlet_gesture": 1
+      },
+      "model": "superiorstructures:item/phase_gauntlet_12"
+    },
+    {
+      "predicate": {
+        "superiorstructures:phase_gauntlet_charge": 4,
+        "superiorstructures:phase_gauntlet_gesture": 2
+      },
+      "model": "superiorstructures:item/phase_gauntlet_13"
+    },
+    {
+      "predicate": {
+        "superiorstructures:phase_gauntlet_charge": 4,
+        "superiorstructures:phase_gauntlet_gesture": 3
+      },
+      "model": "superiorstructures:item/phase_gauntlet_14"
+    },
+    {
+      "predicate": {
+        "superiorstructures:phase_gauntlet_charge": 4,
+        "superiorstructures:phase_gauntlet_gesture": 4
+      },
+      "model": "superiorstructures:item/phase_gauntlet_15"
+    }
+  ]
+}

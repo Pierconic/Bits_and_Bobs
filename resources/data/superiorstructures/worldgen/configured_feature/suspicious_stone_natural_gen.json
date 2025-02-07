@@ -1,0 +1,14 @@
+{
+  "type": "superiorstructures:suspicious_stone_natural_gen",
+  "config": {
+    "structure": "superiorstructures:suspicious_stone",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": "minecraft:structure_block",
+    "offset": [
+      0,
+      -1,
+      0
+    ]
+  }
+}

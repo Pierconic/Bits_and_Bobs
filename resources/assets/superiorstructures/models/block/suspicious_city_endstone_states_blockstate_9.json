@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/sus6e",
+  "textures": {
+    "all": "superiorstructures:block/endstone_prog_3",
+    "particle": "superiorstructures:block/endstone_prog_1",
+    "missing": "superiorstructures:block/endstone_prog_3"
+  },
+  "render_type": "solid"
+}

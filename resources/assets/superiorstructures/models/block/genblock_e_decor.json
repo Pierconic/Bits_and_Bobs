@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/small_genblock_outpost",
+  "textures": {
+    "all": "superiorstructures:block/genblock_decor_outpost",
+    "particle": "superiorstructures:block/genblock_decor_outpost",
+    "0": "superiorstructures:block/genblock_decor_outpost"
+  },
+  "render_type": "solid"
+}

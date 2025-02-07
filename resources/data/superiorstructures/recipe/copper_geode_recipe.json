@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "geodes",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:raw_copper"
+    },
+    "b": {
+      "item": "superiorstructures:geode"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:copper_geode",
+    "count": 1
+  }
+}

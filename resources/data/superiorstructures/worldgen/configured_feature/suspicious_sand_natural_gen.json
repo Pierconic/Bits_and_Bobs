@@ -1,0 +1,7 @@
+{
+  "type": "superiorstructures:suspicious_sand_natural_gen",
+  "config": {
+    "structure": "superiorstructures:suspicious_sand",
+    "ignored_blocks": "minecraft:structure_block"
+  }
+}

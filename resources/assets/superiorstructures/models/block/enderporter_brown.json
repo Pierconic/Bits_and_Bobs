@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/enderporterbrown",
+  "textures": {
+    "all": "superiorstructures:block/enderporter_black",
+    "particle": "superiorstructures:block/glass",
+    "0": "superiorstructures:block/enderporter_brown"
+  },
+  "render_type": "translucent"
+}

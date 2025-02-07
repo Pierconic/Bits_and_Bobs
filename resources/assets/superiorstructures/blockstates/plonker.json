@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "superiorstructures:block/plonker"
+    },
+    "facing=east": {
+      "model": "superiorstructures:block/plonker",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "superiorstructures:block/plonker",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "superiorstructures:block/plonker",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "superiorstructures:block/plonker",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "superiorstructures:block/plonker",
+      "x": 90
+    }
+  }
+}

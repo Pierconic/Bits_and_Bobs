@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:carved_pumpkin"
+    },
+    "title": {
+      "translate": "advancements.gourdgeous_carving.title"
+    },
+    "description": {
+      "translate": "advancements.gourdgeous_carving.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "gourdgeous_carving_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "minecraft:husbandry/plant_seed"
+}

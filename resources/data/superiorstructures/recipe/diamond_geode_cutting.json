@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "geode_cutting",
+  "ingredient": {
+    "item": "superiorstructures:diamond_geode"
+  },
+  "result": {
+    "id": "minecraft:diamond",
+    "count": 3
+  }
+}

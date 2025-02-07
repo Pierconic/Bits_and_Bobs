@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "superiorstructures:block/porcelainpurple",
+    "particle": "superiorstructures:block/porcelainpurple"
+  },
+  "render_type": "solid"
+}

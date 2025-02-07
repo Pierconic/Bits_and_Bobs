@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:jigsaw",
+  "start_pool": "superiorstructures:new_bastion",
+  "size": 7,
+  "max_distance_from_center": 128,
+  "spawn_overrides": {},
+  "step": "underground_structures",
+  "terrain_adaptation": "none",
+  "start_height": {
+    "type": "minecraft:uniform",
+    "min_inclusive": {
+      "absolute": 50
+    },
+    "max_inclusive": {
+      "absolute": 58
+    }
+  },
+  "biomes": [
+    "nether_wastes",
+    "crimson_forest",
+    "warped_forest"
+  ],
+  "use_expansion_hack": false
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "superiorstructures:block/copper_block",
+    "bottom": "superiorstructures:block/electrifiedcutcopper",
+    "top": "superiorstructures:block/electrifiedcutcopper",
+    "side": "superiorstructures:block/electrifiedcutcopper"
+  },
+  "render_type": "solid"
+}

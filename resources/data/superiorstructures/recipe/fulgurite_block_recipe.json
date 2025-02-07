@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:lightning_shard"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:fulgurite",
+    "count": 1
+  }
+}

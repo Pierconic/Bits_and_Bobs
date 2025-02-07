@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:exposed_copper_dagger",
+    "superiorstructures:weathered_copper_dagger",
+    "superiorstructures:oxidized_copper_dagger",
+    "superiorstructures:prismatic_dagger",
+    "superiorstructures:lightning_dagger",
+    "superiorstructures:copperdagger",
+    "superiorstructures:amethystdagger",
+    "superiorstructures:star_dagger"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:blue_rose",
+    "superiorstructures:soul_bulb",
+    "superiorstructures:spiteful_eye",
+    "superiorstructures:sculk_teeth",
+    "superiorstructures:burrowing_thorns",
+    "superiorstructures:warding_eyes",
+    "superiorstructures:tunerod_stem",
+    "superiorstructures:blooming_canticle",
+    "superiorstructures:canticle",
+    "superiorstructures:brambles",
+    "superiorstructures:bramble_block"
+  ]
+}

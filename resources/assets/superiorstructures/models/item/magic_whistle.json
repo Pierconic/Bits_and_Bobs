@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "superiorstructures:item/magic_whistle"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "cooldown": 0
+      },
+      "model": "superiorstructures:item/magic_whistle_0"
+    }
+  ]
+}

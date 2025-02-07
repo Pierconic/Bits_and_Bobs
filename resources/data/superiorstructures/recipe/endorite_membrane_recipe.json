@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "abc",
+    "adc",
+    "abc"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:raw_endorite"
+    },
+    "b": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "c": {
+      "item": "superiorstructures:endorite_ingot"
+    },
+    "d": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:endorite_membrane",
+    "count": 4
+  }
+}

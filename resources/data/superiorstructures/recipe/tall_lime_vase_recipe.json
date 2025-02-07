@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "lime_vases",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:lime_dye"
+    },
+    {
+      "item": "superiorstructures:tall_vase"
+    }
+  ],
+  "result": {
+    "id": "superiorstructures:tall_lime_vase",
+    "count": 1
+  }
+}

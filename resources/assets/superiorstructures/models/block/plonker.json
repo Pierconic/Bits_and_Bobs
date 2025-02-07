@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/plonkerbottom",
+    "up": "superiorstructures:block/plonkertop",
+    "north": "superiorstructures:block/plonkerfront",
+    "east": "superiorstructures:block/plonkerleft",
+    "south": "superiorstructures:block/plonkerback",
+    "west": "superiorstructures:block/plonkerright",
+    "particle": "superiorstructures:block/plonkerbottom"
+  },
+  "render_type": "solid"
+}

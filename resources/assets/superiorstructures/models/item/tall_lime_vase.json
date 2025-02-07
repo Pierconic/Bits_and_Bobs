@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "superiorstructures:item/talllimevase"
+  },
+  "render_type": "translucent"
+}

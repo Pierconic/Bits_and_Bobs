@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:oxidized_copper_trapdoor",
+    "superiorstructures:weathered_copper_trapdoor",
+    "superiorstructures:exposed_copper_trapdoor",
+    "superiorstructures:copper_trapdoor",
+    "superiorstructures:waxed_weathered_copper_trapdoor",
+    "superiorstructures:waxed_exposed_copper_trapdoor",
+    "superiorstructures:waxed_copper_trapdoor"
+  ]
+}

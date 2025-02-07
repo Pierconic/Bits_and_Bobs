@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:netherite_block",
+    "minecraft:ancient_debris",
+    "superiorstructures:block_of_ancient_machinery",
+    "superiorstructures:activated_block_of_ancient_machinery",
+    "minecraft:lodestone"
+  ]
+}

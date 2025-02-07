@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:enderporter_red",
+    "superiorstructures:enderporter_orange",
+    "superiorstructures:enderporter_yellow",
+    "superiorstructures:enderporter_lime",
+    "superiorstructures:enderporter_green",
+    "superiorstructures:enderporter_cyan",
+    "superiorstructures:enderporter_light_blue",
+    "superiorstructures:enderporter_blue",
+    "superiorstructures:enderporter_purple",
+    "superiorstructures:enderporter_magenta",
+    "superiorstructures:enderporter_pink",
+    "superiorstructures:enderporter_brown",
+    "superiorstructures:enderporter_light_gray",
+    "superiorstructures:enderporter_dark_gray",
+    "superiorstructures:enderporter_black"
+  ]
+}

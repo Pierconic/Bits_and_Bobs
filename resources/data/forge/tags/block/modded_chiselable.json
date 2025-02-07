@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:chiseled_tuff",
+    "superiorstructures:chiseled_tuff_bricks",
+    "superiorstructures:chiseled_black_porcelain",
+    "minecraft:chiseled_deepslate",
+    "minecraft:chiseled_polished_blackstone",
+    "minecraft:chiseled_sandstone",
+    "minecraft:chiseled_red_sandstone",
+    "minecraft:chiseled_nether_bricks",
+    "minecraft:chiseled_stone_bricks"
+  ]
+}

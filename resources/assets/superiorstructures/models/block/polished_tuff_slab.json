@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "superiorstructures:block/polished_tuff",
+    "bottom": "superiorstructures:block/polished_tuff",
+    "top": "superiorstructures:block/polished_tuff",
+    "side": "superiorstructures:block/polished_tuff"
+  },
+  "render_type": "solid"
+}

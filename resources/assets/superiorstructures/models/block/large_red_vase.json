@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/c-largeredvase",
+  "textures": {
+    "all": "superiorstructures:block/largeredvase",
+    "particle": "superiorstructures:block/porcelainred",
+    "2": "superiorstructures:block/largeredvase"
+  },
+  "render_type": "cutout"
+}

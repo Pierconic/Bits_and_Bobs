@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "superiorstructures:block/cosmelon"
+    },
+    "facing=east": {
+      "model": "superiorstructures:block/cosmelon",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "superiorstructures:block/cosmelon",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "superiorstructures:block/cosmelon",
+      "y": 270
+    }
+  }
+}

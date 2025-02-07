@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "taiga",
+  "features": "superiorstructures:taiga_village_frequency",
+  "step": "surface_structures"
+}

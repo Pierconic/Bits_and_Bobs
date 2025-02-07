@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:copper_bulb",
+    "superiorstructures:copper_bulb_lit_powered",
+    "superiorstructures:copper_bulb_powered",
+    "superiorstructures:copper_bulb_lit",
+    "superiorstructures:waxed_copper_bulb",
+    "superiorstructures:waxed_copper_bulb_lit_powered",
+    "superiorstructures:waxed_copper_bulb_powered",
+    "superiorstructures:waxed_copper_bulb_lit",
+    "superiorstructures:exposed_copper_bulb",
+    "superiorstructures:exposed_copper_bulb_lit_powered",
+    "superiorstructures:exposed_copper_bulb_powered",
+    "superiorstructures:exposed_copper_bulb_lit",
+    "superiorstructures:waxed_exposed_copper_bulb",
+    "superiorstructures:waxed_exposed_copper_bulb_lit_powered",
+    "superiorstructures:waxed_exposed_copper_bulb_powered",
+    "superiorstructures:waxed_exposed_copper_bulb_lit",
+    "superiorstructures:weathered_copper_bulb",
+    "superiorstructures:weathered_copper_bulb_lit_powered",
+    "superiorstructures:weathered_copper_bulb_powered",
+    "superiorstructures:weathered_copper_bulb_lit",
+    "superiorstructures:waxed_weathered_copper_bulb",
+    "superiorstructures:waxed_weathered_copper_bulb_lit_powered",
+    "superiorstructures:waxed_weathered_copper_bulb_powered",
+    "superiorstructures:waxed_weathered_copper_bulb_lit",
+    "superiorstructures:oxidized_copper_bulb",
+    "superiorstructures:oxidized_copper_bulb_lit_powered",
+    "superiorstructures:oxidized_copper_bulb_powered",
+    "superiorstructures:oxidized_copper_bulb_lit"
+  ]
+}

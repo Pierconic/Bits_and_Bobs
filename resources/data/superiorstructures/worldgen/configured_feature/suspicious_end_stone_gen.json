@@ -1,0 +1,7 @@
+{
+  "type": "superiorstructures:suspicious_end_stone_gen",
+  "config": {
+    "structure": "superiorstructures:suspicious_endstone",
+    "ignored_blocks": "minecraft:structure_block"
+  }
+}

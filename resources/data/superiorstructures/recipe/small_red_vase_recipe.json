@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "red_vases",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:red_dye"
+    },
+    {
+      "item": "superiorstructures:small_vase"
+    }
+  ],
+  "result": {
+    "id": "superiorstructures:small_red_vase",
+    "count": 1
+  }
+}

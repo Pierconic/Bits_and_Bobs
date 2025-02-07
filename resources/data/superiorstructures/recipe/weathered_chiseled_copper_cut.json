@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "copper_grates",
+  "ingredient": {
+    "item": "minecraft:weathered_copper"
+  },
+  "result": {
+    "id": "superiorstructures:weathered_chiseled_copper",
+    "count": 4
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "music_discs",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:disc_fragment_intro"
+    },
+    "b": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:intro",
+    "count": 1
+  }
+}

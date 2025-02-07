@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "tuff_bricks",
+  "ingredient": {
+    "item": "superiorstructures:tuff_bricks"
+  },
+  "result": {
+    "id": "superiorstructures:tuff_brick_slab",
+    "count": 2
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "superiorstructures:mineshaft",
+  "config": {
+    "structure": "superiorstructures:mineshaft",
+    "ignored_blocks": "minecraft:structure_block",
+    "offset": [
+      0,
+      2,
+      0
+    ]
+  }
+}

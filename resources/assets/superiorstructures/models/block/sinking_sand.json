@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/sinking_sand_top",
+    "up": "superiorstructures:block/sinking_sand_top",
+    "north": "superiorstructures:block/sinking_sand",
+    "east": "superiorstructures:block/sinking_sand",
+    "south": "superiorstructures:block/sinking_sand",
+    "west": "superiorstructures:block/sinking_sand",
+    "particle": "superiorstructures:block/sinking_sand_top"
+  },
+  "render_type": "solid"
+}

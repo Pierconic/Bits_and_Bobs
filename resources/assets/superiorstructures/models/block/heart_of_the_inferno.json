@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/heart_block",
+  "textures": {
+    "all": "superiorstructures:block/heart_of_the_inferno_top",
+    "particle": "superiorstructures:block/heart_of_the_inferno_top",
+    "0": "superiorstructures:block/heart_of_the_inferno"
+  },
+  "render_type": "solid"
+}

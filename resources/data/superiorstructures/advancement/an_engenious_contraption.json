@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "superiorstructures:ancient_machinery"
+    },
+    "title": {
+      "translate": "advancements.an_engenious_contraption.title"
+    },
+    "description": {
+      "translate": "advancements.an_engenious_contraption.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "an_engenious_contraption_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "superiorstructures:devious_machinations"
+}

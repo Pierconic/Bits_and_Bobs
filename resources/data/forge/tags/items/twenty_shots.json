@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:deactivated_flame_blaster_3",
+    "superiorstructures:deactivated_frost_blaster_3",
+    "superiorstructures:deactivated_hookshot",
+    "superiorstructures:warpshot",
+    "superiorstructures:deactivated_phase_blaster_1",
+    "superiorstructures:deactivated_phase_blaster_2"
+  ]
+}

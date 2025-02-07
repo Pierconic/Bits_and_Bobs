@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#is_end",
+  "features": "superiorstructures:suspicious_end_stone_gen",
+  "step": "surface_structures"
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "superiorstructures:custom/lydianpetals3",
+  "textures": {
+    "all": "superiorstructures:block/lydianpetalsmiddle3",
+    "particle": "superiorstructures:block/lydianpetalsmiddle2",
+    "5": "superiorstructures:block/lydianpetaltop3",
+    "6": "superiorstructures:block/lydianpetalsmiddle3",
+    "7": "superiorstructures:block/lydianpetalstem"
+  },
+  "render_type": "cutout_mipped"
+}

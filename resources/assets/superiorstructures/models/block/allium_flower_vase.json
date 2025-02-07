@@ -1,0 +1,10 @@
+{
+  "parent": "superiorstructures:custom/b-alliumvase",
+  "textures": {
+    "all": "superiorstructures:block/allium",
+    "particle": "superiorstructures:block/porcelain_plain",
+    "0": "superiorstructures:block/flowervase_1",
+    "1": "superiorstructures:block/allium"
+  },
+  "render_type": "cutout"
+}

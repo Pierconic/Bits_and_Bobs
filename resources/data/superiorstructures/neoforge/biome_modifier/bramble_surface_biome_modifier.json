@@ -1,0 +1,12 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "old_growth_pine_taiga",
+    "old_growth_spruce_taiga",
+    "wooded_badlands",
+    "mangrove_swamp",
+    "dark_forest"
+  ],
+  "features": "superiorstructures:bramble_surface",
+  "step": "surface_structures"
+}

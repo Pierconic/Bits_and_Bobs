@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "red_pottery",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:red_ceramic_shard"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:small_red_pot",
+    "count": 1
+  }
+}

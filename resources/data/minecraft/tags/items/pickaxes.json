@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "superiorstructures:oxidized_copper_brush",
+    "superiorstructures:weathered_copper_brush",
+    "superiorstructures:exposed_copper_brush",
+    "superiorstructures:copper_brush",
+    "superiorstructures:deactivated_power_drill_3",
+    "superiorstructures:deactivated_power_drill_2",
+    "superiorstructures:deactivated_power_drill_1"
+  ]
+}

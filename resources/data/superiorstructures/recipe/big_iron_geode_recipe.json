@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "big_geodes",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:raw_iron"
+    },
+    "b": {
+      "item": "superiorstructures:big_geode"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:big_iron_geode",
+    "count": 1
+  }
+}

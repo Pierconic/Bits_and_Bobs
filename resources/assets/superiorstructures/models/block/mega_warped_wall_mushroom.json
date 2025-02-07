@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/warpedfugus4",
+  "textures": {
+    "all": "superiorstructures:block/warped_fungus",
+    "particle": "superiorstructures:block/warped_fungus",
+    "0": "superiorstructures:block/warpedfungus"
+  },
+  "render_type": "cutout"
+}

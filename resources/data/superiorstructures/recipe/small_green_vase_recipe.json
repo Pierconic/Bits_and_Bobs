@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "green_vases",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:green_dye"
+    },
+    {
+      "item": "superiorstructures:small_vase"
+    }
+  ],
+  "result": {
+    "id": "superiorstructures:small_green_vase",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/c-largemagentavase",
+  "textures": {
+    "all": "superiorstructures:block/largemagentavase",
+    "particle": "superiorstructures:block/porcelain_magenta",
+    "2": "superiorstructures:block/largemagentavase"
+  },
+  "render_type": "cutout"
+}

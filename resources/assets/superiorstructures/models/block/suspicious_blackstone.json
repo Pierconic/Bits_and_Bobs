@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/blackstone_prog_1",
+    "up": "superiorstructures:block/blackstone_top",
+    "north": "superiorstructures:block/blackstone_prog_1",
+    "east": "superiorstructures:block/blackstone_prog_1",
+    "south": "superiorstructures:block/blackstone_prog_1",
+    "west": "superiorstructures:block/blackstone_prog_1",
+    "particle": "superiorstructures:block/blackstone_prog_1"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "superiorstructures:custom/blue_rose_pot",
+  "textures": {
+    "all": "superiorstructures:block/flower_pot",
+    "particle": "superiorstructures:block/flower_pot",
+    "0": "superiorstructures:block/flower_pot",
+    "1": "superiorstructures:block/eye_1",
+    "2": "superiorstructures:block/blue_rose"
+  },
+  "render_type": "cutout_mipped"
+}

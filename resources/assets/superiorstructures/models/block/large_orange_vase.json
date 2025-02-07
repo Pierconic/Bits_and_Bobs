@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/c-largeorangevase",
+  "textures": {
+    "all": "superiorstructures:block/largeorangevase",
+    "particle": "superiorstructures:block/porcelain_orange",
+    "2": "superiorstructures:block/largeorangevase"
+  },
+  "render_type": "cutout"
+}

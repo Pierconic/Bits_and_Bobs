@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/flamestone_top",
+    "up": "superiorstructures:block/flamestone_top",
+    "north": "superiorstructures:block/flamestone_front",
+    "east": "superiorstructures:block/flamestone_side",
+    "south": "superiorstructures:block/flamestone_top",
+    "west": "superiorstructures:block/flamestone_side_b",
+    "particle": "superiorstructures:block/flamestone_top"
+  },
+  "render_type": "solid"
+}

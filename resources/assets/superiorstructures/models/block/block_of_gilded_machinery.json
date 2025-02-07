@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "superiorstructures:block/gilded_machinery_off",
+    "particle": "superiorstructures:block/gilded_machinery_off"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/small_genblock_mansion",
+  "textures": {
+    "all": "superiorstructures:block/genblock_decor_mansion",
+    "particle": "superiorstructures:block/genblock_decor_mansion",
+    "0": "superiorstructures:block/genblock_decor_mansion"
+  },
+  "render_type": "solid"
+}

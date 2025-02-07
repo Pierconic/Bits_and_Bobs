@@ -1,0 +1,12 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "plains",
+    "snowy_plains",
+    "savanna",
+    "taiga",
+    "meadow"
+  ],
+  "features": "superiorstructures:village",
+  "step": "surface_structures"
+}

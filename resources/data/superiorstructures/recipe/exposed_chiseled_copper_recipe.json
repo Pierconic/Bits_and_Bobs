@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chiseled_copper",
+  "category": "building",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:exposed_cut_copper_slab"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:exposed_chiseled_copper",
+    "count": 1
+  }
+}

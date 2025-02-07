@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:dispenser",
+    "minecraft:dropper",
+    "minecraft:observer",
+    "minecraft:end_rod",
+    "minecraft:lightning_rod",
+    "minecraft:piston",
+    "minecraft:sticky_piston",
+    "minecraft:chain",
+    "minecraft:deepslate",
+    "superiorstructures:copper_pipe",
+    "superiorstructures:dormant_flamestone",
+    "superiorstructures:active_flamestone",
+    "superiorstructures:plonker",
+    "superiorstructures:activated_plonker",
+    "superiorstructures:muncher",
+    "superiorstructures:activated_muncher",
+    "superiorstructures:deactivated_fan",
+    "superiorstructures:deactivated_fan_2",
+    "superiorstructures:deactivated_fan_3"
+  ]
+}

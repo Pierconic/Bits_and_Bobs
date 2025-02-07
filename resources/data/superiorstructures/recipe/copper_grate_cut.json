@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "copper_grates",
+  "ingredient": {
+    "item": "minecraft:copper_block"
+  },
+  "result": {
+    "id": "superiorstructures:copper_grate",
+    "count": 4
+  }
+}

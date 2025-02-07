@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "abc",
+    "dee",
+    "abc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:redstone"
+    },
+    "b": {
+      "item": "superiorstructures:gilded_machinery"
+    },
+    "c": {
+      "item": "minecraft:gold_ingot"
+    },
+    "d": {
+      "item": "minecraft:dispenser"
+    },
+    "e": {
+      "item": "minecraft:netherite_scrap"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:muncher",
+    "count": 1
+  }
+}

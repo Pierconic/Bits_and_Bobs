@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "superiorstructures:chakram"
+    },
+    "title": {
+      "translate": "advancements.son_of_flynn.title"
+    },
+    "description": {
+      "translate": "advancements.son_of_flynn.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "son_of_flynn_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "minecraft:nether/obtain_blaze_rod"
+}

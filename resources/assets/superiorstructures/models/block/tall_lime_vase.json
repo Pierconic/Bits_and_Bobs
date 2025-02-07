@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/c-talllimevase",
+  "textures": {
+    "all": "superiorstructures:block/talllimevase",
+    "particle": "superiorstructures:block/porcelainlime",
+    "3": "superiorstructures:block/talllimevase"
+  },
+  "render_type": "cutout"
+}

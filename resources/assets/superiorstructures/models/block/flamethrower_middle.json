@@ -1,0 +1,9 @@
+{
+  "parent": "superiorstructures:custom/flamemiddle",
+  "textures": {
+    "all": "superiorstructures:block/flamemiddle",
+    "particle": "superiorstructures:block/flamemiddle",
+    "missing": "superiorstructures:block/flamemiddle"
+  },
+  "render_type": "cutout_mipped"
+}

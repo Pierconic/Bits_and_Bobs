@@ -1,0 +1,89 @@
+{
+  "loader": "neoforge:separate_transforms",
+  "gui_light": "front",
+  "base": {
+    "parent": "superiorstructures:custom/spear_new",
+    "textures": {
+      "0": "superiorstructures:block/amethystspearentity"
+    },
+    "display": {
+      "thirdperson_righthand": {
+		"rotation": [
+          -0,
+          -27,
+          -0
+        ],
+        "translation": [
+          0,
+          -5.75,
+          2
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "thirdperson_lefthand": {
+		"rotation": [
+          -0,
+          -27,
+          -0
+        ],
+        "translation": [
+          -1,
+          -5.75,
+          2
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "firstperson_righthand": {
+        "rotation": [
+          -9,
+          -15,
+          -0
+        ],
+        "translation": [
+          3.5,
+          -8,
+          0
+        ]
+      },
+      "firstperson_lefthand": {
+        "rotation": [
+          -9,
+          15,
+          -0
+        ],
+        "translation": [
+          3.5,
+          -8,
+          0
+        ]
+      }
+    }
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "item/generated",
+      "textures": {
+        "layer0": "superiorstructures:item/amethystspear"
+      },
+      "gui_light": "front"
+    },
+    "ground": {
+    	"parent": "item/generated",
+      "textures": {
+        "layer0": "superiorstructures:item/amethystspear"}
+    },
+    "fixed": {
+    	"parent": "item/generated",
+      "textures": {
+        "layer0": "superiorstructures:item/amethystspear"}
+    }
+  }
+}

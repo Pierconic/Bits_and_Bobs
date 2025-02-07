@@ -1,0 +1,8 @@
+{
+  "comparator_output": 11,
+  "description": {
+    "translate": "item.superiorstructures.eleven_repaired.desc"
+  },
+  "length_in_seconds": 70,
+  "sound_event": "superiorstructures:eleven_repaired"
+}

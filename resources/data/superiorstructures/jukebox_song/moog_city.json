@@ -1,0 +1,8 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "item.superiorstructures.moog_city.desc"
+  },
+  "length_in_seconds": 160,
+  "sound_event": "superiorstructures:moogcity"
+}

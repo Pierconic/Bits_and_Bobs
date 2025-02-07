@@ -1,0 +1,8 @@
+{
+  "comparator_output": 2,
+  "description": {
+    "translate": "item.superiorstructures.two.desc"
+  },
+  "length_in_seconds": 42,
+  "sound_event": "superiorstructures:two"
+}

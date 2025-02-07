@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "superiorstructures:porcelain_tile"
+    },
+    "title": {
+      "translate": "advancements.ravager_in_a_china_shop.title"
+    },
+    "description": {
+      "translate": "advancements.ravager_in_a_china_shop.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "ravager_in_a_china_shop_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "superiorstructures:harry_pottery"
+}

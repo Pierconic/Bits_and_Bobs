@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:disc_fragment_5"
+    },
+    "b": {
+      "item": "minecraft:echo_shard"
+    }
+  },
+  "result": {
+    "id": "minecraft:music_disc_5",
+    "count": 1
+  }
+}

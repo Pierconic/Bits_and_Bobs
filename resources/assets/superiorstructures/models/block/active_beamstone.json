@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/beamstoneother",
+    "up": "superiorstructures:block/beamstoneother",
+    "north": "superiorstructures:block/beamstoneactive",
+    "east": "superiorstructures:block/beamstoneside",
+    "south": "superiorstructures:block/beamstoneother",
+    "west": "superiorstructures:block/beamstoneright",
+    "particle": "superiorstructures:block/beamstoneother"
+  },
+  "render_type": "solid"
+}

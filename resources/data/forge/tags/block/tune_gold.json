@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:gold_ore",
+    "minecraft:deepslate_gold_ore",
+    "minecraft:nether_gold_ore",
+    "minecraft:raw_gold_block",
+    "minecraft:gold_block",
+    "superiorstructures:block_of_gilded_machinery",
+    "superiorstructures:activated_block_of_gilded_machinery",
+    "minecraft:gilded_blackstone"
+  ]
+}

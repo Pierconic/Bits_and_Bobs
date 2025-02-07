@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "white_pottery",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "superiorstructures:white_ceramic_shard"
+    }
+  },
+  "result": {
+    "id": "superiorstructures:tall_white_pot",
+    "count": 1
+  }
+}

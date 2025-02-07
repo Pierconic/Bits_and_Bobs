@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/pumpkin_top",
+    "up": "superiorstructures:block/pumpkin_top",
+    "north": "superiorstructures:block/starry_carved_pumpkin",
+    "east": "superiorstructures:block/starry_carved_pumpkin_side",
+    "south": "superiorstructures:block/starry_carved_pumpkin_side",
+    "west": "superiorstructures:block/starry_carved_pumpkin_side",
+    "particle": "superiorstructures:block/pumpkin_top"
+  },
+  "render_type": "solid"
+}

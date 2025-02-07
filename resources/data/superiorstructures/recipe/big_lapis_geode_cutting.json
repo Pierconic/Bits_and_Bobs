@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "big_geode_cutting",
+  "ingredient": {
+    "item": "superiorstructures:big_lapis_geode"
+  },
+  "result": {
+    "id": "minecraft:lapis_lazuli",
+    "count": 16
+  }
+}

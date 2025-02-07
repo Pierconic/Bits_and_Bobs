@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/puzzle_box_bottom_0",
+    "up": "superiorstructures:block/puzzle_box_top_0",
+    "north": "superiorstructures:block/puzzle_box_front_0",
+    "east": "superiorstructures:block/puzzle_box_left_0",
+    "south": "superiorstructures:block/puzzle_box_back_0",
+    "west": "superiorstructures:block/puzzle_box_right_0",
+    "particle": "superiorstructures:block/puzzle_box_bottom_0"
+  },
+  "render_type": "solid"
+}

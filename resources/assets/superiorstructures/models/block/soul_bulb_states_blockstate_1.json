@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "superiorstructures:block/soul_bulb_3",
+    "particle": "superiorstructures:block/eye_1"
+  },
+  "render_type": "cutout_mipped"
+}

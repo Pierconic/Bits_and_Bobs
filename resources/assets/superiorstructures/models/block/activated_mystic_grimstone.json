@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superiorstructures:block/mystic_grimstone_top",
+    "up": "superiorstructures:block/mystic_grimstone_top",
+    "north": "superiorstructures:block/mystic_grimstone_activated",
+    "east": "superiorstructures:block/mystic_grimstone_activated",
+    "south": "superiorstructures:block/mystic_grimstone_activated",
+    "west": "superiorstructures:block/mystic_grimstone_activated",
+    "particle": "superiorstructures:block/mystic_grimstone_top"
+  },
+  "render_type": "solid"
+}
