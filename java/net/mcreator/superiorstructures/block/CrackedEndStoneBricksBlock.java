@@ -12,7 +12,7 @@ import net.minecraft.core.BlockPos;
 
 public class CrackedEndStoneBricksBlock extends Block {
 	public CrackedEndStoneBricksBlock() {
-		super(BlockBehaviour.Properties.of().instrument(NoteBlockInstrument.BASEDRUM).mapColor(MapColor.SAND).sound(SoundType.STONE).strength(3f, 10f).requiresCorrectToolForDrops());
+		super(BlockBehaviour.Properties.of().instrument(NoteBlockInstrument.BASEDRUM).mapColor(MapColor.SAND).sound(SoundType.STONE).strength(4f, 10f).requiresCorrectToolForDrops());
 	}
 
 	@Override
