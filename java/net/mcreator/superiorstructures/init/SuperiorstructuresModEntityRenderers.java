@@ -28,6 +28,7 @@ import net.mcreator.superiorstructures.client.renderer.PhaseOrbRenderer;
 import net.mcreator.superiorstructures.client.renderer.OxidizedCopperSpearProjectileRenderer;
 import net.mcreator.superiorstructures.client.renderer.NewIronGolemRenderer;
 import net.mcreator.superiorstructures.client.renderer.MineshaftCenterRenderer;
+import net.mcreator.superiorstructures.client.renderer.MelonLordRenderer;
 import net.mcreator.superiorstructures.client.renderer.LightningSpearProjectileRenderer;
 import net.mcreator.superiorstructures.client.renderer.HostileBeamProjectileRenderer;
 import net.mcreator.superiorstructures.client.renderer.HookshotBallRenderer;
@@ -178,5 +179,6 @@ public class SuperiorstructuresModEntityRenderers {
 		event.registerEntityRenderer(SuperiorstructuresModEntities.ANGRY_ACOLYTE.get(), AngryAcolyteRenderer::new);
 		event.registerEntityRenderer(SuperiorstructuresModEntities.DORMANT_IRON_GOLEM.get(), DormantIronGolemRenderer::new);
 		event.registerEntityRenderer(SuperiorstructuresModEntities.PUZZLE_PEG.get(), PuzzlePegRenderer::new);
+		event.registerEntityRenderer(SuperiorstructuresModEntities.MELON_LORD.get(), MelonLordRenderer::new);
 	}
 }

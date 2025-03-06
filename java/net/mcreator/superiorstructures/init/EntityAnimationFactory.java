@@ -7,6 +7,7 @@ import net.neoforged.bus.api.SubscribeEvent;
 import net.mcreator.superiorstructures.entity.SpecterEntity;
 import net.mcreator.superiorstructures.entity.SaddledGoldenGolemEntity;
 import net.mcreator.superiorstructures.entity.NewIronGolemEntity;
+import net.mcreator.superiorstructures.entity.MelonLordEntity;
 import net.mcreator.superiorstructures.entity.HollowEntity;
 import net.mcreator.superiorstructures.entity.GrazerEntity;
 import net.mcreator.superiorstructures.entity.GoldenGolemEntity;
@@ -132,6 +133,13 @@ public class EntityAnimationFactory {
 				}
 			}
 			if (event.getEntity() instanceof DormantIronGolemEntity syncable) {
+				String animation = syncable.getSyncedAnimation();
+				if (!animation.equals("undefined")) {
+					syncable.setAnimation("undefined");
+					syncable.animationprocedure = animation;
+				}
+			}
+			if (event.getEntity() instanceof MelonLordEntity syncable) {
 				String animation = syncable.getSyncedAnimation();
 				if (!animation.equals("undefined")) {
 					syncable.setAnimation("undefined");

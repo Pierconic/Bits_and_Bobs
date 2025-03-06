@@ -34,6 +34,7 @@ import net.mcreator.superiorstructures.entity.PhaseOrbEntity;
 import net.mcreator.superiorstructures.entity.OxidizedCopperSpearProjectileEntity;
 import net.mcreator.superiorstructures.entity.NewIronGolemEntity;
 import net.mcreator.superiorstructures.entity.MineshaftCenterEntity;
+import net.mcreator.superiorstructures.entity.MelonLordEntity;
 import net.mcreator.superiorstructures.entity.LightningSpearProjectileEntity;
 import net.mcreator.superiorstructures.entity.LightningProjectileProjectileEntity;
 import net.mcreator.superiorstructures.entity.HostileBeamProjectileEntity;
@@ -295,6 +296,10 @@ public class SuperiorstructuresModEntities {
 					.sized(0.7f, 2.2f));
 	public static final DeferredHolder<EntityType<?>, EntityType<PuzzlePegEntity>> PUZZLE_PEG = register("puzzle_peg",
 			EntityType.Builder.<PuzzlePegEntity>of(PuzzlePegEntity::new, MobCategory.MONSTER).setShouldReceiveVelocityUpdates(true).setTrackingRange(32).setUpdateInterval(3).fireImmune().sized(0f, 0.3f));
+	public static final DeferredHolder<EntityType<?>, EntityType<MelonLordEntity>> MELON_LORD = register("melon_lord",
+			EntityType.Builder.<MelonLordEntity>of(MelonLordEntity::new, MobCategory.MONSTER).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3)
+
+					.sized(0.6f, 1.4f));
 
 	// Start of user code block custom entities
 	// End of user code block custom entities
@@ -349,6 +354,7 @@ public class SuperiorstructuresModEntities {
 		AngryAcolyteEntity.init(event);
 		DormantIronGolemEntity.init(event);
 		PuzzlePegEntity.init(event);
+		MelonLordEntity.init(event);
 	}
 
 	@SubscribeEvent
@@ -398,5 +404,6 @@ public class SuperiorstructuresModEntities {
 		event.put(ANGRY_ACOLYTE.get(), AngryAcolyteEntity.createAttributes().build());
 		event.put(DORMANT_IRON_GOLEM.get(), DormantIronGolemEntity.createAttributes().build());
 		event.put(PUZZLE_PEG.get(), PuzzlePegEntity.createAttributes().build());
+		event.put(MELON_LORD.get(), MelonLordEntity.createAttributes().build());
 	}
 }

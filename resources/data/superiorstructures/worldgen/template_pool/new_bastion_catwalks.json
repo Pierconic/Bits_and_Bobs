@@ -1,12 +1,12 @@
 {
-  "name": "superiorstructures:new_bastion_pits",
+  "name": "superiorstructures:new_bastion_catwalks",
   "fallback": "minecraft:empty",
   "elements": [
     {
       "weight": 1,
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "superiorstructures:bastion_pit_1",
+        "location": "superiorstructures:bastion_catwalk_1",
         "projection": "rigid",
         "processors": {
           "processors": []
