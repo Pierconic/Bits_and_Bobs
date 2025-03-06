@@ -1,0 +1,5 @@
+MINDTHEMOOD's BITS & BOBS is the core of Mindthemood's Marvelous Modpack; and has come to accumulate a variety of misselaneous, loosely interconnected features, namely an Archeology system, an assosiated Artificery system, and most recently, overhauled vanilla structures with advanced (extremely messily coded) procedural generation methods. 
+
+As a GENERAL DISCLAIMER, this project was made using MCreator generated code alongside custom coded elements, and is generally a bit of a mess. Barring any game-breaking issues, I'm not particularly concerned with optimization. MCreator has an organizational system on its end, but just sort of dumps stuff into default folders when it compiles... which is not to say the project is organized on my end, but it's even less organized here, and you've been warned.
+
+Finally, if you for some reason want to use this version of the project instead of the release on Curseforge, keep in mind this is more frequently updated with WIP features, and might contain unfinished stuff, (namely related to the nether structures), that's disabled in the public release.
